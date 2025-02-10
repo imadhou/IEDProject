@@ -1,0 +1,770 @@
+Rank	Movie	Release Date	Theatrical Distributor	MPAA Rating	Gross	Tickets Sold	Gender
+1	What Lies Beneath	2000-07-21	Dreamworks SKG	PG-13	$155,464,351	28,843,107	Thriller-or-Suspense
+2	Unbreakable	2000-11-22	Walt Disney	PG-13	$90,033,796	16,703,858	Thriller-or-Suspense
+3	The Cell	2000-08-18	New Line	R	$61,280,963	11,369,380	Thriller-or-Suspense
+4	Vertical Limit	2000-12-08	Sony Pictures	PG-13	$51,880,114	9,625,253	Thriller-or-Suspense
+5	Frequency	2000-04-28	New Line	PG-13	$44,983,704	8,345,770	Thriller-or-Suspense
+6	The Talented Mr. Ripley	1999-12-24	Paramount Pictures	R	$41,520,486	7,703,244	Thriller-or-Suspense
+7	The Skulls	2000-03-31	Universal	PG-13	$35,007,180	6,494,838	Thriller-or-Suspense
+8	The Art of War	2000-08-25	Warner Bros.	R	$30,199,105	5,602,802	Thriller-or-Suspense
+9	The Watcher	2000-09-08	Universal	R	$28,946,615	5,370,429	Thriller-or-Suspense
+10	The Ninth Gate	2000-03-10	Artisan	R	$18,653,746	3,460,806	Thriller-or-Suspense
+11	The Contender	2000-10-13	Dreamworks SKG	R	$17,804,273	3,303,204	Thriller-or-Suspense
+12	The Sixth Sense	1999-08-06	Walt Disney	PG-13	$17,119,797	3,176,214	Thriller-or-Suspense
+13	Eye of the Beholder	2000-01-28	Destination Films	R	$16,500,786	3,061,370	Thriller-or-Suspense
+14	Supernova	2000-01-14	MGM	PG-13	$14,218,868	2,638,008	Thriller-or-Suspense
+15	The In Crowd	2000-07-19	Warner Bros.	PG-13	$5,217,498	967,995	Thriller-or-Suspense
+16	The Bone Collector	1999-11-05	Universal	R	$2,699,820	500,894	Thriller-or-Suspense
+17	Blood Simple	1985-01-18	USA Films	R	$1,690,913	313,712	Thriller-or-Suspense
+18	Trois	2000-02-11	Rainforest Produc…	NC-17	$1,161,843	215,555	Thriller-or-Suspense
+19	Du rififi chez les hommes	1956-06-05		Not Rated	$418,016	77,553	Thriller-or-Suspense
+20	Under Suspicion	2000-09-22		R	$332,235	61,639	Thriller-or-Suspense
+21	Baise-moi	2000-09-15		Not Rated	$287,138	53,272	Thriller-or-Suspense
+22	Deterrence	2000-03-10		R	$144,583	26,824	Thriller-or-Suspense
+23	With a Friend Like Harry	2000-10-13	Miramax	R	$137,515	25,512	Thriller-or-Suspense
+24	Lola rennt	1999-06-18	Sony Pictures Cla…	R	$70,231	13,029	Thriller-or-Suspense
+25	Taboo	2000-10-06		Not Rated	$51,347	9,526	Thriller-or-Suspense
+26	The Gift	2000-12-19	Paramount Vantage	R	$43,475	8,065	Thriller-or-Suspense
+27	The Thomas Crown Affair	1999-08-06	MGM	R	$21,895	4,062	Thriller-or-Suspense
+28	Buddy Boy	2000-03-24	Fine Line	R	$10,281	1,907	Thriller-or-Suspense
+29	Circus	2000-09-15	Sony Pictures	R	$8,406	1,559	Thriller-or-Suspense
+30	The Quarry	2000-01-21	First Run Features	Not Rated	$3,350	621	Thriller-or-Suspense
+31	Brown's Requiem	2000-02-25	Avalanche Releasing	R	$3,077	570	Thriller-or-Suspense
+32	Placebo Effect	2000-01-21	Phaedra Cinema	Not Rated	$1,190	220	Thriller-or-Suspense
+1	Ocean's Eleven	2001-12-07	Warner Bros.	PG-13	$151,967,372	26,849,359	Thriller-or-Suspense
+2	Vanilla Sky	2001-12-14	Paramount Pictures	R	$81,080,174	14,325,119	Thriller-or-Suspense
+3	Training Day	2001-10-05	Warner Bros.	R	$76,261,036	13,473,681	Thriller-or-Suspense
+4	Along Came a Spider	2001-04-06	Paramount Pictures	R	$74,058,698	13,084,575	Thriller-or-Suspense
+5	The Score	2001-07-13	Paramount Pictures	R	$71,069,884	12,556,516	Thriller-or-Suspense
+6	Don’t Say a Word	2001-09-28	20th Century Fox	R	$54,950,408	9,708,552	Thriller-or-Suspense
+7	Domestic Disturbance	2001-11-02	Paramount Pictures	PG-13	$44,791,627	7,913,715	Thriller-or-Suspense
+8	From Hell	2001-10-19	20th Century Fox	R	$31,519,795	5,568,868	Thriller-or-Suspense
+9	Memento	2001-03-16	Newmarket Films	R	$25,544,867	4,513,227	Thriller-or-Suspense
+10	15 Minutes	2001-03-09	New Line	R	$24,375,436	4,306,614	Thriller-or-Suspense
+11	Joy Ride	2001-10-05	20th Century Fox	R	$21,973,182	3,882,187	Thriller-or-Suspense
+12	The Pledge	2001-01-19	Warner Bros.	R	$19,719,930	3,484,086	Thriller-or-Suspense
+13	The Last Castle	2001-10-19	Dreamworks SKG	R	$18,208,078	3,216,974	Thriller-or-Suspense
+14	The Glass House	2001-09-14	Sony Pictures	PG-13	$17,951,431	3,171,630	Thriller-or-Suspense
+15	Vertical Limit	2000-12-08	Sony Pictures	PG-13	$16,593,246	2,931,668	Thriller-or-Suspense
+16	Original Sin	2001-08-03	MGM	R	$16,521,410	2,918,977	Thriller-or-Suspense
+17	The Tailor of Panama	2001-03-30	Sony Pictures	R	$13,491,653	2,383,684	Thriller-or-Suspense
+18	The Gift	2000-12-19	Paramount Vantage	R	$11,965,167	2,113,987	Thriller-or-Suspense
+19	Antitrust	2001-01-12	MGM	PG-13	$10,965,209	1,937,316	Thriller-or-Suspense
+20	The Deep End	2001-08-08	Fox Searchlight	R	$8,823,109	1,558,853	Thriller-or-Suspense
+21	Mulholland Drive	2001-10-08	Universal	R	$5,780,033	1,021,207	Thriller-or-Suspense
+22	Unbreakable	2000-11-22	Walt Disney	PG-13	$4,965,347	877,269	Thriller-or-Suspense
+23	With a Friend Like Harry	2000-10-13	Miramax	R	$4,036,980	713,247	Thriller-or-Suspense
+24	Impostor	2002-01-04	Miramax	PG-13	$3,022,523	534,014	Thriller-or-Suspense
+25	Brigham City	2001-04-06	Excel Entertainment	PG-13	$852,206	150,566	Thriller-or-Suspense
+26	Brother	2001-07-20	Sony Pictures Cla…	R	$450,594	79,610	Thriller-or-Suspense
+27	Baise-moi	2000-09-15		Not Rated	$127,857	22,589	Thriller-or-Suspense
+28	Taboo	2000-10-06		Not Rated	$80,480	14,219	Thriller-or-Suspense
+29	Une affaire de goût	2001-02-02	Attitude Films	Not Rated	$48,602	8,586	Thriller-or-Suspense
+30	The Body	2001-04-20	Avalanche Releasing	PG-13	$33,565	5,930	Thriller-or-Suspense
+31	Du rififi chez les hommes	1956-06-05		Not Rated	$15,945	2,817	Thriller-or-Suspense
+32	Fever	2001-02-02		R	$4,068	718	Thriller-or-Suspense
+33	Under Suspicion	2000-09-22		R	$2,010	355	Thriller-or-Suspense
+34	Protection	2001-01-26		Not Rated	$666	117	Thriller-or-Suspense
+1	Signs	2002-08-02	Walt Disney	PG-13	$227,750,028	39,199,660	Thriller-or-Suspense
+2	The Bourne Identity	2002-06-14	Universal	PG-13	$121,468,960	20,906,877	Thriller-or-Suspense
+3	Panic Room	2002-03-29	Sony Pictures	R	$95,308,367	16,404,193	Thriller-or-Suspense
+4	Red Dragon	2002-10-04	Universal	R	$92,955,420	15,999,211	Thriller-or-Suspense
+5	John Q.	2002-02-15	New Line	PG-13	$71,026,631	12,224,893	Thriller-or-Suspense
+6	Insomnia	2002-05-24	Warner Bros.	R	$67,263,182	11,577,139	Thriller-or-Suspense
+7	Changing Lanes	2002-04-12	Paramount Pictures	R	$66,790,248	11,495,739	Thriller-or-Suspense
+8	Unfaithful	2002-05-08	20th Century Fox	R	$52,752,475	9,079,599	Thriller-or-Suspense
+9	High Crimes	2002-04-05	20th Century Fox	PG-13	$41,543,207	7,150,293	Thriller-or-Suspense
+10	Enough	2002-05-24	Sony Pictures	PG-13	$39,177,215	6,743,066	Thriller-or-Suspense
+11	Murder by Numbers	2002-04-19	Warner Bros.	R	$31,874,869	5,486,208	Thriller-or-Suspense
+12	One Hour Photo	2002-08-21	Fox Searchlight	R	$31,597,131	5,438,404	Thriller-or-Suspense
+13	Ocean's Eleven	2001-12-07	Warner Bros.	PG-13	$31,449,778	5,413,042	Thriller-or-Suspense
+14	Dragonfly	2002-02-22	Universal	PG-13	$30,063,805	5,174,493	Thriller-or-Suspense
+15	Swimfan	2002-09-06	20th Century Fox	PG-13	$28,564,995	4,916,522	Thriller-or-Suspense
+16	Blood Work	2002-08-09	Warner Bros.	R	$26,199,517	4,509,383	Thriller-or-Suspense
+17	Vanilla Sky	2001-12-14	Paramount Pictures	R	$19,534,684	3,362,251	Thriller-or-Suspense
+18	Frailty	2002-04-12	Lionsgate	R	$13,110,448	2,256,531	Thriller-or-Suspense
+19	Abandon	2002-10-18	Paramount Pictures	PG-13	$10,719,367	1,844,985	Thriller-or-Suspense
+20	Trapped	2002-09-20	Sony Pictures	R	$6,916,869	1,190,511	Thriller-or-Suspense
+21	Femme Fatale	2002-11-06	Warner Bros.	R	$6,630,252	1,141,179	Thriller-or-Suspense
+22	The Truth About Charlie	2002-10-25	Universal	PG-13	$5,303,000	912,736	Thriller-or-Suspense
+23	Birthday Girl	2002-02-01	Miramax	R	$4,919,896	846,797	Thriller-or-Suspense
+24	Enigma	2002-04-19	Miramax	R	$4,298,329	739,815	Thriller-or-Suspense
+25	Impostor	2002-01-04	Miramax	PG-13	$3,091,714	532,136	Thriller-or-Suspense
+26	Mulholland Drive	2001-10-08	Universal	R	$1,439,545	247,770	Thriller-or-Suspense
+27	Pandora's Box	2002-08-09	Kino International	R	$881,950	151,798	Thriller-or-Suspense
+28	Heaven	2002-10-04	Miramax	R	$774,317	133,273	Thriller-or-Suspense
+29	The Salton Sea	2002-04-26	Warner Bros.	R	$676,698	116,471	Thriller-or-Suspense
+30	Domestic Disturbance	2001-11-02	Paramount Pictures	PG-13	$415,485	71,512	Thriller-or-Suspense
+31	Narc	2002-12-20	Paramount Pictures	R	$315,168	54,245	Thriller-or-Suspense
+32	Road	2002-09-27		Not Rated	$107,676	18,532	Thriller-or-Suspense
+33	From Hell	2001-10-19	20th Century Fox	R	$78,513	13,513	Thriller-or-Suspense
+34	The Bank	2002-09-06	Cinema Guild	Not Rated	$52,421	9,022	Thriller-or-Suspense
+35	Interview with the Assassin	2002-11-15		R	$47,329	8,146	Thriller-or-Suspense
+36	Don’t Say a Word	2001-09-28	20th Century Fox	R	$47,068	8,101	Thriller-or-Suspense
+37	Gangster No. 1	2002-06-14	IFC Films	R	$30,915	5,320	Thriller-or-Suspense
+38	Revolution#9	2002-11-15		Not Rated	$9,118	1,569	Thriller-or-Suspense
+39	Blackwoods	2002-05-10	ThinkFilm	R	$1,500	258	Thriller-or-Suspense
+1	The Recruit	2003-01-31	Walt Disney	PG-13	$52,784,696	8,753,680	Thriller-or-Suspense
+2	Identity	2003-04-25	Sony Pictures	R	$52,131,264	8,645,317	Thriller-or-Suspense
+3	Runaway Jury	2003-10-17	20th Century Fox	PG-13	$49,022,597	8,129,783	Thriller-or-Suspense
+4	Phone Booth	2003-04-04	20th Century Fox	R	$46,566,212	7,722,423	Thriller-or-Suspense
+5	Out of Time	2003-10-03	MGM	PG-13	$41,067,004	6,810,448	Thriller-or-Suspense
+6	Paycheck	2003-12-25	Paramount Pictures	PG-13	$38,644,452	6,408,698	Thriller-or-Suspense
+7	Basic	2003-03-28	Sony Pictures	R	$26,599,248	4,411,152	Thriller-or-Suspense
+8	Cold Creek Manor	2003-09-19	Walt Disney	R	$21,384,035	3,546,274	Thriller-or-Suspense
+9	The Life of David Gale	2003-02-21	Universal	R	$19,694,635	3,266,108	Thriller-or-Suspense
+10	Narc	2002-12-20	Paramount Pictures	R	$10,150,491	1,683,331	Thriller-or-Suspense
+11	Swimming Pool	2003-07-04	Focus Features	R	$10,130,108	1,679,951	Thriller-or-Suspense
+12	The Order	2003-09-05	20th Century Fox	R	$7,659,747	1,270,273	Thriller-or-Suspense
+13	In the Cut	2003-10-22	Sony Pictures	R	$4,717,455	782,330	Thriller-or-Suspense
+14	à la folie... pas du tout	2003-02-14	Samuel Goldwyn Films	PG-13	$1,009,827	167,467	Thriller-or-Suspense
+15	Le cercle rouge	2003-01-10		Not Rated	$372,229	61,729	Thriller-or-Suspense
+16	The Statement	2003-12-12	Sony Pictures	R	$321,081	53,247	Thriller-or-Suspense
+17	The Hero: Love Story of a Spy	2003-04-11		Not Rated	$285,394	47,329	Thriller-or-Suspense
+18	Demonlover	2003-09-19	Palm Pictures	R	$227,365	37,705	Thriller-or-Suspense
+19	Signs	2002-08-02	Walt Disney	PG-13	$219,267	36,362	Thriller-or-Suspense
+20	No Good Deed	2003-09-12	Mac Releasing	R	$129,042	21,400	Thriller-or-Suspense
+21	The Bank	2002-09-06	Cinema Guild	Not Rated	$35,993	5,968	Thriller-or-Suspense
+22	Night of Destiny	2003-05-09	ArtMattan Films	Not Rated	$1,275	211	Thriller-or-Suspense
+1	The Bourne Supremacy	2004-07-23	Universal	PG-13	$176,087,450	28,355,466	Thriller-or-Suspense
+2	The Village	2004-07-30	Walt Disney	PG-13	$114,197,520	18,389,294	Thriller-or-Suspense
+3	Man on Fire	2004-04-23	20th Century Fox	R	$77,906,816	12,545,380	Thriller-or-Suspense
+4	Ladder 49	2004-10-01	Walt Disney	PG-13	$73,870,841	11,895,465	Thriller-or-Suspense
+5	The Forgotten	2004-09-24	Sony Pictures	PG-13	$66,711,892	10,742,655	Thriller-or-Suspense
+6	The Manchurian Candidate	2004-07-30	Paramount Pictures	R	$65,948,711	10,619,760	Thriller-or-Suspense
+7	The Butterfly Effect	2004-01-23	New Line	R	$57,924,679	9,327,645	Thriller-or-Suspense
+8	Secret Window	2004-03-12	Sony Pictures	PG-13	$47,958,031	7,722,710	Thriller-or-Suspense
+9	Taking Lives	2004-03-19	Warner Bros.	R	$32,682,342	5,262,857	Thriller-or-Suspense
+10	Cellular	2004-09-10	New Line	PG-13	$32,003,620	5,153,561	Thriller-or-Suspense
+11	Open Water	2004-08-06	Lionsgate	R	$30,500,882	4,911,575	Thriller-or-Suspense
+12	Twisted	2004-02-27	Paramount Pictures	R	$25,195,050	4,057,173	Thriller-or-Suspense
+13	Paparazzi	2004-09-03	20th Century Fox	PG-13	$15,712,072	2,530,124	Thriller-or-Suspense
+14	Paycheck	2003-12-25	Paramount Pictures	PG-13	$15,144,861	2,438,785	Thriller-or-Suspense
+15	Godsend	2004-04-30	Lionsgate	PG-13	$14,334,645	2,308,316	Thriller-or-Suspense
+16	Wicker Park	2004-09-03	MGM	PG-13	$13,001,257	2,093,600	Thriller-or-Suspense
+17	Spartan	2004-03-12	Warner Bros.	R	$4,357,745	701,730	Thriller-or-Suspense
+18	The Machinist	2004-10-22	Paramount Vantage	R	$1,004,511	161,757	Thriller-or-Suspense
+19	The Final Cut	2004-10-15	Lionsgate	PG-13	$548,039	88,251	Thriller-or-Suspense
+20	The Statement	2003-12-12	Sony Pictures	R	$444,556	71,587	Thriller-or-Suspense
+21	Runaway Jury	2003-10-17	20th Century Fox	PG-13	$418,399	67,375	Thriller-or-Suspense
+22	I'll Sleep When I'm Dead	2004-06-18	Paramount Vantage	R	$358,804	57,778	Thriller-or-Suspense
+23	Enduring Love	2004-10-29	Paramount Vantage	R	$349,117	56,218	Thriller-or-Suspense
+24	Cavale	2004-01-30	Magnolia Pictures	R	$64,796	10,434	Thriller-or-Suspense
+25	Close Your Eyes	2004-04-23		Not Rated	$39,381	6,341	Thriller-or-Suspense
+26	Shade	2004-04-09		R	$25,032	4,030	Thriller-or-Suspense
+27	The Burial Society	2004-05-28	Regent Releasing	R	$20,580	3,314	Thriller-or-Suspense
+28	Out of Time	2003-10-03	MGM	PG-13	$16,104	2,593	Thriller-or-Suspense
+29	Reeseville	2004-05-07	Innovation Film G…	R	$14,496	2,334	Thriller-or-Suspense
+30	La mentale	2004-02-13		Not Rated	$12,842	2,067	Thriller-or-Suspense
+31	Who Killed Bambi?	2004-11-12	Strand	Not Rated	$9,675	1,557	Thriller-or-Suspense
+32	Demonlover	2003-09-19	Palm Pictures	R	$4,391	707	Thriller-or-Suspense
+1	Flightplan	2005-09-23	Walt Disney	PG-13	$89,132,263	13,905,189	Thriller-or-Suspense
+2	Four Brothers	2005-08-12	Paramount Pictures	R	$74,494,381	11,621,588	Thriller-or-Suspense
+3	Sin City	2005-04-01	Miramax/Dimension	R	$74,103,820	11,560,658	Thriller-or-Suspense
+4	The Interpreter	2005-04-22	Universal	PG-13	$72,708,161	11,342,926	Thriller-or-Suspense
+5	Red Eye	2005-08-19	Dreamworks SKG	PG-13	$57,891,803	9,031,482	Thriller-or-Suspense
+6	Syriana	2005-11-23	Warner Bros.	R	$37,725,004	5,885,336	Thriller-or-Suspense
+7	Derailed	2005-11-11	Weinstein Co.	R	$35,679,977	5,566,299	Thriller-or-Suspense
+8	The Constant Gardener	2005-08-31	Focus Features	R	$33,579,798	5,238,658	Thriller-or-Suspense
+9	A History of Violence	2005-09-23	New Line	R	$31,198,508	4,867,161	Thriller-or-Suspense
+10	Munich	2005-12-23	Universal	R	$14,270,545	2,226,294	Thriller-or-Suspense
+11	Cry Wolf	2005-09-16	Focus/Rogue Pictures	PG-13	$10,047,674	1,567,499	Thriller-or-Suspense
+12	The Jacket	2005-03-04	Warner Independent	R	$6,301,131	983,015	Thriller-or-Suspense
+13	Underclassman	2005-09-02	Miramax	PG-13	$5,654,777	882,180	Thriller-or-Suspense
+14	Mindhunters	2005-05-13	Miramax/Dimension	R	$4,476,235	698,320	Thriller-or-Suspense
+15	Stay	2005-10-21	20th Century Fox	R	$3,626,883	565,816	Thriller-or-Suspense
+16	Layer Cake	2005-05-13	Sony Pictures Cla…	R	$2,339,957	365,047	Thriller-or-Suspense
+17	Oldboy	2005-03-25	Tartan Films	R	$707,391	110,357	Thriller-or-Suspense
+18	Ladder 49	2004-10-01	Walt Disney	PG-13	$670,866	104,659	Thriller-or-Suspense
+19	Match Point	2005-12-28	Dreamworks SKG	R	$600,542	93,688	Thriller-or-Suspense
+20	Asylum	2005-08-12	Paramount Vantage	R	$375,403	58,565	Thriller-or-Suspense
+21	Dot the I	2005-03-11	Freestyle Releasing	R	$306,224	47,772	Thriller-or-Suspense
+22	Kontroll	2005-04-01	ThinkFilm	R	$237,183	37,002	Thriller-or-Suspense
+23	The Machinist	2004-10-22	Paramount Vantage	R	$77,533	12,095	Thriller-or-Suspense
+24	The Matador	2005-12-30	Weinstein Co.	R	$69,100	10,780	Thriller-or-Suspense
+25	The Other Side of the Street	2005-02-25	Strand	Not Rated	$55,459	8,651	Thriller-or-Suspense
+26	Chocolate: Deep Dark Secrets	2005-09-16	Eros Entertainment	Not Rated	$49,000	7,644	Thriller-or-Suspense
+27	Boksuneun naui geot	2005-08-19	Tartan Films	R	$45,145	7,042	Thriller-or-Suspense
+28	Classe Tous Risques	1963-01-01	Rialto Pictures	Not Rated	$38,232	5,964	Thriller-or-Suspense
+29	Fascination	2005-01-28	MGM	R	$16,670	2,600	Thriller-or-Suspense
+30	Salinsui Chooeok	2005-07-15	Palm Pictures	Not Rated	$14,131	2,204	Thriller-or-Suspense
+31	Enduring Love	2004-10-29	Paramount Vantage	R	$9,145	1,426	Thriller-or-Suspense
+32	Who Killed Bambi?	2004-11-12	Strand	Not Rated	$4,725	737	Thriller-or-Suspense
+33	Kalyug	2005-12-09	Kria	Not Rated	$1,435	223	Thriller-or-Suspense
+1	The Da Vinci Code	2006-05-19	Sony Pictures	PG-13	$217,536,138	33,211,624	Thriller-or-Suspense
+2	Inside Man	2006-03-24	Universal	R	$88,634,237	13,531,944	Thriller-or-Suspense
+3	Déjà Vu	2006-11-22	Walt Disney	PG-13	$61,574,479	9,400,683	Thriller-or-Suspense
+4	The Prestige	2006-10-20	Walt Disney	PG-13	$52,474,548	8,011,381	Thriller-or-Suspense
+5	Firewall	2006-02-10	Warner Bros.	PG-13	$48,751,189	7,442,929	Thriller-or-Suspense
+6	Lady in the Water	2006-07-21	Warner Bros.	PG-13	$42,285,169	6,455,750	Thriller-or-Suspense
+7	The Sentinel	2006-04-21	20th Century Fox	PG-13	$36,280,697	5,539,037	Thriller-or-Suspense
+8	Snakes on a Plane	2006-08-18	New Line	R	$34,020,814	5,194,017	Thriller-or-Suspense
+9	Munich	2005-12-23	Universal	R	$33,108,545	5,054,739	Thriller-or-Suspense
+10	The Descent	2006-08-04	Lionsgate	R	$26,024,456	3,973,199	Thriller-or-Suspense
+11	The Black Dahlia	2006-09-15	Universal	R	$22,672,813	3,461,498	Thriller-or-Suspense
+12	Lucky Number Slevin	2006-04-07	MGM	R	$22,495,466	3,434,422	Thriller-or-Suspense
+13	Match Point	2005-12-28	Dreamworks SKG	R	$22,489,384	3,433,493	Thriller-or-Suspense
+14	Syriana	2005-11-23	Warner Bros.	R	$13,099,616	1,999,941	Thriller-or-Suspense
+15	The Matador	2005-12-30	Weinstein Co.	R	$12,520,155	1,911,474	Thriller-or-Suspense
+16	The Return	2006-11-10	Focus Features	PG-13	$7,744,785	1,182,409	Thriller-or-Suspense
+17	Turistas	2006-12-01	20th Century Fox	R	$6,947,433	1,060,676	Thriller-or-Suspense
+18	Basic Instinct 2	2006-03-31	Sony Pictures	R	$5,946,136	907,807	Thriller-or-Suspense
+19	A Scanner Darkly	2006-07-07	Warner Bros.	R	$5,501,616	839,941	Thriller-or-Suspense
+20	Catch a Fire	2006-10-27	Focus Features	PG-13	$4,299,773	656,453	Thriller-or-Suspense
+21	Children of Men	2006-12-25	Universal	R	$1,307,419	199,605	Thriller-or-Suspense
+22	Flightplan	2005-09-23	Walt Disney	PG-13	$574,725	87,744	Thriller-or-Suspense
+23	Derailed	2005-11-11	Weinstein Co.	R	$340,086	51,921	Thriller-or-Suspense
+24	A History of Violence	2005-09-23	New Line	R	$295,274	45,080	Thriller-or-Suspense
+25	Chinjeolhan geumjassi	2006-05-04	Tartan Films	Not Rated	$211,667	32,315	Thriller-or-Suspense
+26	The Fallen Idol	1949-11-15	Rialto Pictures	Not Rated	$141,502	21,603	Thriller-or-Suspense
+27	13 Tzameti	2006-07-28	Palm Pictures	Not Rated	$121,390	18,532	Thriller-or-Suspense
+28	La Demoiselle d'honneur	2006-08-04	First Run Features	Not Rated	$107,485	16,409	Thriller-or-Suspense
+29	Cavite	2006-05-26	Truly Indie	Not Rated	$70,071	10,697	Thriller-or-Suspense
+30	Classe Tous Risques	1963-01-01	Rialto Pictures	Not Rated	$57,181	8,729	Thriller-or-Suspense
+31	Moonlight	2006-05-19	Indican Pictures	Not Rated	$50,204	7,664	Thriller-or-Suspense
+32	The Zodiac	2006-03-17	ThinkFilm	R	$45,148	6,892	Thriller-or-Suspense
+33	El Aura	2006-11-17	IFC Films	Not Rated	$41,392	6,319	Thriller-or-Suspense
+34	Hate Crime	2005-09-23	Pasidg Productions	R	$40,981	6,256	Thriller-or-Suspense
+35	Unknown	2006-11-03	IFC Films	Not Rated	$26,403	4,030	Thriller-or-Suspense
+36	The Dead Girl	2006-12-29	First Look	R	$2,000	305	Thriller-or-Suspense
+37	Boksuneun naui geot	2005-08-19	Tartan Films	R	$98	14	Thriller-or-Suspense
+38	Zyzzyx Rd.	2006-02-24	Regent Releasing	Not Rated	$20	3	Thriller-or-Suspense
+1	The Bourne Ultimatum	2007-08-03	Universal	PG-13	$227,471,070	33,062,655	Thriller-or-Suspense
+2	Disturbia	2007-04-13	Paramount Pictures	PG-13	$80,818,974	11,746,943	Thriller-or-Suspense
+3	Premonition	2007-03-16	Sony Pictures	PG-13	$47,852,604	6,955,320	Thriller-or-Suspense
+4	Shooter	2007-03-23	Paramount Pictures	R	$47,003,582	6,831,915	Thriller-or-Suspense
+5	Fracture	2007-04-20	New Line	R	$39,004,700	5,669,287	Thriller-or-Suspense
+6	The Brave One	2007-09-14	Warner Bros.	R	$36,793,804	5,347,936	Thriller-or-Suspense
+7	The Number 23	2007-02-23	New Line	R	$35,193,167	5,115,285	Thriller-or-Suspense
+8	Children of Men	2006-12-25	Universal	R	$34,244,964	4,977,465	Thriller-or-Suspense
+9	Breach	2007-02-16	Universal	PG-13	$33,000,880	4,796,639	Thriller-or-Suspense
+10	Mr. Brooks	2007-06-01	MGM	R	$28,476,219	4,138,985	Thriller-or-Suspense
+11	Hannibal Rising	2007-02-09	Weinstein Co.	R	$27,669,725	4,021,762	Thriller-or-Suspense
+12	Nancy Drew	2007-06-15	Warner Bros.	PG	$25,584,685	3,718,704	Thriller-or-Suspense
+13	Perfect Stranger	2007-04-13	Sony Pictures	R	$23,760,822	3,453,607	Thriller-or-Suspense
+14	The Invisible	2007-04-27	Walt Disney	PG-13	$20,568,319	2,989,581	Thriller-or-Suspense
+15	Vacancy	2007-04-20	Sony Pictures	R	$19,063,007	2,770,785	Thriller-or-Suspense
+16	Eastern Promises	2007-09-14	Focus Features	R	$17,181,265	2,497,276	Thriller-or-Suspense
+17	The Hitcher	2007-01-19	Focus Features	R	$16,379,582	2,380,753	Thriller-or-Suspense
+18	The Invasion	2007-08-17	Warner Bros.	PG-13	$15,074,191	2,191,016	Thriller-or-Suspense
+19	Awake	2007-11-30	Weinstein Co.	R	$14,139,086	2,055,099	Thriller-or-Suspense
+20	Rendition	2007-10-19	New Line	R	$9,736,045	1,415,122	Thriller-or-Suspense
+21	I Know Who Killed Me	2007-07-27	Sony Pictures	R	$7,233,485	1,051,378	Thriller-or-Suspense
+22	Zwartboek	2007-04-06	Sony Pictures Cla…	R	$4,398,532	639,321	Thriller-or-Suspense
+23	Sunshine	2007-07-20	Fox Searchlight	R	$3,688,560	536,127	Thriller-or-Suspense
+24	Illegal Tender	2007-08-24	Universal	R	$3,054,430	443,957	Thriller-or-Suspense
+25	Ma Fille, Mon Ange	2007-02-13	Alliance Atlantis	Not Rated	$2,779,545	404,003	Thriller-or-Suspense
+26	Déjà Vu	2006-11-22	Walt Disney	PG-13	$2,464,137	358,159	Thriller-or-Suspense
+27	Slow Burn	2007-04-13	Lionsgate	R	$1,237,615	179,885	Thriller-or-Suspense
+28	Blade Runner	1982-06-25	Warner Bros.	R	$1,178,808	171,338	Thriller-or-Suspense
+29	Thr3e	2007-01-05	The Bigger Picture	PG-13	$1,008,849	146,635	Thriller-or-Suspense
+30	Paprika	2007-05-25	Sony Pictures Cla…	R	$881,302	128,096	Thriller-or-Suspense
+31	Sarah Landon and the Parano…	2007-10-19	Freestyle Releasing	PG	$817,935	118,885	Thriller-or-Suspense
+32	The Prestige	2006-10-20	Walt Disney	PG-13	$615,343	89,439	Thriller-or-Suspense
+33	Joshua	2007-07-06	Fox Searchlight	R	$482,355	70,109	Thriller-or-Suspense
+34	Sleuth	2007-10-12	Sony Pictures Cla…	R	$338,264	49,166	Thriller-or-Suspense
+35	Youth Without Youth	2007-12-14	Sony Pictures Cla…	R	$166,602	24,215	Thriller-or-Suspense
+36	Fay Grim	2007-05-18	Magnolia Pictures	R	$126,714	18,417	Thriller-or-Suspense
+37	Civic Duty	2007-05-04	Freestyle Releasing	R	$95,953	13,946	Thriller-or-Suspense
+38	Revolver	2007-12-07	Samuel Goldwyn Films	R	$84,738	12,316	Thriller-or-Suspense
+39	Le Doulos	2007-06-29	Rialto Pictures	Not Rated	$82,772	12,030	Thriller-or-Suspense
+40	Turistas	2006-12-01	20th Century Fox	R	$80,329	11,675	Thriller-or-Suspense
+41	Right at Your Door	2007-08-24	Lionsgate	R	$64,802	9,418	Thriller-or-Suspense
+42	Hak se wui yi wo wai kwai	2007-04-25	Tartan Films	Not Rated	$55,758	8,104	Thriller-or-Suspense
+43	The Situation	2007-02-02	Shadow	R	$48,896	7,106	Thriller-or-Suspense
+44	Ils	2007-08-03	Slowhand Cinema	R	$26,062	3,788	Thriller-or-Suspense
+45	Arnolds Park	2007-10-19	The Movie Partners	PG-13	$23,616	3,432	Thriller-or-Suspense
+46	Chacun sa nuit	2007-06-29	Strand	Not Rated	$18,435	2,679	Thriller-or-Suspense
+47	The Dead Girl	2006-12-29	First Look	R	$17,875	2,598	Thriller-or-Suspense
+48	El Aura	2006-11-17	IFC Films	Not Rated	$17,412	2,530	Thriller-or-Suspense
+49	Descent	2007-08-10	City Lights Pictures	R	$15,233	2,214	Thriller-or-Suspense
+50	Alone with Her	2007-01-17	IFC Films	Not Rated	$10,787	1,567	Thriller-or-Suspense
+51	Splinter	2007-08-17	Magic Lamp	R	$10,497	1,525	Thriller-or-Suspense
+52	If I Didn't Care	2007-08-03	Artistic License	Not Rated	$8,527	1,239	Thriller-or-Suspense
+53	Ten 'Til Noon	2007-03-30	Radio London Films	R	$6,404	930	Thriller-or-Suspense
+54	Imprint	2007-09-21	Linn Productions	Not Rated	$6,109	887	Thriller-or-Suspense
+55	La Demoiselle d'honneur	2006-08-04	First Run Features	Not Rated	$4,243	616	Thriller-or-Suspense
+56	Crónica de una fuga	2007-11-30	IFC Films	R	$2,370	344	Thriller-or-Suspense
+57	Mem-o-re	2007-03-23	Aloha Releasing	R	$1,500	218	Thriller-or-Suspense
+58	Moonlight	2006-05-19	Indican Pictures	Not Rated	$1,366	198	Thriller-or-Suspense
+1	Eagle Eye	2008-09-26	Paramount Pictures	PG-13	$101,401,695	14,122,799	Thriller-or-Suspense
+2	21	2008-03-28	Sony Pictures	PG-13	$81,159,365	11,303,532	Thriller-or-Suspense
+3	Vantage Point	2008-02-22	Sony Pictures	PG-13	$72,266,306	10,064,945	Thriller-or-Suspense
+4	The Happening	2008-06-13	20th Century Fox	R	$64,506,874	8,984,244	Thriller-or-Suspense
+5	Valkyrie	2008-12-25	United Artists	PG-13	$60,733,921	8,458,763	Thriller-or-Suspense
+6	The Strangers	2008-05-30	Focus Features	R	$52,597,610	7,325,572	Thriller-or-Suspense
+7	Righteous Kill	2008-09-12	Overture Films	R	$40,081,410	5,582,369	Thriller-or-Suspense
+8	Body of Lies	2008-10-10	Warner Bros.	R	$39,315,385	5,475,680	Thriller-or-Suspense
+9	Lakeview Terrace	2008-09-19	Sony Pictures	PG-13	$39,263,506	5,468,454	Thriller-or-Suspense
+10	Changeling	2008-10-24	Universal	R	$35,707,327	4,973,165	Thriller-or-Suspense
+11	The Bank Job	2008-03-07	Lionsgate	R	$30,060,660	4,186,721	Thriller-or-Suspense
+12	Untraceable	2008-01-25	Sony Pictures	R	$28,687,835	3,995,520	Thriller-or-Suspense
+13	Street Kings	2008-04-11	Fox Searchlight	R	$26,418,667	3,679,480	Thriller-or-Suspense
+14	Traitor	2008-08-27	Overture Films	PG-13	$23,530,831	3,277,274	Thriller-or-Suspense
+15	88 Minutes	2008-04-18	Sony Pictures	R	$16,930,884	2,358,061	Thriller-or-Suspense
+16	Ne le dis à personne	2008-07-04	Music Box Films	Not Rated	$6,137,968	854,870	Thriller-or-Suspense
+17	Deception	2008-04-25	20th Century Fox	R	$4,598,506	640,460	Thriller-or-Suspense
+18	Blindness	2008-10-03	Miramax	R	$3,073,392	428,049	Thriller-or-Suspense
+19	Transsiberian	2008-07-18	First Look	R	$2,203,641	306,913	Thriller-or-Suspense
+20	Ghajini	2008-12-25	AdLab Films	Not Rated	$2,192,682	305,387	Thriller-or-Suspense
+21	Funny Games	2008-03-14	Warner Independent	R	$1,294,640	180,311	Thriller-or-Suspense
+22	Nobel Son	2008-12-05	Freestyle Releasing	R	$539,572	75,149	Thriller-or-Suspense
+23	La fille coupée en deux	2008-08-15	IFC Films	Not Rated	$409,658	57,055	Thriller-or-Suspense
+24	Le piège américain	2008-05-16		Not Rated	$407,447	56,747	Thriller-or-Suspense
+25	Blade Runner	1982-06-25	Warner Bros.	R	$369,694	51,489	Thriller-or-Suspense
+26	Kidnap	2008-10-03	Studio 18	Not Rated	$328,573	45,762	Thriller-or-Suspense
+27	Passengers	2008-10-24	Sony Pictures	PG-13	$292,437	40,729	Thriller-or-Suspense
+28	Awake	2007-11-30	Weinstein Co.	R	$234,739	32,693	Thriller-or-Suspense
+29	Pathology	2008-04-18	MGM	R	$109,045	15,187	Thriller-or-Suspense
+30	Cover	2008-02-22	Reel Diva Consult…	PG-13	$79,436	11,063	Thriller-or-Suspense
+31	Midnight Meat Train	2008-08-01	Lionsgate	R	$73,548	10,243	Thriller-or-Suspense
+32	Youth Without Youth	2007-12-14	Sony Pictures Cla…	R	$72,893	10,152	Thriller-or-Suspense
+33	Stuck	2008-05-30	ThinkFilm	R	$67,505	9,401	Thriller-or-Suspense
+34	Boarding Gate	2008-03-21	Magnet Pictures	R	$50,440	7,025	Thriller-or-Suspense
+35	Du rififi chez les hommes	1956-06-05		Not Rated	$37,469	5,218	Thriller-or-Suspense
+36	While She Was Out	2008-12-12	Anchor Bay Entert…	R	$29,784	4,148	Thriller-or-Suspense
+37	The Alphabet Killer	2008-11-07	Anchor Bay Entert…	R	$29,784	4,148	Thriller-or-Suspense
+38	Los Cronocrímenes	2008-12-12	Magnolia Pictures	R	$22,494	3,132	Thriller-or-Suspense
+39	The Cry	2008-04-25	Monterey Media	R	$21,427	2,984	Thriller-or-Suspense
+40	Anamorph	2008-04-16	IFC Films	R	$6,873	957	Thriller-or-Suspense
+41	Insidious	2008-05-23	Romantic Troubado…	Not Rated	$5,508	767	Thriller-or-Suspense
+42	La Question Humaine	2008-03-14	New Yorker	Not Rated	$5,500	766	Thriller-or-Suspense
+43	Red	2008-08-08	Magnolia Pictures	Not Rated	$4,643	646	Thriller-or-Suspense
+44	Sleuth	2007-10-12	Sony Pictures Cla…	R	$4,631	644	Thriller-or-Suspense
+45	San taam	2008-07-18	IFC Films	Not Rated	$4,629	644	Thriller-or-Suspense
+46	On the Other Hand, Death: A…	2008-07-18	Regent Releasing	R	$2,892	402	Thriller-or-Suspense
+47	Murder.com	2008-07-11	Regent Releasing	R	$2,070	288	Thriller-or-Suspense
+48	Ice Blues: A Donald Strache…	2008-10-10	Regent Releasing	R	$1,377	191	Thriller-or-Suspense
+49	Fall of Hyperion	2008-10-10	Regent Releasing	PG	$1,093	152	Thriller-or-Suspense
+1	Taken	2009-01-30	20th Century Fox	PG-13	$145,000,989	19,333,465	Thriller-or-Suspense
+2	Angels & Demons	2009-05-15	Sony Pictures	PG-13	$133,375,846	17,783,446	Thriller-or-Suspense
+3	District 9	2009-08-14	Sony Pictures	R	$115,646,235	15,419,498	Thriller-or-Suspense
+4	Knowing	2009-03-20	Summit Entertainment	PG-13	$79,957,634	10,661,017	Thriller-or-Suspense
+5	Law Abiding Citizen	2009-10-16	Overture Films	R	$72,928,813	9,723,841	Thriller-or-Suspense
+6	Obsessed	2009-04-24	Sony Pictures	PG-13	$68,261,644	9,101,552	Thriller-or-Suspense
+7	State of Play	2009-04-17	Universal	PG-13	$37,017,955	4,935,727	Thriller-or-Suspense
+8	Push	2009-02-06	Summit Entertainment	PG-13	$31,811,527	4,241,536	Thriller-or-Suspense
+9	The Stepfather	2009-10-16	Sony Pictures	PG-13	$29,062,561	3,875,008	Thriller-or-Suspense
+10	The Fourth Kind	2009-11-06	Universal	PG-13	$26,218,170	3,495,756	Thriller-or-Suspense
+11	The International	2009-02-13	Sony Pictures	R	$25,450,527	3,393,403	Thriller-or-Suspense
+12	Valkyrie	2008-12-25	United Artists	PG-13	$22,373,908	2,983,188	Thriller-or-Suspense
+13	Armored	2009-12-04	Sony Pictures	PG-13	$15,815,302	2,108,707	Thriller-or-Suspense
+14	A Perfect Getaway	2009-08-07	Universal	R	$15,515,460	2,068,728	Thriller-or-Suspense
+15	The Box	2009-11-06	Warner Bros.	PG-13	$15,045,676	2,006,090	Thriller-or-Suspense
+16	Crank 2: High Voltage	2009-04-17	Lionsgate	R	$13,684,249	1,824,567	Thriller-or-Suspense
+17	Whiteout	2009-09-11	Warner Bros.	R	$10,275,638	1,370,085	Thriller-or-Suspense
+18	Moon	2009-06-12	Sony Pictures Cla…	R	$5,010,163	668,021	Thriller-or-Suspense
+19	Sin Nombre	2009-03-20	Focus Features	R	$2,536,665	338,222	Thriller-or-Suspense
+20	Män som hatar kvinnor	2009-05-29	Alliance Atlantis	R	$2,186,693	291,559	Thriller-or-Suspense
+21	Los abrazos rotos	2009-11-20	Sony Pictures Cla…	R	$2,022,655	269,687	Thriller-or-Suspense
+22	Kaminey	2009-08-14	UTV Communications	Not Rated	$1,286,143	171,485	Thriller-or-Suspense
+23	5150, Rue des Ormes	2009-10-09		Not Rated	$1,053,966	140,528	Thriller-or-Suspense
+24	Echelon Conspiracy	2009-02-27	After Dark	PG-13	$796,716	106,228	Thriller-or-Suspense
+25	Flickan som lekte med elden	2009-12-25		R	$598,477	79,796	Thriller-or-Suspense
+26	The Limits of Control	2009-05-01	Focus Features	R	$426,688	56,891	Thriller-or-Suspense
+27	Wanted	2009-09-18	Eros Entertainment	Not Rated	$349,637	46,618	Thriller-or-Suspense
+28	The Informers	2009-04-24	Senator Entertain…	R	$315,000	42,000	Thriller-or-Suspense
+29	Revanche	2009-05-01	Janus Films	Not Rated	$294,122	39,216	Thriller-or-Suspense
+30	Ghajini	2008-12-25	AdLab Films	Not Rated	$237,949	31,726	Thriller-or-Suspense
+31	Flammen og Citronen	2009-07-31	IFC Films	Not Rated	$148,089	19,745	Thriller-or-Suspense
+32	12	2009-03-04	Sony Pictures Cla…	PG-13	$125,120	16,682	Thriller-or-Suspense
+33	Carriers	2009-09-04	Paramount Vantage	PG-13	$120,866	16,115	Thriller-or-Suspense
+34	Z	1969-12-08	Rialto Pictures	M/PG	$83,305	11,107	Thriller-or-Suspense
+35	Sleep Dealer	2009-04-17	Maya Releasing	PG-13	$80,136	10,684	Thriller-or-Suspense
+36	Body of Lies	2008-10-10	Warner Bros.	R	$79,281	10,571	Thriller-or-Suspense
+37	Julia	2009-05-08	Magnolia Pictures	Not Rated	$65,108	8,681	Thriller-or-Suspense
+38	Ne le dis à personne	2008-07-04	Music Box Films	Not Rated	$60,915	8,122	Thriller-or-Suspense
+39	Not Forgotten	2009-05-15	Anchor Bay Entert…	R	$53,723	7,163	Thriller-or-Suspense
+40	Eagle Eye	2008-09-26	Paramount Pictures	PG-13	$39,048	5,206	Thriller-or-Suspense
+41	Le combat dans l'île	2009-06-12	The Film Desk	PG-13	$33,830	4,510	Thriller-or-Suspense
+42	Beyond a Reasonable Doubt	2009-09-11	Anchor Bay Entert…	PG-13	$32,917	4,388	Thriller-or-Suspense
+43	Changeling	2008-10-24	Universal	R	$32,475	4,330	Thriller-or-Suspense
+44	Surveillance	2009-06-26	Magnolia Pictures	R	$27,349	3,646	Thriller-or-Suspense
+45	Death in Love	2009-07-17	Screen Media Films	R	$23,412	3,121	Thriller-or-Suspense
+46	Donkey Punch	2009-01-23	Magnolia Pictures	R	$19,367	2,582	Thriller-or-Suspense
+47	Killshot	2009-01-23	Weinstein Co.	R	$18,643	2,485	Thriller-or-Suspense
+48	Los Cronocrímenes	2008-12-12	Magnolia Pictures	R	$16,633	2,217	Thriller-or-Suspense
+49	The Escapist	2009-04-03	ThinkFilm	Not Rated	$13,439	1,791	Thriller-or-Suspense
+50	The Skeptic	2009-05-01	IFC Films	Not Rated	$6,671	889	Thriller-or-Suspense
+51	The Perfect Sleep	2009-03-13	Cinema Epoch	R	$6,224	829	Thriller-or-Suspense
+52	Pontypool	2009-05-29	IFC Films	Not Rated	$3,865	515	Thriller-or-Suspense
+53	The Canyon	2009-10-23	Truly Indie	R	$1,785	238	Thriller-or-Suspense
+54	Shanghai Red	2010-01-01	Indican Pictures	Not Rated	$1,146	152	Thriller-or-Suspense
+1	Inception	2010-07-16	Warner Bros.	PG-13	$292,568,851	37,080,970	Thriller-or-Suspense
+2	Shutter Island	2010-02-19	Paramount Pictures	R	$128,012,934	16,224,706	Thriller-or-Suspense
+3	Salt	2010-07-23	Sony Pictures	PG-13	$118,311,368	14,995,104	Thriller-or-Suspense
+4	The Town	2010-09-17	Warner Bros.	R	$92,173,235	11,682,286	Thriller-or-Suspense
+5	Takers	2010-08-27	Sony Pictures	PG-13	$57,744,720	7,318,722	Thriller-or-Suspense
+6	The Tourist	2010-12-10	Sony Pictures	PG-13	$54,633,191	6,924,359	Thriller-or-Suspense
+7	Black Swan	2010-12-03	Fox Searchlight	R	$47,807,791	6,059,289	Thriller-or-Suspense
+8	Edge of Darkness	2010-01-29	Warner Bros.	R	$43,313,890	5,489,720	Thriller-or-Suspense
+9	The American	2010-09-01	Focus Features	R	$35,606,376	4,512,848	Thriller-or-Suspense
+10	Brooklyn's Finest	2010-03-05	Overture Films	R	$27,163,593	3,442,787	Thriller-or-Suspense
+11	From Paris With Love	2010-02-05	Lionsgate	R	$24,077,427	3,051,638	Thriller-or-Suspense
+12	Skyline	2010-11-12	Universal	PG-13	$21,416,355	2,714,367	Thriller-or-Suspense
+13	The Next Three Days	2010-11-19	Lionsgate	PG-13	$21,129,348	2,677,990	Thriller-or-Suspense
+14	The Ghost Writer	2010-02-19	Summit Entertainment	PG-13	$15,541,549	1,969,778	Thriller-or-Suspense
+15	Let Me In	2010-10-01	Overture Films	R	$12,134,935	1,538,015	Thriller-or-Suspense
+16	Män som hatar kvinnor	2009-05-29	Alliance Atlantis	R	$10,561,224	1,338,558	Thriller-or-Suspense
+17	Flickan som lekte med elden	2009-12-25		R	$8,480,758	1,074,874	Thriller-or-Suspense
+18	El secreto de sus ojos	2010-04-16	Sony Pictures Cla…	R	$6,391,436	810,067	Thriller-or-Suspense
+19	Luftslottet som sprängdes	2010-04-30	Alliance Atlantis	R	$5,273,085	668,325	Thriller-or-Suspense
+20	Chloe	2010-03-26	Sony Pictures Cla…	R	$3,075,255	389,766	Thriller-or-Suspense
+21	Los abrazos rotos	2009-11-20	Sony Pictures Cla…	R	$2,991,650	379,169	Thriller-or-Suspense
+22	N-Secure	2010-10-15	Freestyle Releasing	R	$2,595,644	328,978	Thriller-or-Suspense
+23	Harry Brown	2010-04-30	Samuel Goldwyn Films	R	$1,818,681	230,504	Thriller-or-Suspense
+24	Kites	2010-05-21	Big Pictures	Not Rated	$1,685,269	213,595	Thriller-or-Suspense
+25	Casino Jack	2010-12-17	Samuel Goldwyn Films	R	$1,231,004	156,020	Thriller-or-Suspense
+26	Buried	2010-09-24	Lionsgate	R	$1,044,143	132,337	Thriller-or-Suspense
+27	Law Abiding Citizen	2009-10-16	Overture Films	R	$428,914	54,361	Thriller-or-Suspense
+28	The Square	2010-04-09	Apparition	R	$406,216	51,484	Thriller-or-Suspense
+29	Les herbes folles	2010-06-25	Sony Pictures Cla…	PG	$403,952	51,197	Thriller-or-Suspense
+30	L'affaire Farewell, l'espio…	2010-01-29		Not Rated	$390,157	49,449	Thriller-or-Suspense
+31	La Soga	2010-08-13	7-57 Releasing	R	$210,625	26,695	Thriller-or-Suspense
+32	Twelve	2010-08-06	Hannover House	R	$183,920	23,310	Thriller-or-Suspense
+33	Armored	2009-12-04	Sony Pictures	PG-13	$173,574	21,999	Thriller-or-Suspense
+34	The Disappearance of Alice …	2010-08-06	Anchor Bay Entert…	R	$166,980	21,163	Thriller-or-Suspense
+35	Bellamy	2010-10-29	IFC Films	Not Rated	$107,612	13,639	Thriller-or-Suspense
+36	Tirez sur le pianiste	2010-03-05	Janus Films	Not Rated	$51,990	6,589	Thriller-or-Suspense
+37	Ca$h	2010-03-26	Roadside Attractions	R	$46,488	5,892	Thriller-or-Suspense
+38	L'armée du crime	2010-08-20	Lorber Films	Not Rated	$37,031	4,693	Thriller-or-Suspense
+39	In My Sleep	2010-04-23	Morning Star Pict…	PG-13	$31,858	4,037	Thriller-or-Suspense
+40	Dead Awake	2010-12-03	New Films Cinema	R	$30,600	3,878	Thriller-or-Suspense
+41	Red Hill	2010-11-05	Sony Pictures	R	$18,224	2,309	Thriller-or-Suspense
+42	Dreamkiller	2010-02-19		R	$15,318	1,941	Thriller-or-Suspense
+43	Revanche	2009-05-01	Janus Films	Not Rated	$13,918	1,764	Thriller-or-Suspense
+44	Le combat dans l'île	2009-06-12	The Film Desk	PG-13	$13,632	1,727	Thriller-or-Suspense
+45	Shanghai Red	2010-01-01	Indican Pictures	Not Rated	$8,734	1,106	Thriller-or-Suspense
+46	The Box	2009-11-06	Warner Bros.	PG-13	$6,301	799	Thriller-or-Suspense
+47	Midnight Reckoning	2010-09-10	Winter Star Enter…	PG-13	$5,673	719	Thriller-or-Suspense
+48	The Oxford Murders	2010-08-06	Magnolia Pictures	R	$4,803	608	Thriller-or-Suspense
+49	Inhale	2010-10-22	IFC Films	R	$4,115	521	Thriller-or-Suspense
+50	Zenith	2010-10-01	Cinema Purgatorio	Not Rated	$4,052	513	Thriller-or-Suspense
+51	As Good as Dead	2010-10-08	Alchemy	R	$2,093	265	Thriller-or-Suspense
+52	Falling Awake	2010-01-29	IFC Films	R	$1,978	250	Thriller-or-Suspense
+53	Daddy's Home	2010-09-10	Self Distributed	Not Rated	$796	100	Thriller-or-Suspense
+1	Super 8	2011-06-10	Paramount Pictures	PG-13	$127,004,179	16,015,659	Thriller-or-Suspense
+2	Limitless	2011-03-18	Relativity	PG-13	$79,249,455	9,993,626	Thriller-or-Suspense
+3	Contagion	2011-09-09	Warner Bros.	PG-13	$75,658,097	9,540,744	Thriller-or-Suspense
+4	Unknown	2011-02-18	Warner Bros.	PG-13	$63,686,397	8,031,072	Thriller-or-Suspense
+5	The Adjustment Bureau	2011-03-04	Universal	PG-13	$62,495,645	7,880,914	Thriller-or-Suspense
+6	Black Swan	2010-12-03	Fox Searchlight	R	$59,146,887	7,458,624	Thriller-or-Suspense
+7	The Lincoln Lawyer	2011-03-18	Lionsgate	R	$58,009,200	7,315,157	Thriller-or-Suspense
+8	The Girl with the Dragon Ta…	2011-12-20	Sony Pictures	R	$55,584,881	7,009,442	Thriller-or-Suspense
+9	Source Code	2011-04-01	Summit Entertainment	PG-13	$54,712,227	6,899,398	Thriller-or-Suspense
+10	Hanna	2011-04-08	Focus Features	PG-13	$40,259,119	5,076,811	Thriller-or-Suspense
+11	Red Riding Hood	2011-03-11	Warner Bros.	PG-13	$37,662,162	4,749,327	Thriller-or-Suspense
+12	The Roommate	2011-02-04	Sony Pictures	PG-13	$37,300,107	4,703,670	Thriller-or-Suspense
+13	In Time	2011-10-28	20th Century Fox	PG-13	$37,076,415	4,675,462	Thriller-or-Suspense
+14	Colombiana	2011-08-26	Sony Pictures	PG-13	$36,665,854	4,623,689	Thriller-or-Suspense
+15	The Debt	2011-08-31	Focus Features	R	$31,177,548	3,931,594	Thriller-or-Suspense
+16	Abduction	2011-09-23	Lionsgate	PG-13	$28,087,155	3,541,885	Thriller-or-Suspense
+17	Apollo 18	2011-09-02	Weinstein Co.	PG-13	$17,686,929	2,230,381	Thriller-or-Suspense
+18	The Tourist	2010-12-10	Sony Pictures	PG-13	$12,997,966	1,639,087	Thriller-or-Suspense
+19	Straw Dogs	2011-09-16	Sony Pictures	R	$10,324,441	1,301,947	Thriller-or-Suspense
+20	Anonymous	2011-10-28	Sony Pictures	PG-13	$4,463,292	562,836	Thriller-or-Suspense
+21	Tinker Tailor Soldier Spy	2011-12-09	Focus Features	R	$3,955,762	498,835	Thriller-or-Suspense
+22	La piel que habito	2011-10-14	Sony Pictures Cla…	R	$3,042,108	383,620	Thriller-or-Suspense
+23	Martha Marcy May Marlene	2011-10-21	Fox Searchlight	R	$2,913,443	367,395	Thriller-or-Suspense
+24	Melancholia	2011-11-11	Magnolia Pictures	R	$2,517,506	317,466	Thriller-or-Suspense
+25	La doppia ora	2011-04-15	Samuel Goldwyn Films	Not Rated	$1,514,942	191,039	Thriller-or-Suspense
+26	Casino Jack	2010-12-17	Samuel Goldwyn Films	R	$808,865	102,000	Thriller-or-Suspense
+27	A bout portant	2011-07-29	Magnolia Pictures	R	$708,215	89,308	Thriller-or-Suspense
+28	Crime d'amour	2011-09-02	IFC Films	Not Rated	$539,792	68,070	Thriller-or-Suspense
+29	Di Renjie	2011-09-02	Indomina Releasing	PG-13	$474,754	59,868	Thriller-or-Suspense
+30	Munger Road	2011-09-30	Freestyle Releasing	PG-13	$266,688	33,630	Thriller-or-Suspense
+31	Hanyo	2011-01-21	IFC Films	Not Rated	$157,961	19,919	Thriller-or-Suspense
+32	Luftslottet som sprängdes	2010-04-30	Alliance Atlantis	R	$154,599	19,495	Thriller-or-Suspense
+33	Cold Weather	2011-02-04	IFC Films	Not Rated	$138,755	17,497	Thriller-or-Suspense
+34	Akmareul Boatda (악마를 보았다)…	2011-03-04	Magnet Pictures	Not Rated	$129,210	16,293	Thriller-or-Suspense
+35	Misterios de Lisboa	2011-08-05	Music Box Films	Not Rated	$110,507	13,935	Thriller-or-Suspense
+36	The Double	2011-10-28	Image Entertainment	PG-13	$99,612	12,561	Thriller-or-Suspense
+37	Viva Riva!	2011-06-10	Music Box Films	R	$61,759	7,788	Thriller-or-Suspense
+38	The Perfect Host	2011-07-01	Magnolia Pictures	R	$48,764	6,149	Thriller-or-Suspense
+39	Texas Killing Fields	2011-10-14	Anchor Bay Entert…	R	$45,470	5,733	Thriller-or-Suspense
+40	Road to Nowhere	2011-06-10	Monterey Media	R	$40,294	5,081	Thriller-or-Suspense
+41	Went the Day Well?	1944-06-28		Not Rated	$39,523	4,983	Thriller-or-Suspense
+42	Small Town Murder Songs	2011-05-27	Monterey Media	R	$31,133	3,925	Thriller-or-Suspense
+43	Vanishing on 7th Street	2011-02-18	Magnet Pictures	R	$22,729	2,866	Thriller-or-Suspense
+44	Brotherhood	2011-02-18	Phase 4 Films	R	$19,722	2,487	Thriller-or-Suspense
+45	The Next Three Days	2010-11-19	Lionsgate	PG-13	$19,303	2,434	Thriller-or-Suspense
+46	InSight	2011-09-02	Check Entertainme…	R	$17,107	2,157	Thriller-or-Suspense
+47	Trespass	2011-10-14	Alchemy	R	$16,816	2,120	Thriller-or-Suspense
+48	The Tenant	2011-04-15	Indican Pictures	Not Rated	$15,003	1,891	Thriller-or-Suspense
+49	The Town	2010-09-17	Warner Bros.	R	$13,027	1,643	Thriller-or-Suspense
+50	I'm Not Jesus Mommy	2011-05-06	FilmDemic	R	$12,620	1,591	Thriller-or-Suspense
+51	Shanghai Red	2010-01-01	Indican Pictures	Not Rated	$8,904	1,122	Thriller-or-Suspense
+52	Wrecked	2011-04-01	IFC Films	R	$8,020	1,011	Thriller-or-Suspense
+53	Inception	2010-07-16	Warner Bros.	PG-13	$7,344	926	Thriller-or-Suspense
+54	Good Neighbors	2011-07-29	Magnolia Pictures	R	$7,072	891	Thriller-or-Suspense
+55	Rabia	2011-01-28	Strand	Not Rated	$5,594	705	Thriller-or-Suspense
+56	Daylight	2011-07-15	Cinema Purgatorio	Not Rated	$4,171	525	Thriller-or-Suspense
+57	Zenith	2010-10-01	Cinema Purgatorio	Not Rated	$3,801	479	Thriller-or-Suspense
+58	Red Hill	2010-11-05	Sony Pictures	R	$2,863	361	Thriller-or-Suspense
+59	Restitution	2011-10-28	Monterey Media	R	$2,664	335	Thriller-or-Suspense
+60	Flickan som lekte med elden	2009-12-25		R	$2,547	321	Thriller-or-Suspense
+61	Män som hatar kvinnor	2009-05-29	Alliance Atlantis	R	$2,075	261	Thriller-or-Suspense
+1	The Hunger Games	2012-03-23	Lionsgate	PG-13	$408,010,692	51,257,624	Thriller-or-Suspense
+2	Taken 2	2012-10-05	20th Century Fox	PG-13	$139,284,764	17,498,085	Thriller-or-Suspense
+3	Prometheus	2012-06-08	20th Century Fox	R	$126,477,084	15,889,080	Thriller-or-Suspense
+4	Safe House	2012-02-10	Universal	R	$126,181,630	15,851,963	Thriller-or-Suspense
+5	The Bourne Legacy	2012-08-10	Universal	PG-13	$113,203,870	14,221,591	Thriller-or-Suspense
+6	Argo	2012-10-12	Warner Bros.	R	$110,106,919	13,832,527	Thriller-or-Suspense
+7	Jack Reacher	2012-12-21	Paramount Pictures	PG-13	$64,697,214	8,127,790	Thriller-or-Suspense
+8	Chronicle	2012-02-03	20th Century Fox	PG-13	$64,575,175	8,112,459	Thriller-or-Suspense
+9	The Grey	2012-01-27	Open Road	R	$51,580,136	6,479,916	Thriller-or-Suspense
+10	Savages	2012-07-06	Universal	R	$47,323,100	5,945,113	Thriller-or-Suspense
+11	The Girl with the Dragon Ta…	2011-12-20	Sony Pictures	R	$46,930,912	5,895,843	Thriller-or-Suspense
+12	The Cabin in the Woods	2012-04-13	Lionsgate	R	$42,073,277	5,285,587	Thriller-or-Suspense
+13	End of Watch	2012-09-21	Open Road	R	$40,891,820	5,137,163	Thriller-or-Suspense
+14	Alex Cross	2012-10-19	Lionsgate	PG-13	$25,888,412	3,252,313	Thriller-or-Suspense
+15	Premium Rush	2012-08-24	Sony Pictures	PG-13	$20,275,446	2,547,166	Thriller-or-Suspense
+16	Tinker Tailor Soldier Spy	2011-12-09	Focus Features	R	$20,193,631	2,536,888	Thriller-or-Suspense
+17	Haywire	2012-01-20	Relativity	R	$18,942,396	2,379,697	Thriller-or-Suspense
+18	Man on a Ledge	2012-01-27	Lionsgate	PG-13	$18,620,000	2,339,195	Thriller-or-Suspense
+19	The Raven	2012-04-27	Relativity	R	$16,008,272	2,011,089	Thriller-or-Suspense
+20	Killing Them Softly	2012-11-30	Weinstein Co.	R	$14,904,981	1,872,485	Thriller-or-Suspense
+21	Lockout	2012-04-13	Open Road	PG-13	$14,326,865	1,799,857	Thriller-or-Suspense
+22	Gone	2012-02-24	Lionsgate	PG-13	$11,682,205	1,467,613	Thriller-or-Suspense
+23	Arbitrage	2012-09-14	Roadside Attractions	R	$7,915,822	994,450	Thriller-or-Suspense
+24	Zero Dark Thirty	2012-12-19	Sony Pictures	R	$4,406,138	553,534	Thriller-or-Suspense
+25	The Cold Light of Day	2012-09-07	Lionsgate	PG-13	$3,763,583	472,811	Thriller-or-Suspense
+26	Omerta	2012-07-11	Alliance Atlantis	Not Rated	$2,462,588	309,370	Thriller-or-Suspense
+27	Ek Tha Tiger	2012-08-15	Yash Raj Films	Not Rated	$2,347,774	294,946	Thriller-or-Suspense
+28	Hodejegerne	2012-04-27	Magnolia Pictures	R	$1,200,010	150,755	Thriller-or-Suspense
+29	Cosmopolis	2012-08-17	Entertainment One	R	$743,636	93,421	Thriller-or-Suspense
+30	Agent Vinod	2012-03-23	Eros Entertainment	Not Rated	$698,210	87,714	Thriller-or-Suspense
+31	The Paperboy	2012-10-05	Alchemy	R	$677,200	85,075	Thriller-or-Suspense
+32	Melancholia	2011-11-11	Magnolia Pictures	R	$513,342	64,490	Thriller-or-Suspense
+33	In Time	2011-10-28	20th Century Fox	PG-13	$477,517	59,989	Thriller-or-Suspense
+34	Sound of My Voice	2012-04-27	Fox Searchlight	R	$408,015	51,258	Thriller-or-Suspense
+35	Branded	2012-09-07	Roadside Attractions	R	$353,513	44,411	Thriller-or-Suspense
+36	Elena	2012-05-16	Zeitgeist	Not Rated	$232,070	29,154	Thriller-or-Suspense
+37	Snabba Cash	2012-07-11	Weinstein Co.	R	$188,870	23,727	Thriller-or-Suspense
+38	Polisse	2012-05-18	IFC Films	Not Rated	$176,988	22,234	Thriller-or-Suspense
+39	From Beneath	2012-08-10	Nocturnal Features	Not Rated	$144,123	18,105	Thriller-or-Suspense
+40	La piel que habito	2011-10-14	Sony Pictures Cla…	R	$143,085	17,975	Thriller-or-Suspense
+41	The Woman in the Fifth	2012-06-15	ATO Pictures	R	$107,921	13,557	Thriller-or-Suspense
+42	360	2012-08-03	Magnolia Pictures	R	$100,343	12,605	Thriller-or-Suspense
+43	On the Ice	2012-02-17	PMK*BNC	R	$70,526	8,860	Thriller-or-Suspense
+44	Martha Marcy May Marlene	2011-10-21	Fox Searchlight	R	$67,595	8,491	Thriller-or-Suspense
+45	Deadfall	2012-12-07	Magnolia Pictures	R	$63,638	7,994	Thriller-or-Suspense
+46	Red Lights	2012-07-13	Alchemy	R	$49,521	6,221	Thriller-or-Suspense
+47	Wake in Fright	2012-10-05	Drafthouse Films	R	$49,458	6,213	Thriller-or-Suspense
+48	Soldiers of Fortune	2012-08-03	Roadside Attractions	R	$38,898	4,886	Thriller-or-Suspense
+49	Max et les ferrailleurs	2012-08-10	Rialto Pictures	Not Rated	$29,174	3,665	Thriller-or-Suspense
+50	Keyhole	2012-04-06	Monterey Media	R	$22,393	2,813	Thriller-or-Suspense
+51	The Day	2012-08-29	Anchor Bay Entert…	R	$20,984	2,636	Thriller-or-Suspense
+52	The Divide	2012-01-13	Anchor Bay Entert…	R	$18,000	2,261	Thriller-or-Suspense
+53	$upercapitalist	2012-08-10		Not Rated	$15,919	1,999	Thriller-or-Suspense
+54	Trade of Innocents	2012-10-05	Monterey Media	PG-13	$15,091	1,895	Thriller-or-Suspense
+55	Shanghai Red	2010-01-01	Indican Pictures	Not Rated	$10,782	1,354	Thriller-or-Suspense
+56	Beneath the Darkness	2012-01-06	Image Entertainment	R	$9,600	1,206	Thriller-or-Suspense
+57	Snowtown	2012-03-02	IFC Midnight	Not Rated	$8,452	1,061	Thriller-or-Suspense
+58	Pusher	2012-10-26	Radius	R	$5,040	633	Thriller-or-Suspense
+59	Brake	2012-03-23	IFC Films	R	$4,876	612	Thriller-or-Suspense
+60	Nuit Blanche	2012-05-11	TriBeca Films	Not Rated	$3,358	421	Thriller-or-Suspense
+61	ATM	2012-04-06	IFC Films	R	$3,010	378	Thriller-or-Suspense
+62	The Samaritan	2012-05-18	IFC Films	R	$2,521	316	Thriller-or-Suspense
+63	Le Moine	2012-12-07	Mongrel Media	R	$2,164	271	Thriller-or-Suspense
+64	Le combat dans l'île	2009-06-12	The Film Desk	PG-13	$1,756	220	Thriller-or-Suspense
+65	Fon tok kuen fah	2012-09-28	Kino Lorber	Not Rated	$1,373	172	Thriller-or-Suspense
+66	A Dark Truth	2013-01-04	Magnolia Pictures	R	$630	79	Thriller-or-Suspense
+1	Gravity	2013-10-04	Warner Bros.	PG-13	$255,621,667	31,441,779	Thriller-or-Suspense
+2	Now You See Me	2013-05-31	Lionsgate	PG-13	$117,723,989	14,480,195	Thriller-or-Suspense
+3	Olympus Has Fallen	2013-03-22	FilmDistrict	R	$98,927,592	12,168,215	Thriller-or-Suspense
+4	Zero Dark Thirty	2012-12-19	Sony Pictures	R	$91,314,578	11,231,805	Thriller-or-Suspense
+5	Oblivion	2013-04-19	Universal	PG-13	$89,107,235	10,960,299	Thriller-or-Suspense
+6	White House Down	2013-06-28	Sony Pictures	PG-13	$73,103,784	8,991,855	Thriller-or-Suspense
+7	Prisoners	2013-09-20	Warner Bros.	R	$61,002,302	7,503,358	Thriller-or-Suspense
+8	The Call	2013-03-15	Sony Pictures	R	$51,872,378	6,380,366	Thriller-or-Suspense
+9	Snitch	2013-02-22	Lionsgate	PG-13	$42,930,462	5,280,499	Thriller-or-Suspense
+10	Side Effects	2013-02-08	Open Road	R	$32,172,757	3,957,288	Thriller-or-Suspense
+11	The Host	2013-03-29	Open Road	PG-13	$26,623,701	3,274,747	Thriller-or-Suspense
+12	Argo	2012-10-12	Warner Bros.	R	$25,918,584	3,188,017	Thriller-or-Suspense
+13	Escape Plan	2013-10-18	Lionsgate	R	$25,063,555	3,082,848	Thriller-or-Suspense
+14	Broken City	2013-01-18	20th Century Fox	R	$19,701,164	2,423,267	Thriller-or-Suspense
+15	Runner Runner	2013-10-04	20th Century Fox	R	$19,316,646	2,375,971	Thriller-or-Suspense
+16	Parker	2013-01-25	FilmDistrict	R	$17,616,641	2,166,868	Thriller-or-Suspense
+17	The Counselor	2013-10-25	20th Century Fox	R	$16,960,224	2,086,128	Thriller-or-Suspense
+18	Jack Reacher	2012-12-21	Paramount Pictures	PG-13	$15,373,522	1,890,962	Thriller-or-Suspense
+19	Spring Breakers	2013-03-15	A24	R	$14,124,286	1,737,304	Thriller-or-Suspense
+20	Dead Man Down	2013-03-08	FilmDistrict	R	$10,895,295	1,340,134	Thriller-or-Suspense
+21	Getaway	2013-08-30	Warner Bros.	PG-13	$10,501,938	1,291,751	Thriller-or-Suspense
+22	Paranoia	2013-08-16	Relativity	PG-13	$7,388,654	908,813	Thriller-or-Suspense
+23	All is Lost	2013-10-18	Roadside Attractions	PG-13	$6,047,207	743,813	Thriller-or-Suspense
+24	Closed Circuit	2013-08-28	Focus Features	R	$5,750,995	707,379	Thriller-or-Suspense
+25	The Company You Keep	2013-04-05	Sony Pictures Cla…	R	$5,132,442	631,296	Thriller-or-Suspense
+26	Trance	2013-04-05	Fox Searchlight	R	$2,322,593	285,681	Thriller-or-Suspense
+27	The Saratov Approach	2013-10-09	Purdie Distribution	PG-13	$1,573,124	193,496	Thriller-or-Suspense
+28	Phantom	2013-03-01	RCR Media Group	R	$1,034,589	127,255	Thriller-or-Suspense
+29	Only God Forgives	2013-07-19	Radius	R	$775,849	95,430	Thriller-or-Suspense
+30	Taken 2	2012-10-05	20th Century Fox	PG-13	$569,523	70,052	Thriller-or-Suspense
+31	Sinsegye	2013-03-22	Well Go USA	Not Rated	$450,222	55,377	Thriller-or-Suspense
+32	Kapringen	2013-06-21	Magnolia Pictures	R	$414,437	50,976	Thriller-or-Suspense
+33	On The Job	2013-09-27	Well Go USA	Not Rated	$161,217	19,829	Thriller-or-Suspense
+34	Du zhan	2013-07-26	Variance Films	R	$128,195	15,768	Thriller-or-Suspense
+35	Europa Report	2013-08-02	Magnolia Pictures	PG-13	$125,687	15,459	Thriller-or-Suspense
+36	End of Watch	2012-09-21	Open Road	R	$111,551	13,720	Thriller-or-Suspense
+37	Shadow Dancer	2013-04-28	Magnolia Pictures	R	$100,616	12,375	Thriller-or-Suspense
+38	Das letzte Schweigen	2013-03-08	Music Box Films	Not Rated	$100,214	12,326	Thriller-or-Suspense
+39	Passion	2013-08-30	Entertainment One	R	$85,726	10,544	Thriller-or-Suspense
+40	Byzantium	2013-06-28	IFC Films	R	$85,252	10,486	Thriller-or-Suspense
+41	We Are What We Are	2013-09-27	Entertainment One	R	$81,381	10,009	Thriller-or-Suspense
+42	Go For Sisters	2013-11-08	Variance Films	Not Rated	$62,107	7,639	Thriller-or-Suspense
+43	The Canyons	2013-08-02	IFC Films	R	$59,671	7,339	Thriller-or-Suspense
+44	Final: The Rapture	2013-09-13	Riverrain	PG-13	$54,466	6,699	Thriller-or-Suspense
+45	Killing Them Softly	2012-11-30	Weinstein Co.	R	$40,560	4,988	Thriller-or-Suspense
+46	Redemption	2013-06-28	Roadside Attractions	R	$36,686	4,512	Thriller-or-Suspense
+47	Maniac	2013-06-21	IFC Midnight	Not Rated	$26,826	3,299	Thriller-or-Suspense
+48	Graceland	2013-04-26	Drafthouse Films	Not Rated	$24,529	3,017	Thriller-or-Suspense
+49	Simon Killer	2013-04-05	IFC Films	Not Rated	$24,082	2,962	Thriller-or-Suspense
+50	The Last Days on Mars	2013-12-06	Magnolia Pictures	R	$23,376	2,875	Thriller-or-Suspense
+51	A Single Shot	2013-09-20	TriBeca Films	Not Rated	$18,642	2,292	Thriller-or-Suspense
+52	Evil Intent	2013-06-28		Not Rated	$10,336	1,271	Thriller-or-Suspense
+53	Girls Against Boys	2013-02-01	Anchor Bay Entert…	R	$7,529	926	Thriller-or-Suspense
+54	Welcome to the Punch	2013-03-27	IFC Films	R	$7,034	865	Thriller-or-Suspense
+55	La proie	2013-06-07	Cohen Media Group	R	$6,310	776	Thriller-or-Suspense
+56	Le Moine	2012-12-07	Mongrel Media	R	$6,254	769	Thriller-or-Suspense
+57	Sweetwater	2013-10-11		R	$6,147	756	Thriller-or-Suspense
+58	A Dark Truth	2013-01-04	Magnolia Pictures	R	$5,120	629	Thriller-or-Suspense
+59	Inescapable	2013-02-22	IFC Films	R	$4,327	532	Thriller-or-Suspense
+60	Rubberneck	2013-02-22	TriBeca Films	Not Rated	$4,150	510	Thriller-or-Suspense
+61	Silver Circle	2013-03-22	Hybrid Pictures	PG-13	$4,080	501	Thriller-or-Suspense
+62	Max et les ferrailleurs	2012-08-10	Rialto Pictures	Not Rated	$3,891	478	Thriller-or-Suspense
+63	Arbitrage	2012-09-14	Roadside Attractions	R	$3,752	461	Thriller-or-Suspense
+64	Los Condenados	2013-03-01	Strand	Not Rated	$3,489	429	Thriller-or-Suspense
+65	Plush	2013-09-13	IM Global/Blumhouse	R	$3,080	378	Thriller-or-Suspense
+66	Pawn	2013-04-19	Anchor Bay Entert…	R	$2,793	343	Thriller-or-Suspense
+67	Deadfall	2012-12-07	Magnolia Pictures	R	$2,713	333	Thriller-or-Suspense
+68	Knife Fight	2013-01-25	IFC Films	R	$2,019	248	Thriller-or-Suspense
+69	La marque des anges	2013-09-27	Mongrel Media	Not Rated	$1,329	163	Thriller-or-Suspense
+70	Le combat dans l'île	2009-06-12	The Film Desk	PG-13	$821	100	Thriller-or-Suspense
+1	The Hunger Games: Mockingja…	2014-11-21	Lionsgate	PG-13	$323,734,502	39,624,786	Thriller-or-Suspense
+2	Gone Girl	2014-10-03	20th Century Fox	R	$166,197,583	20,342,421	Thriller-or-Suspense
+3	The Purge: Anarchy	2014-07-18	Universal	R	$71,562,550	8,759,186	Thriller-or-Suspense
+4	No Good Deed	2014-09-12	Sony Pictures	PG-13	$52,543,632	6,431,289	Thriller-or-Suspense
+5	Into the Storm	2014-08-08	Warner Bros.	PG-13	$47,602,194	5,826,461	Thriller-or-Suspense
+6	Nightcrawler	2014-10-31	Open Road	R	$31,983,186	3,914,710	Thriller-or-Suspense
+7	3 Days to Kill	2014-02-21	Relativity	PG-13	$30,697,999	3,757,405	Thriller-or-Suspense
+8	The November Man	2014-08-27	Relativity	R	$25,018,119	3,062,193	Thriller-or-Suspense
+9	Transcendence	2014-04-18	Warner Bros.	PG-13	$23,022,309	2,817,908	Thriller-or-Suspense
+10	Gravity	2013-10-04	Warner Bros.	PG-13	$18,471,038	2,260,836	Thriller-or-Suspense
+11	A Most Wanted Man	2014-07-25	Roadside Attractions	R	$17,237,855	2,109,896	Thriller-or-Suspense
+12	Left Behind	2014-10-03	Freestyle Releasing	PG-13	$14,019,924	1,716,024	Thriller-or-Suspense
+13	Snowpiercer	2014-06-27	RADiUS-TWC	R	$4,563,029	558,510	Thriller-or-Suspense
+14	Before I Go to Sleep	2014-10-31	Clarius Entertain…	R	$3,242,457	396,873	Thriller-or-Suspense
+15	Under the Skin	2014-04-04	A24	R	$2,614,251	319,981	Thriller-or-Suspense
+16	Kill the Messenger	2014-10-10	Focus Features	R	$2,450,846	299,981	Thriller-or-Suspense
+17	Locke	2014-04-25	A24	R	$1,370,646	167,765	Thriller-or-Suspense
+18	Repentance	2014-02-28	Codeblack Enterta…	R	$1,189,612	145,607	Thriller-or-Suspense
+19	Enemy	2014-03-14	A24	R	$1,005,824	123,111	Thriller-or-Suspense
+20	Más negro que la noche	2014-09-26	Lionsgate	R	$870,063	106,494	Thriller-or-Suspense
+21	Holiday	2014-06-06	Reliance Entertai…	Not Rated	$706,893	86,523	Thriller-or-Suspense
+22	The Signal	2014-06-13	Focus Features	PG-13	$600,896	73,549	Thriller-or-Suspense
+23	Omar	2014-02-21	Adopt Films	Not Rated	$583,000	71,358	Thriller-or-Suspense
+24	The Saratov Approach	2013-10-09	Purdie Distribution	PG-13	$573,874	70,241	Thriller-or-Suspense
+25	The Two Faces of January	2014-09-26	Magnolia Pictures	PG-13	$507,463	62,112	Thriller-or-Suspense
+26	The Captive	2014-09-05	Entertainment One	R	$450,000	55,079	Thriller-or-Suspense
+27	In Secret	2014-02-21	Roadside Attractions	R	$444,179	54,367	Thriller-or-Suspense
+28	Cold in July	2014-05-23	IFC Films	R	$423,223	51,802	Thriller-or-Suspense
+29	The Guest	2014-09-17	Picturehouse	R	$369,911	45,276	Thriller-or-Suspense
+30	Night Moves	2014-05-30	Cinedigm	R	$271,755	33,262	Thriller-or-Suspense
+31	Blue Ruin	2014-04-25	RADiUS-TWC	R	$258,384	31,625	Thriller-or-Suspense
+32	La chambre bleue	2014-10-03	IFC Films	R	$257,757	31,549	Thriller-or-Suspense
+33	All is Lost	2013-10-18	Roadside Attractions	PG-13	$216,463	26,494	Thriller-or-Suspense
+34	Jinn	2014-04-04	Freestyle Releasing	PG-13	$202,348	24,767	Thriller-or-Suspense
+35	Bethlehem	2014-03-07	Adopt Films	Not Rated	$127,115	15,558	Thriller-or-Suspense
+36	Escape Plan	2013-10-18	Lionsgate	R	$72,410	8,862	Thriller-or-Suspense
+37	Final: The Rapture	2013-09-13	Riverrain	PG-13	$70,095	8,579	Thriller-or-Suspense
+38	Cheap Thrills	2014-03-21	Drafthouse Films	Not Rated	$59,424	7,273	Thriller-or-Suspense
+39	Borgman	2014-06-06	Drafthouse Films	Not Rated	$57,475	7,034	Thriller-or-Suspense
+40	The Bag Man	2014-02-28	Cinedigm	R	$56,574	6,924	Thriller-or-Suspense
+41	A Field in England	2014-02-07	Drafthouse Films	Not Rated	$32,846	4,020	Thriller-or-Suspense
+42	Big Bad Wolves	2014-01-17	Magnet Pictures	Not Rated	$32,828	4,018	Thriller-or-Suspense
+43	Grand Piano	2014-03-07	Magnolia Pictures	R	$22,555	2,760	Thriller-or-Suspense
+44	Murder Eleven	2013-10-01	Indican Pictures	R	$22,107	2,705	Thriller-or-Suspense
+45	Cold Comes the Night	2014-01-10	Stage 6 Samuel Go…	R	$16,971	2,077	Thriller-or-Suspense
+46	The Counselor	2013-10-25	20th Century Fox	R	$13,491	1,651	Thriller-or-Suspense
+47	Alien Abduction	2014-04-04	IFC Midnight	Not Rated	$12,087	1,479	Thriller-or-Suspense
+48	Last Passenger	2014-04-25	Cohen Media Group	R	$9,326	1,141	Thriller-or-Suspense
+49	Radio Free Albemuth	2014-06-27	Freestyle Releasing	R	$8,493	1,039	Thriller-or-Suspense
+50	Go For Sisters	2013-11-08	Variance Films	Not Rated	$8,388	1,026	Thriller-or-Suspense
+51	L’étrange couleur des larme…	2014-08-29	Strand	Not Rated	$7,182	879	Thriller-or-Suspense
+52	Pioneer	2014-12-05	Magnolia Pictures	R	$6,847	838	Thriller-or-Suspense
+53	The Devil's Hand	2014-10-10	Roadside Attractions	PG-13	$4,239	518	Thriller-or-Suspense
+54	Locker 13	2014-03-28	Brothers' Ink Pro…	R	$3,496	427	Thriller-or-Suspense
+55	The Girl on the Train	2014-07-03	Monterey Media	R	$3,124	382	Thriller-or-Suspense
+56	Missionary	2014-10-29	Freestyle Releasing	R	$2,120	259	Thriller-or-Suspense
+57	These Final Hours	2014-10-17	Mongrel Media	Not Rated	$1,780	217	Thriller-or-Suspense
+58	Truth	2014-01-10	Left of Center En…	Not Rated	$1,626	199	Thriller-or-Suspense
+59	The Butterfly Room	2014-04-11	Archstone Enterta…	Not Rated	$1,081	132	Thriller-or-Suspense
+60	The Last Days on Mars	2013-12-06	Magnolia Pictures	R	$708	86	Thriller-or-Suspense
+1	The Hunger Games: Mockingja…	2015-11-20	Lionsgate	PG-13	$274,185,395	32,524,957	Thriller-or-Suspense
+2	The Martian	2015-10-02	20th Century Fox	PG-13	$225,345,353	26,731,359	Thriller-or-Suspense
+3	Bridge of Spies	2015-10-16	Walt Disney	PG-13	$70,610,153	8,376,056	Thriller-or-Suspense
+4	The Perfect Guy	2015-09-11	Sony Pictures	PG-13	$57,027,435	6,764,820	Thriller-or-Suspense
+5	Sicario	2015-09-18	Lionsgate	R	$46,823,967	5,554,444	Thriller-or-Suspense
+6	The Gift	2015-08-07	STX Entertainment	R	$43,787,265	5,194,218	Thriller-or-Suspense
+7	The Boy Next Door	2015-01-23	Universal	R	$36,006,065	4,271,182	Thriller-or-Suspense
+8	No Escape	2015-08-26	Weinstein Co.	R	$27,288,872	3,237,114	Thriller-or-Suspense
+9	Ex Machina	2015-04-10	A24	R	$25,440,971	3,017,908	Thriller-or-Suspense
+10	Secret in Their Eyes	2015-11-20	STX Entertainment	PG-13	$20,119,034	2,386,599	Thriller-or-Suspense
+11	The Hunger Games: Mockingja…	2014-11-21	Lionsgate	PG-13	$13,401,383	1,589,725	Thriller-or-Suspense
+12	Self/Less	2015-07-10	Focus Features	PG-13	$12,279,691	1,456,665	Thriller-or-Suspense
+13	The Gunman	2015-03-20	Open Road	R	$10,664,749	1,265,094	Thriller-or-Suspense
+14	Blackhat	2015-01-16	Universal	R	$8,005,980	949,701	Thriller-or-Suspense
+15	The Loft	2015-01-30	Open Road	R	$6,002,684	712,062	Thriller-or-Suspense
+16	Victor Frankenstein	2015-11-25	20th Century Fox	PG-13	$5,775,076	685,062	Thriller-or-Suspense
+17	Truth	2015-10-16	Sony Pictures Cla…	R	$2,517,245	298,605	Thriller-or-Suspense
+18	Assassination	2015-08-07	Well Go USA	Not Rated	$1,904,682	225,940	Thriller-or-Suspense
+19	Legend	2015-11-20	Universal	R	$1,852,124	219,706	Thriller-or-Suspense
+20	Gone Girl	2014-10-03	20th Century Fox	R	$1,569,606	186,193	Thriller-or-Suspense
+21	’71	2015-02-27	Roadside Attractions	R	$1,270,847	150,752	Thriller-or-Suspense
+22	Child 44	2015-04-17	Lionsgate	R	$1,224,330	145,234	Thriller-or-Suspense
+23	Black Sea	2015-01-23	Focus Features	R	$1,171,559	138,974	Thriller-or-Suspense
+24	Remember	2015-10-16	Entertainment One	R	$501,931	59,541	Thriller-or-Suspense
+25	The Third Man	1950-02-02	Selznick Releasin…	Not Rated	$437,795	51,932	Thriller-or-Suspense
+26	Wo shi zheng ren	2015-10-30	China Lion Film D…	Not Rated	$409,644	48,593	Thriller-or-Suspense
+27	Badlapur	2015-02-20	Eros Entertainment	Not Rated	$409,166	48,536	Thriller-or-Suspense
+28	Nightcrawler	2014-10-31	Open Road	R	$398,032	47,216	Thriller-or-Suspense
+29	Freetown	2015-04-08	Purdie Distribution	PG-13	$397,122	47,108	Thriller-or-Suspense
+30	Nh10	2015-03-13	Eros Entertainment	Not Rated	$262,586	31,148	Thriller-or-Suspense
+31	Dark Places	2015-08-07	A24	R	$208,588	24,743	Thriller-or-Suspense
+32	Une nouvelle amie	2015-06-05	Mongrel Media	R	$196,284	23,283	Thriller-or-Suspense
+33	La French	2015-05-15	Drafthouse Films	R	$190,980	22,654	Thriller-or-Suspense
+34	Beeba Boys	2015-10-16		Not Rated	$189,786	22,513	Thriller-or-Suspense
+35	Cop Car	2015-08-07	Focus Features	R	$134,552	15,961	Thriller-or-Suspense
+36	Z for Zachariah	2015-08-25	Roadside Attractions	PG-13	$121,461	14,408	Thriller-or-Suspense
+37	Every Secret Thing	2015-05-15	Starz Digital Media	R	$103,536	12,281	Thriller-or-Suspense
+38	Man from Reno	2015-03-27	Gravitas Ventures	Not Rated	$92,918	11,022	Thriller-or-Suspense
+39	Backcountry	2015-03-20	IFC Midnight	R	$71,191	8,444	Thriller-or-Suspense
+40	Du rififi chez les hommes	1956-06-05		Not Rated	$57,749	6,850	Thriller-or-Suspense
+41	Heist	2015-11-13	Lionsgate	R	$50,136	5,947	Thriller-or-Suspense
+42	Beyond The Reach	2015-04-17	Roadside Attractions	R	$45,895	5,444	Thriller-or-Suspense
+43	Lost River	2015-04-07	Warner Bros.	R	$45,431	5,389	Thriller-or-Suspense
+44	Mr. X	2015-04-17	Fox International	Not Rated	$44,995	5,337	Thriller-or-Suspense
+45	Marnie	1964-07-22		PG	$44,261	5,250	Thriller-or-Suspense
+46	Knock Knock	2015-10-09	Lionsgate	R	$36,336	4,310	Thriller-or-Suspense
+47	Kill Me Three Times	2015-03-26	Magnolia Pictures	R	$24,296	2,882	Thriller-or-Suspense
+48	Extraction	2015-12-18	Lionsgate	R	$16,775	1,989	Thriller-or-Suspense
+49	Kkeut-kka-ji-gan-da	2015-07-17	Kino Lorber	Not Rated	$16,563	1,964	Thriller-or-Suspense
+50	Dawn of the Crescent Moon	2015-07-17	Indican Pictures	Not Rated	$8,799	1,043	Thriller-or-Suspense
+51	Area 51	2015-05-15	Paramount Pictures	R	$7,556	896	Thriller-or-Suspense
+52	Victoria	2015-10-09	Adopt Films	Not Rated	$6,971	826	Thriller-or-Suspense
+53	Gabriel	2015-06-19	Oscilloscope Pict…	Not Rated	$6,959	825	Thriller-or-Suspense
+54	The Suicide Theory	2015-07-10	Freestyle Releasing	R	$6,434	763	Thriller-or-Suspense
+55	Alléluia	2015-07-17	Doppelganger Rele…	Not Rated	$6,334	751	Thriller-or-Suspense
+56	The Living	2015-04-03	Monterey Media	R	$5,514	654	Thriller-or-Suspense
+57	Dias de gracia	2015-05-01	Cinema Libre	Not Rated	$4,308	511	Thriller-or-Suspense
+58	Blackhats	2015-10-23	Reel One Entertai…	Not Rated	$3,442	408	Thriller-or-Suspense
+59	Hyena	2015-04-14	TriBeca Films	Not Rated	$3,401	403	Thriller-or-Suspense
+60	Windsor Drive	2015-08-28	Indican Pictures	Not Rated	$3,256	386	Thriller-or-Suspense
+61	Julia	2015-10-23	Archstone Enterta…	R	$2,710	321	Thriller-or-Suspense
+62	La chambre bleue	2014-10-03	IFC Films	R	$2,684	318	Thriller-or-Suspense
+63	Body	2015-12-11	Oscilloscope Pict…	Not Rated	$2,634	312	Thriller-or-Suspense
+64	La dame dans l’auto avec de…	2015-12-18	Magnolia Pictures	Not Rated	$1,901	225	Thriller-or-Suspense
+65	Cut Snake	2015-10-16	Monterey Media	R	$1,625	192	Thriller-or-Suspense
+66	The Captive	2014-09-05	Entertainment One	R	$1,457	172	Thriller-or-Suspense
+67	El Nino	2015-04-17	Distrib Films	Not Rated	$245	29	Thriller-or-Suspense
+68	Pioneer	2014-12-05	Magnolia Pictures	R	$24	2	Thriller-or-Suspense

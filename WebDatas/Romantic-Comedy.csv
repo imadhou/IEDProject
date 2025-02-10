@@ -1,0 +1,435 @@
+Rank	Movie	Release Date	Theatrical Distributor	MPAA Rating	Gross	Tickets Sold	Gender
+1	What Women Want	2000-12-15	Paramount Pictures	PG-13	$115,761,883	21,477,158	Romantic-Comedy
+2	Me, Myself & Irene	2000-06-23	20th Century Fox	R	$90,570,999	16,803,524	Romantic-Comedy
+3	Keeping the Faith	2000-04-14	Walt Disney	PG-13	$37,036,404	6,871,317	Romantic-Comedy
+4	Return to Me	2000-04-07	MGM	PG	$32,662,299	6,059,795	Romantic-Comedy
+5	Boys and Girls	2000-06-16	Miramax	PG-13	$21,799,652	4,044,462	Romantic-Comedy
+6	Down to You	2000-01-21	Miramax	PG-13	$20,035,310	3,717,126	Romantic-Comedy
+7	Loser	2000-07-21	Sony Pictures	R	$15,464,026	2,869,021	Romantic-Comedy
+8	Dr. T and the Women	2000-10-13	Artisan	R	$13,065,561	2,424,037	Romantic-Comedy
+9	Whatever it Takes	2000-03-24	Sony Pictures	PG-13	$8,735,529	1,620,691	Romantic-Comedy
+10	Woman on Top	2000-09-22	Fox Searchlight	R	$5,018,450	931,066	Romantic-Comedy
+11	The Tao of Steve	2000-08-04	Sony Pictures Cla…	R	$4,342,203	805,603	Romantic-Comedy
+12	Sweet and Lowdown	1999-12-03	Sony Pictures Cla…	PG-13	$3,329,098	617,643	Romantic-Comedy
+13	Bossa Nova	2000-04-28	Sony Pictures Cla…	R	$1,816,792	337,067	Romantic-Comedy
+14	Girl on the Bridge	2000-07-28	Paramount Vantage	R	$1,713,995	317,995	Romantic-Comedy
+15	The Best Man	1999-10-22	Universal	R	$809,260	150,141	Romantic-Comedy
+16	Me, Myself & I	2000-04-07	Sony Pictures Cla…	R	$565,193	104,859	Romantic-Comedy
+17	Love and Sex	2000-08-25	Lionsgate	Not Rated	$536,287	99,496	Romantic-Comedy
+18	The Bachelor	1999-11-05	New Line	PG-13	$464,545	86,186	Romantic-Comedy
+19	Love's Labour's Lost	2000-06-09	Miramax	PG	$284,291	52,744	Romantic-Comedy
+20	Chal Mere Bhai	2000-05-05	Eros Entertainment	Not Rated	$199,227	36,962	Romantic-Comedy
+21	Fever Pitch	1999-09-24	Phaedra Cinema	R	$110,865	20,568	Romantic-Comedy
+22	Runaway Bride	1999-07-30	Paramount Pictures	PG	$95,162	17,655	Romantic-Comedy
+23	Mad About Mambo	2000-08-04		PG-13	$61,663	11,440	Romantic-Comedy
+24	Drive Me Crazy	1999-10-01	20th Century Fox	PG-13	$29,895	5,546	Romantic-Comedy
+1	America's Sweethearts	2001-07-20	Sony Pictures	PG-13	$93,607,673	16,538,458	Romantic-Comedy
+2	Bridget Jones's Diary	2001-04-13	Miramax	R	$71,500,556	12,632,607	Romantic-Comedy
+3	Shallow Hal	2001-11-09	20th Century Fox	PG-13	$68,817,987	12,158,654	Romantic-Comedy
+4	What Women Want	2000-12-15	Paramount Pictures	PG-13	$67,043,240	11,845,095	Romantic-Comedy
+5	The Wedding Planner	2001-01-26	Sony Pictures	PG-13	$60,400,856	10,671,529	Romantic-Comedy
+6	Serendipity	2001-10-05	Miramax	PG-13	$50,255,310	8,879,030	Romantic-Comedy
+7	Kate and Leopold	2001-12-25	Miramax	PG-13	$30,588,006	5,404,241	Romantic-Comedy
+8	Someone Like You	2001-03-30	20th Century Fox	PG-13	$27,338,033	4,830,041	Romantic-Comedy
+9	Two Can Play That Game	2001-09-07	Sony Pictures	R	$22,235,901	3,928,604	Romantic-Comedy
+10	Summer Catch	2001-08-24	Warner Bros.	PG-13	$19,693,891	3,479,486	Romantic-Comedy
+11	Le Fabuleux destin d'Amélie…	2001-11-02	Miramax	R	$17,695,648	3,126,439	Romantic-Comedy
+12	Get Over It	2001-03-09	Miramax	PG-13	$11,560,259	2,042,448	Romantic-Comedy
+13	Head Over Heels	2001-02-02	Universal	PG-13	$10,397,365	1,836,990	Romantic-Comedy
+14	Town & Country	2001-04-27	New Line	R	$6,712,451	1,185,945	Romantic-Comedy
+15	On the Line	2001-10-26	Miramax	PG	$4,365,455	771,281	Romantic-Comedy
+16	All Over the Guy	2001-08-10	Lionsgate	R	$1,006,969	177,909	Romantic-Comedy
+17	American Desi	2001-03-16	Eros Entertainment	Not Rated	$902,835	159,511	Romantic-Comedy
+18	Va Savoir (Who Knows?)	2001-09-28	Sony Pictures Cla…	PG-13	$795,498	140,547	Romantic-Comedy
+19	Happy Accidents	2001-08-24	IFC Films	R	$688,523	121,647	Romantic-Comedy
+20	The Taste of Others	2001-02-09	Miramax	R	$635,282	112,240	Romantic-Comedy
+21	Better than Sex	2001-10-26	Samuel Goldwyn Films	R	$94,940	16,773	Romantic-Comedy
+22	Best Man in Grass Creek	2001-04-20		PG	$81,760	14,445	Romantic-Comedy
+23	Mademoiselle	2001-06-15		Not Rated	$60,859	10,752	Romantic-Comedy
+24	Café Olé	2001-06-08	Equinox	Not Rated	$20,610	3,641	Romantic-Comedy
+25	Let it Snow	2001-06-08		R	$20,555	3,631	Romantic-Comedy
+26	Du pic au coeur	2001-02-09		Not Rated	$1,775	313	Romantic-Comedy
+1	My Big Fat Greek Wedding	2002-04-19	IFC Films	PG	$227,898,505	39,225,216	Romantic-Comedy
+2	Maid in Manhattan	2002-12-13	Sony Pictures	PG-13	$76,328,613	13,137,454	Romantic-Comedy
+3	Two Weeks Notice	2002-12-20	Warner Bros.	PG-13	$68,810,079	11,843,387	Romantic-Comedy
+4	About a Boy	2002-05-17	Universal	PG-13	$40,803,000	7,022,891	Romantic-Comedy
+5	40 Days and 40 Nights	2002-03-01	Miramax	R	$37,939,782	6,530,082	Romantic-Comedy
+6	Brown Sugar	2002-10-11	20th Century Fox	PG-13	$27,307,799	4,700,137	Romantic-Comedy
+7	The Sweetest Thing	2002-04-12	Sony Pictures	R	$24,430,272	4,204,866	Romantic-Comedy
+8	Serving Sara	2002-08-23	Paramount Pictures	PG-13	$16,930,185	2,913,973	Romantic-Comedy
+9	Kate and Leopold	2001-12-25	Miramax	PG-13	$16,507,447	2,841,212	Romantic-Comedy
+10	Le Fabuleux destin d'Amélie…	2001-11-02	Miramax	R	$15,506,013	2,668,849	Romantic-Comedy
+11	Life, or Something Like It	2002-04-26	20th Century Fox	PG-13	$14,448,589	2,486,848	Romantic-Comedy
+12	Kissing Jessica Stein	2002-03-13	Fox Searchlight	R	$7,025,722	1,209,246	Romantic-Comedy
+13	Hollywood Ending	2002-05-03	Dreamworks SKG	PG-13	$4,839,383	832,940	Romantic-Comedy
+14	Shallow Hal	2001-11-09	20th Century Fox	PG-13	$2,018,309	347,385	Romantic-Comedy
+15	Bollywood/Hollywood	2002-10-25	Magnolia Pictures	PG-13	$1,161,947	199,990	Romantic-Comedy
+16	Crush	2002-04-05	Sony Pictures Cla…	R	$1,081,130	186,080	Romantic-Comedy
+17	Swept Away	2002-10-11	Sony Pictures	R	$598,645	103,037	Romantic-Comedy
+18	The Triumph of Love	2002-04-17		PG-13	$446,942	76,926	Romantic-Comedy
+19	Never Again	2002-07-12		R	$307,631	52,948	Romantic-Comedy
+20	The Bread, My Sweet	2002-11-22	Panorama Entertai…	PG-13	$297,335	51,176	Romantic-Comedy
+21	Mujhse Dosti Karoge	2002-08-09		Not Rated	$285,000	49,053	Romantic-Comedy
+22	Waking Up in Reno	2002-10-25	Miramax	R	$261,603	45,026	Romantic-Comedy
+23	Amy's Orgasm	2002-08-23	Magic Lamp	R	$119,664	20,596	Romantic-Comedy
+24	Va Savoir (Who Knows?)	2001-09-28	Sony Pictures Cla…	PG-13	$111,825	19,246	Romantic-Comedy
+1	How to Lose a Guy in 10 Days	2003-02-07	Paramount Pictures	PG-13	$105,807,520	17,546,852	Romantic-Comedy
+2	Something's Gotta Give	2003-12-12	Sony Pictures	PG-13	$81,211,676	13,467,939	Romantic-Comedy
+3	Love Actually	2003-11-07	Universal	R	$57,429,915	9,524,032	Romantic-Comedy
+4	Just Married	2003-01-10	20th Century Fox	PG-13	$56,127,162	9,307,987	Romantic-Comedy
+5	Intolerable Cruelty	2003-10-10	Universal	PG-13	$35,296,248	5,853,440	Romantic-Comedy
+6	Two Weeks Notice	2002-12-20	Warner Bros.	PG-13	$24,544,839	4,070,454	Romantic-Comedy
+7	Down with Love	2003-05-09	20th Century Fox	PG-13	$20,305,251	3,367,371	Romantic-Comedy
+8	Love Don't Cost a Thing	2003-12-12	Warner Bros.	PG-13	$20,178,317	3,346,321	Romantic-Comedy
+9	Maid in Manhattan	2002-12-13	Sony Pictures	PG-13	$17,604,283	2,919,449	Romantic-Comedy
+10	Deliver Us From Eva	2003-02-07	Focus Features	R	$17,573,594	2,914,360	Romantic-Comedy
+11	My Boss's Daughter	2003-08-22	Miramax/Dimension	PG-13	$15,549,702	2,578,723	Romantic-Comedy
+12	A Guy Thing	2003-01-17	MGM	PG-13	$15,543,862	2,577,754	Romantic-Comedy
+13	Alex & Emma	2003-06-20	Warner Bros.	PG-13	$14,208,384	2,356,282	Romantic-Comedy
+14	My Big Fat Greek Wedding	2002-04-19	IFC Films	PG	$13,539,703	2,245,390	Romantic-Comedy
+15	Gigli	2003-08-01	Sony Pictures	R	$6,087,542	1,009,542	Romantic-Comedy
+16	L'auberge espagnole	2003-03-21		R	$3,895,664	646,047	Romantic-Comedy
+17	Anything Else	2003-09-19	Dreamworks SKG	R	$3,203,044	531,184	Romantic-Comedy
+18	Nez Rouge	2003-11-28	Christal Films	Not Rated	$1,678,108	278,293	Romantic-Comedy
+19	I Capture the Castle	2003-07-11	Samuel Goldwyn Films	R	$1,174,139	194,716	Romantic-Comedy
+20	The Bread, My Sweet	2002-11-22	Panorama Entertai…	PG-13	$697,864	115,732	Romantic-Comedy
+21	Jet Lag	2003-02-21	Miramax	R	$544,434	90,287	Romantic-Comedy
+22	Passionada	2003-08-15	Samuel Goldwyn Films	PG-13	$536,906	89,039	Romantic-Comedy
+23	Bollywood/Hollywood	2002-10-25	Magnolia Pictures	PG-13	$329,136	54,583	Romantic-Comedy
+24	Brown Sugar	2002-10-11	20th Century Fox	PG-13	$54,913	9,106	Romantic-Comedy
+25	Out of Control	2003-11-21		Not Rated	$36,486	6,050	Romantic-Comedy
+26	Pursuit of Happiness	2003-05-16		Not Rated	$6,850	1,135	Romantic-Comedy
+27	Lan se da men	2003-11-21	Strand	Not Rated	$4,025	667	Romantic-Comedy
+1	50 First Dates	2004-02-13	Sony Pictures	PG-13	$120,776,832	19,448,765	Romantic-Comedy
+2	The Princess Diaries 2: Roy…	2004-08-11	Walt Disney	G	$95,149,435	15,321,970	Romantic-Comedy
+3	Along Came Polly	2004-01-16	Universal	PG-13	$88,073,507	14,182,529	Romantic-Comedy
+4	Shall We Dance?	2004-10-15	Miramax	PG-13	$57,149,868	9,202,877	Romantic-Comedy
+5	13 Going On 30	2004-04-23	Sony Pictures	PG-13	$57,139,723	9,201,243	Romantic-Comedy
+6	A Cinderella Story	2004-07-16	Warner Bros.	PG	$51,438,175	8,283,119	Romantic-Comedy
+7	Something's Gotta Give	2003-12-12	Sony Pictures	PG-13	$43,473,566	7,000,574	Romantic-Comedy
+8	Bridget Jones: The Edge Of …	2004-11-12	Universal	R	$39,877,945	6,421,569	Romantic-Comedy
+9	The Prince & Me	2004-04-02	Paramount Pictures	PG	$28,165,882	4,535,568	Romantic-Comedy
+10	Little Black Book	2004-08-06	Sony Pictures	PG-13	$20,422,207	3,288,600	Romantic-Comedy
+11	Laws of Attraction	2004-04-30	New Line	PG-13	$17,848,322	2,874,125	Romantic-Comedy
+12	Win a Date with Tad Hamilton!	2004-01-23	Dreamworks SKG	PG-13	$16,980,098	2,734,315	Romantic-Comedy
+13	Wimbledon	2004-09-17	Universal	PG-13	$16,862,585	2,715,392	Romantic-Comedy
+14	The Girl Next Door	2004-04-09	20th Century Fox	R	$14,589,444	2,349,346	Romantic-Comedy
+15	Breakin' All the Rules	2004-05-14	20th Century Fox	PG-13	$12,232,382	1,969,787	Romantic-Comedy
+16	Chasing Liberty	2004-01-09	Warner Bros.	PG-13	$12,189,514	1,962,884	Romantic-Comedy
+17	First Daughter	2004-09-24	20th Century Fox	PG	$9,055,010	1,458,133	Romantic-Comedy
+18	Love Actually	2003-11-07	Universal	R	$2,042,363	328,882	Romantic-Comedy
+19	Love Don't Cost a Thing	2003-12-12	Warner Bros.	PG-13	$1,719,072	276,823	Romantic-Comedy
+20	Mujhse Shaadi Karogi	2004-07-30	Zee Studios	Not Rated	$833,648	134,242	Romantic-Comedy
+21	Hum Tum	2004-05-28	Yash Raj Films	Not Rated	$796,641	128,283	Romantic-Comedy
+22	Touch of Pink	2004-07-16	Sony Pictures Cla…	R	$564,535	90,907	Romantic-Comedy
+23	Love Me If You Dare	2004-05-19	Paramount Vantage	R	$548,707	88,358	Romantic-Comedy
+24	Nez Rouge	2003-11-28	Christal Films	Not Rated	$326,706	52,609	Romantic-Comedy
+25	Kyun! Ho Gaya Na...	2004-05-21		Not Rated	$171,966	27,691	Romantic-Comedy
+26	Flavors	2004-07-16	Net Effect	Not Rated	$93,370	15,035	Romantic-Comedy
+27	Seeing Other People	2004-05-07	Lantern Lane Ente…	R	$87,923	14,158	Romantic-Comedy
+28	Intolerable Cruelty	2003-10-10	Universal	PG-13	$31,380	5,053	Romantic-Comedy
+29	The Bread, My Sweet	2002-11-22	Panorama Entertai…	PG-13	$27,957	4,501	Romantic-Comedy
+30	Cowards Bend the Knee	2004-08-13	Zeitgeist	Not Rated	$22,940	3,694	Romantic-Comedy
+31	Easy	2004-11-26	Magic Lamp	R	$21,589	3,476	Romantic-Comedy
+32	Perfect Opposites	2004-02-06		PG-13	$11,329	1,824	Romantic-Comedy
+33	Swing	2004-06-18	RMH Media/Dominio…	PG-13	$2,509	404	Romantic-Comedy
+34	Lan se da men	2003-11-21	Strand	Not Rated	$2,104	338	Romantic-Comedy
+1	Hitch	2005-02-11	Sony Pictures	PG-13	$177,784,257	27,735,453	Romantic-Comedy
+2	Are We There Yet?	2005-01-21	Sony Pictures	PG	$82,674,398	12,897,721	Romantic-Comedy
+3	Just Like Heaven	2005-09-16	Dreamworks SKG	PG-13	$48,318,130	7,537,929	Romantic-Comedy
+4	Must Love Dogs	2005-07-29	Warner Bros.	PG-13	$43,894,863	6,847,872	Romantic-Comedy
+5	Fever Pitch	2005-04-08	20th Century Fox	PG-13	$42,071,069	6,563,349	Romantic-Comedy
+6	The Wedding Date	2005-02-04	Universal	PG-13	$31,726,995	4,949,609	Romantic-Comedy
+7	Just Friends	2005-11-23	New Line	PG-13	$31,493,937	4,913,250	Romantic-Comedy
+8	Prime	2005-10-28	Universal	PG-13	$22,827,153	3,561,178	Romantic-Comedy
+9	A Lot Like Love	2005-04-22	Walt Disney	PG-13	$21,835,784	3,406,518	Romantic-Comedy
+10	The Perfect Man	2005-06-17	Universal	PG	$16,535,005	2,579,563	Romantic-Comedy
+11	Broken Flowers	2005-08-05	Focus Features	R	$13,744,960	2,144,299	Romantic-Comedy
+12	Undiscovered	2005-08-26	Lionsgate	PG-13	$1,069,318	166,820	Romantic-Comedy
+13	Shall We Dance?	2004-10-15	Miramax	PG-13	$738,014	115,134	Romantic-Comedy
+14	Little Manhattan	2005-09-30	20th Century Fox	PG	$385,373	60,120	Romantic-Comedy
+15	Deewane Huye Paagal	2005-11-24	UTV Communications	Not Rated	$355,962	55,532	Romantic-Comedy
+16	Bridget Jones: The Edge Of …	2004-11-12	Universal	R	$325,075	50,713	Romantic-Comedy
+17	Side Effects	2005-09-09	Sky Island	R	$44,701	6,973	Romantic-Comedy
+18	Girl Play	2005-04-01	Wolfe Releasing	Not Rated	$11,523	1,797	Romantic-Comedy
+1	The Break-Up	2006-06-02	Universal	PG-13	$118,703,275	18,122,637	Romantic-Comedy
+2	Failure to Launch	2006-03-10	Paramount Pictures	PG-13	$88,715,192	13,544,304	Romantic-Comedy
+3	The Holiday	2006-12-08	Sony Pictures	PG-13	$50,084,236	7,646,448	Romantic-Comedy
+4	John Tucker Must Die	2006-07-28	20th Century Fox	PG-13	$41,011,711	6,261,329	Romantic-Comedy
+5	She’s the Man	2006-03-17	Paramount Pictures	PG-13	$33,889,159	5,173,917	Romantic-Comedy
+6	My Super Ex-Girlfriend	2006-07-21	20th Century Fox	PG-13	$22,530,295	3,439,739	Romantic-Comedy
+7	Just My Luck	2006-05-12	20th Century Fox	PG-13	$17,326,650	2,645,290	Romantic-Comedy
+8	The Last Kiss	2006-09-15	Paramount Pictures	R	$11,614,790	1,773,250	Romantic-Comedy
+9	Scoop	2006-07-28	Focus/Rogue Pictures	PG-13	$10,525,717	1,606,979	Romantic-Comedy
+10	Phat Girlz	2006-04-07	Fox Searchlight	PG-13	$7,061,128	1,078,034	Romantic-Comedy
+11	Boynton Beach Club	2006-03-24	Wingate Distribution	R	$3,127,472	477,476	Romantic-Comedy
+12	Just Friends	2005-11-23	New Line	PG-13	$1,102,979	168,393	Romantic-Comedy
+13	Imagine Me & You	2006-01-27	Fox Searchlight	R	$672,243	102,632	Romantic-Comedy
+14	The Oh in Ohio	2006-07-14	Cyan	R	$418,689	63,921	Romantic-Comedy
+15	Adam & Steve	2006-03-31	TLA Releasing	R	$309,404	47,237	Romantic-Comedy
+16	Seres Queridos	2006-06-16	Magnolia Pictures	R	$284,961	43,505	Romantic-Comedy
+17	Confetti	2006-09-15	Fox Searchlight	R	$228,498	34,885	Romantic-Comedy
+18	Pyar Ke Side Effects	2006-09-15	Eros Entertainment	Not Rated	$30,230	4,615	Romantic-Comedy
+19	Quand la mer monte...	2006-01-13	New Yorker	Not Rated	$24,038	3,669	Romantic-Comedy
+20	April's Shower	2006-01-13	Regent Releasing	R	$16,255	2,481	Romantic-Comedy
+21	Sleeping Dogs Lie	2006-10-20	IDP/Goldwyn/Roadside	R	$15,745	2,403	Romantic-Comedy
+22	My First Wedding	2006-08-18	Indican Pictures	PG-13	$14,982	2,287	Romantic-Comedy
+23	Zerophilia	2006-10-13	Microangelo Enter…	Not Rated	$7,763	1,185	Romantic-Comedy
+1	Knocked Up	2007-06-01	Universal	R	$148,761,765	21,622,349	Romantic-Comedy
+2	Enchanted	2007-11-21	Walt Disney	PG	$119,820,940	17,415,834	Romantic-Comedy
+3	Music and Lyrics	2007-02-14	Warner Bros.	PG-13	$50,572,589	7,350,667	Romantic-Comedy
+4	Dan in Real Life	2007-10-26	Walt Disney	PG-13	$47,130,416	6,850,351	Romantic-Comedy
+5	License to Wed	2007-07-03	Warner Bros.	PG	$43,799,818	6,366,252	Romantic-Comedy
+6	No Reservations	2007-07-27	Warner Bros.	PG	$43,107,979	6,265,694	Romantic-Comedy
+7	Because I Said So	2007-02-02	Universal	PG-13	$42,674,040	6,202,622	Romantic-Comedy
+8	The Heartbreak Kid	2007-10-05	Paramount Pictures	R	$36,787,257	5,346,985	Romantic-Comedy
+9	Good Luck Chuck	2007-09-21	Lionsgate	R	$35,017,297	5,089,723	Romantic-Comedy
+10	Daddy's Little Girls	2007-02-14	Lionsgate	PG-13	$31,366,978	4,559,153	Romantic-Comedy
+11	P.S. I Love You	2007-12-21	Warner Bros.	PG-13	$27,901,562	4,055,460	Romantic-Comedy
+12	Waitress	2007-05-02	Fox Searchlight	PG-13	$19,097,550	2,775,806	Romantic-Comedy
+13	Catch and Release	2007-01-26	Sony Pictures	PG-13	$15,432,542	2,243,102	Romantic-Comedy
+14	The Holiday	2006-12-08	Sony Pictures	PG-13	$13,195,764	1,917,988	Romantic-Comedy
+15	I Think I Love My Wife	2007-03-16	Fox Searchlight	R	$12,559,771	1,825,548	Romantic-Comedy
+16	The Perfect Holiday	2007-12-12	Yari Film Group R…	PG	$5,705,588	829,300	Romantic-Comedy
+17	The Ex	2007-05-11	MGM	PG-13	$3,091,922	449,407	Romantic-Comedy
+18	Salaam-e-Ishq (A Tribute to…	2007-01-25	Eros Entertainment	Not Rated	$1,852,050	269,193	Romantic-Comedy
+19	Namastey London	2007-03-23	Eros Entertainment	Not Rated	$1,207,007	175,437	Romantic-Comedy
+20	Partner	2007-07-20	Eros Entertainment	Not Rated	$1,062,840	154,482	Romantic-Comedy
+21	Broken English	2007-06-22	Magnolia Pictures	PG-13	$956,919	139,087	Romantic-Comedy
+22	Cheeni Kum	2007-05-25	Eros Entertainment	Not Rated	$678,792	98,661	Romantic-Comedy
+23	Angel-A	2007-05-25	Sony Pictures Cla…	R	$202,200	29,389	Romantic-Comedy
+24	Americanizing Shelley	2007-04-26	Rocky Mountain Pi…	PG	$128,024	18,608	Romantic-Comedy
+25	David & Layla	2007-07-20	Newroz Films	R	$105,323	15,308	Romantic-Comedy
+26	Dedication	2007-08-24	Weinstein/Dimension	R	$91,164	13,250	Romantic-Comedy
+27	Puccini for Beginners	2007-02-02	Strand	Not Rated	$89,417	12,996	Romantic-Comedy
+28	Blind Dating	2007-05-11	Samuel Goldwyn Films	PG-13	$87,416	12,705	Romantic-Comedy
+29	The Treatment	2007-05-04	New Yorker	Not Rated	$82,701	12,020	Romantic-Comedy
+30	Gray Matters	2007-02-23	Yari Film Group R…	PG-13	$71,561	10,401	Romantic-Comedy
+31	Falling for Grace	2007-07-20	Slowhand Cinema	PG-13	$30,276	4,400	Romantic-Comedy
+32	Gringo Wedding	2007-05-04	Self Distributed	R	$26,946	3,916	Romantic-Comedy
+33	The Good Night	2007-10-05	Sony Pictures	R	$22,441	3,261	Romantic-Comedy
+34	American Fusion	2007-08-17	Wildcat Releasing	PG-13	$16,000	2,325	Romantic-Comedy
+1	What Happens in Vegas...	2008-05-09	20th Century Fox	PG-13	$80,277,646	11,180,731	Romantic-Comedy
+2	27 Dresses	2008-01-18	20th Century Fox	PG-13	$76,808,654	10,697,584	Romantic-Comedy
+3	Forgetting Sarah Marshall	2008-04-18	Universal	R	$63,172,463	8,798,393	Romantic-Comedy
+4	Made of Honor	2008-05-02	Sony Pictures	PG-13	$46,012,734	6,408,458	Romantic-Comedy
+5	Definitely, Maybe	2008-02-14	Universal	PG-13	$32,241,649	4,490,480	Romantic-Comedy
+6	Leatherheads	2008-04-04	Universal	PG-13	$31,373,938	4,369,629	Romantic-Comedy
+7	P.S. I Love You	2007-12-21	Warner Bros.	PG-13	$25,794,246	3,592,513	Romantic-Comedy
+8	My Best Friend's Girl	2008-09-19	Lionsgate	R	$19,219,250	2,676,776	Romantic-Comedy
+9	Ghost Town	2008-09-19	Paramount Pictures	PG-13	$13,367,624	1,861,786	Romantic-Comedy
+10	Smart People	2008-04-11	Miramax	R	$9,511,289	1,324,692	Romantic-Comedy
+11	Enchanted	2007-11-21	Walt Disney	PG	$7,885,937	1,098,319	Romantic-Comedy
+12	Then She Found Me	2008-04-25	ThinkFilm	R	$3,735,717	520,294	Romantic-Comedy
+13	Sukkar banat	2008-02-01	Roadside Attractions	PG	$1,060,591	147,714	Romantic-Comedy
+14	Bachna Ae Haseeno	2008-08-15	Yash Raj Films	Not Rated	$702,166	97,794	Romantic-Comedy
+15	Noah's Arc: Jumping the Broom	2008-10-24	Logo Features	R	$532,878	74,216	Romantic-Comedy
+16	Dan in Real Life	2007-10-26	Walt Disney	PG-13	$512,547	71,385	Romantic-Comedy
+17	Kismat Konnection	2008-07-18	UTV Communications	Not Rated	$479,759	66,818	Romantic-Comedy
+18	Elsa & Fred	2008-06-27	Mitropoulos Films	PG	$189,024	26,326	Romantic-Comedy
+19	The Other End of the Line	2008-10-31	MGM	PG-13	$115,504	16,086	Romantic-Comedy
+20	The Perfect Holiday	2007-12-12	Yari Film Group R…	PG	$107,193	14,929	Romantic-Comedy
+21	I Can't Think Straight	2008-11-21	Regent Releasing	PG-13	$38,589	5,374	Romantic-Comedy
+22	Kiss the Bride	2008-04-18	Regent Releasing	R	$32,033	4,461	Romantic-Comedy
+23	The Hottie and the Nottie	2008-02-08	Regent Releasing	PG-13	$27,696	3,857	Romantic-Comedy
+24	Antarctica	2008-08-29	Regent Releasing	R	$16,312	2,271	Romantic-Comedy
+25	David & Layla	2007-07-20	Newroz Films	R	$15,427	2,148	Romantic-Comedy
+26	Tru Loved	2008-10-17	Regent Releasing	R	$8,043	1,120	Romantic-Comedy
+27	Jack and Jill vs. the World	2008-04-11	Lantern Lane Ente…	PG-13	$1,964	273	Romantic-Comedy
+1	The Proposal	2009-06-19	Walt Disney	PG-13	$163,958,031	21,861,071	Romantic-Comedy
+2	He's Just Not That Into You	2009-02-06	Warner Bros.	PG-13	$93,953,653	12,527,154	Romantic-Comedy
+3	The Ugly Truth	2009-07-24	Sony Pictures	R	$88,915,214	11,855,361	Romantic-Comedy
+4	It’s Complicated	2009-12-25	Universal	R	$59,178,840	7,890,512	Romantic-Comedy
+5	Ghosts of Girlfriends Past	2009-05-01	Warner Bros.	PG-13	$55,250,026	7,366,670	Romantic-Comedy
+6	Confessions of a Shopaholic	2009-02-13	Walt Disney	PG	$44,277,350	5,903,647	Romantic-Comedy
+7	All About Steve	2009-09-04	20th Century Fox	PG-13	$33,862,903	4,515,054	Romantic-Comedy
+8	(500) Days of Summer	2009-07-17	Fox Searchlight	PG-13	$32,425,665	4,323,422	Romantic-Comedy
+9	Did You Hear About the Morg…	2009-12-18	Sony Pictures	PG-13	$25,312,384	3,374,985	Romantic-Comedy
+10	New in Town	2009-01-30	Lionsgate	PG	$16,734,283	2,231,237	Romantic-Comedy
+11	I Love You, Beth Cooper	2009-07-10	20th Century Fox	PG-13	$14,800,725	1,973,430	Romantic-Comedy
+12	My Life in Ruins	2009-06-05	Fox Searchlight	PG-13	$8,677,425	1,156,990	Romantic-Comedy
+13	Post Grad	2009-08-21	20th Century Fox	PG-13	$6,382,178	850,957	Romantic-Comedy
+14	Whatever Works	2009-06-19	Sony Pictures Cla…	PG-13	$5,306,706	707,560	Romantic-Comedy
+15	Easy Virtue	2009-05-22	Sony Pictures Cla…	PG-13	$2,656,784	354,237	Romantic-Comedy
+16	Love Aaj Kal	2009-07-31	Eros Entertainment	Not Rated	$2,430,083	324,011	Romantic-Comedy
+17	Kambakkht Ishq	2009-07-03	Eros Entertainment	Not Rated	$1,455,739	194,098	Romantic-Comedy
+18	Management	2009-05-15	Samuel Goldwyn Films	R	$934,658	124,621	Romantic-Comedy
+19	Un baiser s'il vous plaît	2009-03-27	Music Box Films	Not Rated	$534,685	71,291	Romantic-Comedy
+20	White On Rice	2009-09-11	Variance Films	PG-13	$67,186	8,958	Romantic-Comedy
+21	The Answer Man	2009-07-24	Magnolia Pictures	R	$26,676	3,556	Romantic-Comedy
+22	I Hate Valentine's Day	2009-07-03	IFC Films	PG-13	$11,004	1,467	Romantic-Comedy
+23	The Bride & The Grooms	2009-04-24	Sumbadhat Product…	Not Rated	$5,995	799	Romantic-Comedy
+24	Waiting for Dublin	2009-03-13	Cinema Libre	Not Rated	$5,925	790	Romantic-Comedy
+25	Antarctica	2008-08-29	Regent Releasing	R	$5,133	684	Romantic-Comedy
+26	Tru Loved	2008-10-17	Regent Releasing	R	$1,149	153	Romantic-Comedy
+27	I Can't Think Straight	2008-11-21	Regent Releasing	PG-13	$987	131	Romantic-Comedy
+1	Valentine's Day	2010-02-12	Warner Bros.	PG-13	$110,485,654	14,003,251	Romantic-Comedy
+2	The Bounty Hunter	2010-03-19	Sony Pictures	PG-13	$67,061,228	8,499,522	Romantic-Comedy
+3	It’s Complicated	2009-12-25	Universal	R	$53,556,535	6,787,901	Romantic-Comedy
+4	Life as We Know It	2010-10-08	Warner Bros.	PG-13	$52,886,508	6,702,979	Romantic-Comedy
+5	The Back-up Plan	2010-04-23	CBS Films	PG-13	$37,490,007	4,751,585	Romantic-Comedy
+6	When in Rome	2010-01-29	Walt Disney	PG-13	$32,680,633	4,142,032	Romantic-Comedy
+7	She's Out of My League	2010-03-12	Paramount Pictures	R	$32,010,860	4,057,143	Romantic-Comedy
+8	The Switch	2010-08-20	Miramax	PG-13	$27,758,465	3,518,183	Romantic-Comedy
+9	Leap Year	2010-01-08	Universal	PG	$25,918,920	3,285,034	Romantic-Comedy
+10	How Do You Know?	2010-12-17	Sony Pictures	R	$25,040,894	3,173,751	Romantic-Comedy
+11	Just Wright	2010-05-14	Fox Searchlight	PG	$21,540,363	2,730,084	Romantic-Comedy
+12	Going the Distance	2010-09-03	Warner Bros.	R	$17,804,299	2,256,565	Romantic-Comedy
+13	Did You Hear About the Morg…	2009-12-18	Sony Pictures	PG-13	$4,267,703	540,900	Romantic-Comedy
+14	Greenberg	2010-03-19	Focus Features	R	$4,234,170	536,650	Romantic-Comedy
+15	Flipped	2010-08-06	Warner Bros.	PG	$1,755,212	222,460	Romantic-Comedy
+16	Housefull	2010-04-30	Eros Entertainment	Not Rated	$1,183,658	150,020	Romantic-Comedy
+17	I Hate Luv Storys	2010-07-02	UTV Communications	Not Rated	$847,993	107,476	Romantic-Comedy
+18	Aisha	2010-08-06	Viva Entertainment	Not Rated	$298,431	37,823	Romantic-Comedy
+19	Fei Cheng Wu Rao 2	2010-12-24	China Lion Film D…	Not Rated	$182,517	23,132	Romantic-Comedy
+20	De Mai Tinh	2010-09-10	Variance Films	PG-13	$165,987	21,037	Romantic-Comedy
+21	The Good Guy	2010-02-19	Roadside Attractions	R	$100,688	12,761	Romantic-Comedy
+22	Feed the Fish	2010-04-23	Strand	Not Rated	$84,085	10,657	Romantic-Comedy
+23	The People I've Slept With	2010-08-13	People Pictures	Not Rated	$19,137	2,425	Romantic-Comedy
+24	16 to Life	2010-09-03	Waterdog Films	Not Rated	$11,574	1,466	Romantic-Comedy
+25	The Freebie	2010-09-17	Phase 4 Films	R	$8,300	1,051	Romantic-Comedy
+26	BearCity	2010-10-22	TLA Releasing	Not Rated	$5,980	757	Romantic-Comedy
+27	Speed-Dating	2010-06-04	Rockstone Releasing	R	$3,394	430	Romantic-Comedy
+28	White On Rice	2009-09-11	Variance Films	PG-13	$1,985	251	Romantic-Comedy
+29	Un baiser s'il vous plaît	2009-03-27	Music Box Films	Not Rated	$814	103	Romantic-Comedy
+30	Tru Loved	2008-10-17	Regent Releasing	R	$275	34	Romantic-Comedy
+1	Just Go With It	2011-02-11	Sony Pictures	PG-13	$103,028,109	12,992,195	Romantic-Comedy
+2	Zookeeper	2011-07-08	Sony Pictures	PG	$80,360,866	10,133,778	Romantic-Comedy
+3	No Strings Attached	2011-01-21	Paramount Pictures	R	$70,662,220	8,910,747	Romantic-Comedy
+4	Midnight in Paris	2011-05-20	Sony Pictures Cla…	PG-13	$56,377,732	7,109,423	Romantic-Comedy
+5	Friends with Benefits	2011-07-22	Sony Pictures	R	$55,802,754	7,036,917	Romantic-Comedy
+6	New Year’s Eve	2011-12-09	Warner Bros.	PG-13	$47,257,823	5,959,372	Romantic-Comedy
+7	Something Borrowed	2011-05-06	Warner Bros.	PG-13	$39,046,489	4,923,895	Romantic-Comedy
+8	Jumping the Broom	2011-05-06	Sony Pictures	PG-13	$37,295,394	4,703,076	Romantic-Comedy
+9	Larry Crowne	2011-07-01	Universal	PG-13	$35,608,245	4,490,321	Romantic-Comedy
+10	Arthur	2011-04-08	Warner Bros.	PG-13	$33,035,397	4,165,876	Romantic-Comedy
+11	Monte Carlo	2011-07-01	20th Century Fox	PG	$23,186,769	2,923,931	Romantic-Comedy
+12	What's Your Number?	2011-09-30	20th Century Fox	R	$14,011,084	1,766,845	Romantic-Comedy
+13	How Do You Know?	2010-12-17	Sony Pictures	R	$5,171,726	652,172	Romantic-Comedy
+14	From Prada to Nada	2011-01-28	Lionsgate	PG-13	$3,033,623	382,550	Romantic-Comedy
+15	The Art of Getting By	2011-06-17	Fox Searchlight	PG-13	$1,430,241	180,358	Romantic-Comedy
+16	No Eres Tu, Soy Yo	2011-04-08	Lionsgate	PG-13	$1,339,911	168,967	Romantic-Comedy
+17	The Heart Specialist	2011-01-14	Freestyle Releasing	R	$1,103,037	139,096	Romantic-Comedy
+18	Mere Brother Ki Dulhan	2011-09-09	Yash Raj Films	Not Rated	$496,172	62,568	Romantic-Comedy
+19	Life as We Know It	2010-10-08	Warner Bros.	PG-13	$488,173	61,560	Romantic-Comedy
+20	Joueuse	2011-04-01	Zeitgeist	Not Rated	$478,710	60,366	Romantic-Comedy
+21	Jihne Mera Dil Luteya	2011-07-29	Viva Entertainment	Not Rated	$464,840	58,617	Romantic-Comedy
+22	Thank You	2011-04-08	UTV Communications	Not Rated	$463,540	58,453	Romantic-Comedy
+23	Happythankyoumoreplease	2011-03-04	Anchor Bay Entert…	R	$216,110	27,252	Romantic-Comedy
+24	La Bonheur des autres	2011-10-07	Entertainment One	Not Rated	$162,303	20,466	Romantic-Comedy
+25	35 and Ticking	2011-05-20	Image Entertainment	R	$113,804	14,351	Romantic-Comedy
+26	When Harry Tries to Marry	2011-04-22	108 Pics	PG-13	$38,261	4,824	Romantic-Comedy
+27	Love in Space	2011-09-09	China Lion Film D…	PG	$33,976	4,284	Romantic-Comedy
+28	Waiting for Forever	2011-02-04	Freestyle Releasing	PG-13	$25,517	3,217	Romantic-Comedy
+29	Ceremony	2011-04-08	Magnolia Pictures	R	$22,270	2,808	Romantic-Comedy
+30	All’s Faire in Love	2011-10-28	Hannover House	PG	$22,180	2,796	Romantic-Comedy
+31	Griff the Invisible	2011-08-19	Indomina Releasing	PG-13	$20,778	2,620	Romantic-Comedy
+32	Feed the Fish	2010-04-23	Strand	Not Rated	$17,085	2,154	Romantic-Comedy
+33	A Bird of the Air	2011-09-23	Paladin	PG-13	$10,152	1,280	Romantic-Comedy
+34	Chalet Girl	2011-10-14	IFC Films	R	$1,710	216	Romantic-Comedy
+1	Think Like a Man	2012-04-20	Sony Pictures	PG-13	$91,547,205	11,500,905	Romantic-Comedy
+2	Hope Springs	2012-08-08	Sony Pictures	PG-13	$63,536,011	7,981,910	Romantic-Comedy
+3	This Means War	2012-02-17	20th Century Fox	PG-13	$54,760,791	6,879,496	Romantic-Comedy
+4	What to Expect When You're …	2012-05-18	Lionsgate	PG-13	$41,152,203	5,169,874	Romantic-Comedy
+5	The Five-Year Engagement	2012-04-27	Universal	R	$28,700,285	3,605,563	Romantic-Comedy
+6	To Rome with Love	2012-06-22	Sony Pictures Cla…	R	$16,684,352	2,096,024	Romantic-Comedy
+7	Playing for Keeps	2012-12-07	FilmDistrict	PG-13	$12,851,597	1,614,522	Romantic-Comedy
+8	New Year’s Eve	2011-12-09	Warner Bros.	PG-13	$7,286,815	915,429	Romantic-Comedy
+9	Friends with Kids	2012-03-09	Roadside Attractions	R	$7,251,073	910,938	Romantic-Comedy
+10	Celeste and Jesse Forever	2012-08-03	Sony Pictures Cla…	R	$3,103,407	389,875	Romantic-Comedy
+11	Barfi	2012-09-14	UTV Communications	Not Rated	$2,804,874	352,371	Romantic-Comedy
+12	Ruby Sparks	2012-07-25	Fox Searchlight	R	$2,540,106	319,108	Romantic-Comedy
+13	Hysteria	2012-05-18	Sony Pictures Cla…	R	$1,804,139	226,650	Romantic-Comedy
+14	Ek Main Aur Ekk Tu	2012-02-10	UTV Communications	Not Rated	$1,155,545	145,168	Romantic-Comedy
+15	Cocktail	2012-07-13	Eros Entertainment	Not Rated	$1,027,121	129,035	Romantic-Comedy
+16	Teri Meri Kahaani	2012-06-22	Eros Entertainment	Not Rated	$671,442	84,352	Romantic-Comedy
+17	2 Days in New York	2012-08-10	Magnolia Pictures	R	$633,210	79,548	Romantic-Comedy
+18	Midnight in Paris	2011-05-20	Sony Pictures Cla…	PG-13	$438,930	55,141	Romantic-Comedy
+19	Student of the Year	2012-10-19	Eros Entertainment	Not Rated	$326,508	41,018	Romantic-Comedy
+20	Tere Naal Love Ho Gaya	2012-02-24	UTV Communications	Not Rated	$177,743	22,329	Romantic-Comedy
+21	Jodi Breakers	2012-02-24	Yash Raj Films	Not Rated	$52,618	6,610	Romantic-Comedy
+22	Aiyyaa	2012-10-11	UTV Communications	Not Rated	$36,967	4,644	Romantic-Comedy
+23	The First Time	2012-10-19	Samuel Goldwyn Films	PG-13	$22,836	2,868	Romantic-Comedy
+24	Take Me Home	2012-04-06	Monterey Media	PG-13	$15,374	1,931	Romantic-Comedy
+25	A Little Bit of Heaven	2012-05-04	Alchemy	PG-13	$10,011	1,257	Romantic-Comedy
+26	The Giant Mechanical Man	2012-04-27	TriBeca Films	PG-13	$7,396	929	Romantic-Comedy
+27	Save the Date	2012-12-14	IFC Films	R	$5,719	718	Romantic-Comedy
+28	Tonight You're Mine	2012-05-11	Roadside Attractions	R	$4,321	542	Romantic-Comedy
+29	Vamps	2012-11-02	Anchor Bay Entert…	PG-13	$3,361	422	Romantic-Comedy
+30	Cheerful Weather for the We…	2012-12-07	IFC Films	PG	$2,651	333	Romantic-Comedy
+1	Warm Bodies	2013-02-01	Lionsgate	PG-13	$66,380,662	8,164,903	Romantic-Comedy
+2	Don Jon	2013-09-27	Relativity	R	$24,475,193	3,010,478	Romantic-Comedy
+3	The Big Wedding	2013-04-26	Lionsgate	R	$21,819,348	2,683,806	Romantic-Comedy
+4	Baggage Claim	2013-09-27	Fox Searchlight	PG-13	$21,569,509	2,653,076	Romantic-Comedy
+5	Admission	2013-03-22	Focus Features	PG-13	$18,007,317	2,214,922	Romantic-Comedy
+6	About Time	2013-11-01	Universal	R	$15,323,921	1,884,861	Romantic-Comedy
+7	Pulling Strings	2013-10-04	Lionsgate	PG	$5,842,961	718,691	Romantic-Comedy
+8	Chennai Express	2013-08-08	UTV Communications	Not Rated	$5,307,960	652,885	Romantic-Comedy
+9	Much Ado About Nothing	2013-06-07	Roadside Attractions	PG-13	$4,328,850	532,453	Romantic-Comedy
+10	Austenland	2013-08-16	Sony Pictures Cla…	PG-13	$2,137,573	262,924	Romantic-Comedy
+11	Den skaldede frisør	2013-05-03	Sony Pictures Cla…	R	$1,631,306	200,652	Romantic-Comedy
+12	Besharam	2013-10-02	Reliance Big Pict…	Not Rated	$388,915	47,837	Romantic-Comedy
+13	Shuddh Desi Romance	2013-09-06	Yash Raj Films	Not Rated	$366,000	45,018	Romantic-Comedy
+14	Playing for Keeps	2012-12-07	FilmDistrict	PG-13	$251,675	30,956	Romantic-Comedy
+15	Upside Down	2013-03-15	Alchemy	PG-13	$102,118	12,560	Romantic-Comedy
+16	Jewtopia	2013-09-20	Le Petit Canyon P…	Not Rated	$46,437	5,711	Romantic-Comedy
+17	I Give It a Year	2013-08-09	Magnolia Pictures	R	$34,657	4,262	Romantic-Comedy
+18	A Wedding Invitation	2013-05-24	CJ Entertainment	Not Rated	$14,350	1,765	Romantic-Comedy
+19	Dorfman in Love	2013-03-22	Brainstorm Media	PG-13	$13,737	1,689	Romantic-Comedy
+20	Shanghai Calling	2013-02-15	Starz Media	PG-13	$10,443	1,284	Romantic-Comedy
+21	200 Cartas	2013-06-14	Vanguardia Films	Not Rated	$9,338	1,148	Romantic-Comedy
+22	Red Flag	2013-02-22	TriBeca Films	Not Rated	$4,150	510	Romantic-Comedy
+23	Sparrows Dance	2013-08-23	TriBeca Films	Not Rated	$2,602	320	Romantic-Comedy
+24	La stratégie de la poussette	2013-06-14	Rialto Pictures	Not Rated	$1,799	221	Romantic-Comedy
+1	Think Like a Man Too	2014-06-20	Sony Pictures	PG-13	$65,028,687	7,959,447	Romantic-Comedy
+2	About Last Night	2014-02-14	Sony Pictures	R	$48,637,684	5,953,204	Romantic-Comedy
+3	Blended	2014-05-23	Warner Bros.	PG-13	$46,290,741	5,665,941	Romantic-Comedy
+4	That Awkward Moment	2014-01-31	FilmDistrict	R	$26,068,955	3,190,814	Romantic-Comedy
+5	Magic in the Moonlight	2014-07-25	Sony Pictures Cla…	PG-13	$10,534,510	1,289,413	Romantic-Comedy
+6	What If	2014-08-08	CBS Films	PG-13	$3,493,000	427,539	Romantic-Comedy
+7	Obvious Child	2014-06-06	A24	R	$3,122,616	382,205	Romantic-Comedy
+8	Words and Pictures	2014-05-23	Roadside Attractions	PG-13	$2,171,257	265,759	Romantic-Comedy
+9	Hector and the Search for H…	2014-09-19	Relativity	R	$1,124,445	137,630	Romantic-Comedy
+10	Khoobsurat	2014-09-19	UTV Communications	Not Rated	$1,055,593	129,203	Romantic-Comedy
+11	Finding Fanny	2014-09-12	FIP	Not Rated	$623,229	76,282	Romantic-Comedy
+12	The One I Love	2014-08-22	RADiUS-TWC	R	$511,635	62,623	Romantic-Comedy
+13	Laggies	2014-10-24	A24	R	$440,338	53,896	Romantic-Comedy
+14	Hasee Toh Phasee	2014-02-07	Reliance Entertai…	Not Rated	$336,985	41,246	Romantic-Comedy
+15	Casse-tête chinois	2014-05-16	Cohen Media Group	R	$336,500	41,187	Romantic-Comedy
+16	Happy Ending	2014-11-21	Eros Entertainment	Not Rated	$295,579	36,178	Romantic-Comedy
+17	Aa Gaye Munde U.K. De	2014-08-08	Yash Raj Films	Not Rated	$135,000	16,523	Romantic-Comedy
+18	Girl on a Bicycle	2014-02-14	Monterey Media	R	$91,401	11,187	Romantic-Comedy
+19	Lucky Them	2014-05-30	IFC Films	R	$48,995	5,996	Romantic-Comedy
+20	The M Word	2014-04-30		R	$21,130	2,586	Romantic-Comedy
+21	Christian Mingle, The Movie	2014-10-10	Rocky Mountain Pi…	PG	$19,836	2,427	Romantic-Comedy
+22	Hank and Asha	2014-04-11	FilmRise	Not Rated	$16,878	2,065	Romantic-Comedy
+23	Two Night Stand	2014-09-26	Entertainment One	R	$15,600	1,909	Romantic-Comedy
+24	Barefoot	2014-02-21	Roadside Attractions	PG-13	$15,071	1,844	Romantic-Comedy
+25	Amour & turbulences	2014-01-31	Variance Films	Not Rated	$8,425	1,031	Romantic-Comedy
+26	Comet	2014-12-05	IFC Films	R	$7,194	880	Romantic-Comedy
+27	El misterio de la felicidad	2014-09-12	Strand	Not Rated	$3,894	476	Romantic-Comedy
+28	Don Jon	2013-09-27	Relativity	R	$2,511	307	Romantic-Comedy
+29	Situation amoureuse: C'est …	2014-10-17	Distrib Films	Not Rated	$563	68	Romantic-Comedy
+1	Trainwreck	2015-07-17	Universal	R	$110,212,700	13,073,867	Romantic-Comedy
+2	I'll See You in My Dreams	2015-05-15	Bleecker Street	PG-13	$7,449,681	883,710	Romantic-Comedy
+3	Dilwale	2015-12-18	UTV Communications	Not Rated	$4,704,632	558,082	Romantic-Comedy
+4	A La Mala	2015-02-27	Lionsgate	PG-13	$3,629,842	430,586	Romantic-Comedy
+5	Xia Luo Te Fan Nao	2015-10-09	China Lion Film D…	Not Rated	$1,289,195	152,929	Romantic-Comedy
+6	Big Stone Gap	2015-10-09	Picturehouse	PG-13	$1,009,984	119,808	Romantic-Comedy
+7	Sleeping with Other People	2015-09-11	IFC Films	R	$814,775	96,651	Romantic-Comedy
+8	Zan men jie hun ba	2015-04-03	China Lion Film D…	Not Rated	$461,996	54,803	Romantic-Comedy
+9	Katti Batti	2015-09-18	UTV Communications	Not Rated	$364,932	43,289	Romantic-Comedy
+10	After the Ball	2015-02-27	Pacific Northwest…	Not Rated	$161,820	19,195	Romantic-Comedy
+11	5 to 7	2015-04-03	IFC Films	R	$137,112	16,264	Romantic-Comedy
+12	Only You	2015-07-24	China Lion Film D…	Not Rated	$61,565	7,303	Romantic-Comedy
+13	Amira & Sam	2015-01-27	Drafthouse Films	Not Rated	$31,848	3,777	Romantic-Comedy
+14	Les combattants	2015-05-22	Strand	Not Rated	$25,229	2,992	Romantic-Comedy
+15	Slow Learners	2015-08-19	IFC Films	Not Rated	$22,930	2,720	Romantic-Comedy
+16	Boy Meets Girl	2015-02-06	Bramacharia LLC	Not Rated	$20,441	2,424	Romantic-Comedy
+17	Love, Rosie	2015-02-03	Film Arcade	R	$20,431	2,423	Romantic-Comedy
+18	B-Side	2015-07-10	Indican Pictures	Not Rated	$8,870	1,052	Romantic-Comedy
+19	Meet Me in Montenegro	2015-07-07	The Orchard	Not Rated	$8,612	1,021	Romantic-Comedy
+20	One Small Hitch	2015-02-03	Freestyle Releasing	PG-13	$7,965	944	Romantic-Comedy
+21	This Isn't Funny	2015-11-06	Candy Factory Films	Not Rated	$5,654	670	Romantic-Comedy
+22	La navaja de Don Juan	2015-09-18	Indican Pictures	Not Rated	$4,254	504	Romantic-Comedy
+23	Me, You and Five Bucks	2015-09-28	Indican Pictures	Not Rated	$2,105	249	Romantic-Comedy

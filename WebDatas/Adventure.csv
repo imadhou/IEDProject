@@ -1,0 +1,715 @@
+Rank	Movie	Release Date	Theatrical Distributor	MPAA Rating	Gross	Tickets Sold	Gender
+1	How the Grinch Stole Christmas	2000-11-17	Universal	PG	$253,367,455	47,006,948	Adventure
+2	Dinosaur	2000-05-19	Walt Disney	PG	$137,748,063	25,556,226	Adventure
+3	Cast Away	2000-12-22	20th Century Fox	PG-13	$109,689,440	20,350,545	Adventure
+4	Chicken Run	2000-06-21	Dreamworks SKG	G	$106,793,915	19,813,342	Adventure
+5	Space Cowboys	2000-08-04	Warner Bros.	PG-13	$90,179,885	16,730,961	Adventure
+6	Rugrats in Paris	2000-11-17	Paramount Pictures	G	$71,205,699	13,210,704	Adventure
+7	Mission to Mars	2000-03-10	Walt Disney	PG	$60,874,615	11,293,991	Adventure
+8	Stuart Little	1999-12-17	Sony Pictures	PG	$60,612,097	11,245,287	Adventure
+9	Snow Day	2000-02-11	Paramount Pictures	PG	$60,008,303	11,133,265	Adventure
+10	102 Dalmatians	2000-11-22	Walt Disney	G	$58,335,959	10,822,997	Adventure
+11	The Emperor's New Groove	2000-12-15	Walt Disney	G	$50,812,284	9,427,139	Adventure
+12	The Road to El Dorado	2000-03-31	Dreamworks SKG	PG	$50,802,661	9,425,354	Adventure
+13	The Tigger Movie	2000-02-11	Walt Disney	G	$45,542,421	8,449,428	Adventure
+14	Galaxy Quest	1999-12-24	Dreamworks SKG	PG	$44,111,808	8,184,008	Adventure
+15	Pokemon 2000	2000-07-21	Warner Bros.	G	$43,746,923	8,116,312	Adventure
+16	Toy Story 2	1999-11-19	Walt Disney	G	$36,972,140	6,859,395	Adventure
+17	The Flintstones in Viva Roc…	2000-04-28	Universal	PG	$35,231,365	6,536,431	Adventure
+18	The Adventures of Rocky & B…	2000-06-30	Universal	PG	$26,000,610	4,823,860	Adventure
+19	Titan A.E.	2000-06-16	20th Century Fox	PG	$22,751,979	4,221,146	Adventure
+20	Thomas and the Magic Railroad	2000-07-26	Destination Films	G	$15,911,332	2,952,009	Adventure
+21	Dungeons and Dragons	2000-12-08	New Line	PG-13	$14,250,748	2,643,923	Adventure
+22	The Little Vampire	2000-10-27	New Line	PG	$13,555,988	2,515,025	Adventure
+23	Digimon: The Movie	2000-10-06	20th Century Fox	PG	$9,628,751	1,786,410	Adventure
+24	T-Rex: Back to the Cretaceous	1998-10-23	IMAX Films	Not Rated	$8,214,699	1,524,062	Adventure
+25	Cyberworld 3D	2000-10-06	IMAX Films	Not Rated	$3,640,193	675,360	Adventure
+26	Alien Adventure	2000-04-14	nWave Pictures	Not Rated	$3,272,750	607,189	Adventure
+27	Pokemon: The First Movie	1999-11-10	Warner Bros.	G	$1,653,563	306,783	Adventure
+28	MVP: Most Valuable Primate	2000-08-11	Keystone Entertai…	PG	$1,248,746	231,678	Adventure
+29	Star Wars Ep. I: The Phanto…	1999-05-19	20th Century Fox	PG	$644,945	119,655	Adventure
+30	Across The Sea of Time	1995-10-20	Sony Pictures Cla…	G	$424,122	78,686	Adventure
+31	Tarzan	1999-06-16	Walt Disney	G	$186,995	34,692	Adventure
+32	Kirikou and the Sorceress	2000-02-18	ArtMattan Films	Not Rated	$56,771	10,532	Adventure
+33	Sinbad: Beyond the Veil of …	2000-03-24	Phaedra Cinema	G	$5,000	927	Adventure
+1	Harry Potter and the Sorcer…	2001-11-16	Warner Bros.	PG	$300,404,434	53,074,988	Adventure
+2	Shrek	2001-05-18	Dreamworks SKG	PG	$267,655,011	47,288,871	Adventure
+3	Monsters, Inc.	2001-11-02	Walt Disney	G	$244,638,458	43,222,342	Adventure
+4	The Lord of the Rings: The …	2001-12-19	New Line	PG-13	$206,448,462	36,474,993	Adventure
+5	The Mummy Returns	2001-05-04	Universal	PG-13	$202,007,640	35,690,395	Adventure
+6	Planet of the Apes	2001-07-27	20th Century Fox	PG-13	$179,841,538	31,774,123	Adventure
+7	Lara Croft: Tomb Raider	2001-06-15	Paramount Pictures	PG-13	$131,144,183	23,170,350	Adventure
+8	Cast Away	2000-12-22	20th Century Fox	PG-13	$123,942,702	21,898,003	Adventure
+9	Dr. Dolittle 2	2001-06-22	20th Century Fox	PG	$112,950,721	19,955,957	Adventure
+10	Spy Kids	2001-03-30	Miramax/Dimension	PG	$112,692,062	19,910,258	Adventure
+11	Atlantis: The Lost Empire	2001-06-08	Walt Disney	PG	$84,052,762	14,850,311	Adventure
+12	Jimmy Neutron: Boy Genius	2001-12-21	Paramount Pictures	G	$62,339,089	11,013,973	Adventure
+13	A Knight’s Tale	2001-05-11	Sony Pictures	PG-13	$56,083,966	9,908,827	Adventure
+14	The Emperor's New Groove	2000-12-15	Walt Disney	G	$38,484,289	6,799,344	Adventure
+15	Recess: School's Out	2001-02-16	Walt Disney	G	$36,696,761	6,483,526	Adventure
+16	See Spot Run	2001-03-02	Warner Bros.	PG	$33,357,476	5,893,546	Adventure
+17	Final Fantasy: The Spirits …	2001-07-11	Sony Pictures	PG-13	$32,131,830	5,677,001	Adventure
+18	Black Knight	2001-11-21	20th Century Fox	PG-13	$31,942,704	5,643,587	Adventure
+19	The Musketeer	2001-09-07	Universal	PG-13	$27,053,815	4,779,825	Adventure
+20	Crocodile Dundee in Los Ang…	2001-04-20	Paramount Pictures	PG	$25,590,119	4,521,222	Adventure
+21	Max Keeble's Big Move	2001-10-05	Walt Disney	PG	$17,148,904	3,029,841	Adventure
+22	Pokemon 3: The Movie	2001-04-06	Warner Bros.	G	$17,052,128	3,012,743	Adventure
+23	Osmosis Jones	2001-08-10	Warner Bros.	PG	$13,596,911	2,402,281	Adventure
+24	102 Dalmatians	2000-11-22	Walt Disney	G	$8,605,600	1,520,424	Adventure
+25	Cyberworld 3D	2000-10-06	IMAX Films	Not Rated	$6,889,078	1,217,151	Adventure
+26	How the Grinch Stole Christmas	2000-11-17	Universal	PG	$6,677,370	1,179,747	Adventure
+27	Rugrats in Paris	2000-11-17	Paramount Pictures	G	$5,295,739	935,642	Adventure
+28	Haunted Castle	2001-03-02	nWave Pictures	PG	$3,322,259	586,971	Adventure
+29	T-Rex: Back to the Cretaceous	1998-10-23	IMAX Films	Not Rated	$2,670,854	471,882	Adventure
+30	Dungeons and Dragons	2000-12-08	New Line	PG-13	$934,493	165,104	Adventure
+31	Alien Adventure	2000-04-14	nWave Pictures	Not Rated	$648,409	114,559	Adventure
+32	Across The Sea of Time	1995-10-20	Sony Pictures Cla…	G	$340,205	60,106	Adventure
+33	Space Cowboys	2000-08-04	Warner Bros.	PG-13	$274,158	48,437	Adventure
+34	2001: A Space Odyssey	1968-04-02	MGM	G	$239,621	42,336	Adventure
+35	Kirikou and the Sorceress	2000-02-18	ArtMattan Films	Not Rated	$4,299	759	Adventure
+1	Spider-Man	2002-05-03	Sony Pictures	PG-13	$403,706,375	69,484,746	Adventure
+2	Star Wars Ep. II: Attack of…	2002-05-16	20th Century Fox	PG	$310,676,740	53,472,760	Adventure
+3	The Lord of the Rings: The …	2002-12-18	New Line	PG-13	$262,300,833	45,146,442	Adventure
+4	Harry Potter and the Chambe…	2002-11-15	Warner Bros.	PG	$252,289,446	43,423,312	Adventure
+5	Ice Age	2002-03-15	20th Century Fox	PG	$176,387,405	30,359,277	Adventure
+6	Scooby-Doo	2002-06-14	Warner Bros.	PG	$153,294,164	26,384,537	Adventure
+7	Lilo & Stitch	2002-06-21	Walt Disney	PG	$145,771,527	25,089,763	Adventure
+8	The Santa Clause 2	2002-11-01	Walt Disney	G	$138,277,797	23,799,965	Adventure
+9	The Lord of the Rings: The …	2001-12-19	New Line	PG-13	$107,854,245	18,563,553	Adventure
+10	Spy Kids 2: The Island of L…	2002-08-07	Miramax/Dimension	PG	$85,570,368	14,728,118	Adventure
+11	Snow Dogs	2002-01-18	Walt Disney	PG	$81,150,692	13,967,416	Adventure
+12	Spirit: Stallion of the Cim…	2002-05-24	Dreamworks SKG	G	$73,215,310	12,601,602	Adventure
+13	Stuart Little 2	2002-07-19	Sony Pictures	PG	$64,956,806	11,180,173	Adventure
+14	The Time Machine	2002-03-08	Dreamworks SKG	PG-13	$56,684,819	9,756,423	Adventure
+15	The Count of Monte Cristo	2002-01-25	Walt Disney	PG-13	$54,228,104	9,333,580	Adventure
+16	Like Mike	2002-07-03	20th Century Fox	PG	$51,432,423	8,852,396	Adventure
+17	Peter Pan: Return to Neverland	2002-02-15	Walt Disney	G	$48,430,258	8,335,672	Adventure
+18	Big Fat Liar	2002-02-08	Universal	PG	$47,811,275	8,229,135	Adventure
+19	The Master of Disguise	2002-08-02	Sony Pictures	PG	$40,363,530	6,947,251	Adventure
+20	Star Trek: Nemesis	2002-12-13	Paramount Pictures	PG-13	$39,825,707	6,854,682	Adventure
+21	Clockstoppers	2002-03-29	Paramount Pictures	PG	$36,985,501	6,365,834	Adventure
+22	Treasure Planet	2002-11-27	Walt Disney	PG	$35,820,872	6,165,382	Adventure
+23	The Wild Thornberrys Movie	2002-12-20	Paramount Pictures	PG	$31,752,651	5,465,172	Adventure
+24	The Crocodile Hunter: Colli…	2002-07-12	MGM	PG	$28,436,931	4,894,480	Adventure
+25	Jonah: A VeggieTales Movie	2002-10-04	Artisan	G	$25,408,198	4,373,183	Adventure
+26	Jimmy Neutron: Boy Genius	2001-12-21	Paramount Pictures	G	$18,597,143	3,200,885	Adventure
+27	Harry Potter and the Sorcer…	2001-11-16	Warner Bros.	PG	$17,171,116	2,955,441	Adventure
+28	The Country Bears	2002-07-26	Walt Disney	G	$16,988,996	2,924,095	Adventure
+29	Hey Arnold! The Movie	2002-06-28	Paramount Pictures	PG	$13,684,949	2,355,412	Adventure
+30	The Powerpuff Girls	2002-07-03	Warner Bros.	PG	$11,411,644	1,964,138	Adventure
+31	Monsters, Inc.	2001-11-02	Walt Disney	G	$11,234,792	1,933,699	Adventure
+32	Sen to Chihiro no Kamikakushi	2002-09-20	Walt Disney	PG	$5,462,320	940,158	Adventure
+33	The Lion King	1994-06-15	Walt Disney	G	$5,022,506	864,458	Adventure
+34	T-Rex: Back to the Cretaceous	1998-10-23	IMAX Films	Not Rated	$4,301,999	740,447	Adventure
+35	Spider-Man/Men in Black II …	2002-09-06	Sony Pictures	PG-13	$4,052,137	697,441	Adventure
+36	Pinocchio	2002-12-25	Miramax	G	$3,364,522	579,091	Adventure
+37	Haunted Castle	2001-03-02	nWave Pictures	PG	$2,246,943	386,737	Adventure
+38	Santa vs. The Snowman	2002-11-06	IMAX Films	Not Rated	$1,918,068	330,132	Adventure
+39	Pokemon 4Ever	2002-10-11	Miramax	G	$1,732,301	298,158	Adventure
+40	Black Knight	2001-11-21	20th Century Fox	PG-13	$1,480,102	254,750	Adventure
+41	Cyberworld 3D	2000-10-06	IMAX Films	Not Rated	$714,586	122,992	Adventure
+42	Metropolis	2002-01-01	Sony Pictures	PG-13	$673,414	115,906	Adventure
+43	Alien Adventure	2000-04-14	nWave Pictures	Not Rated	$316,045	54,396	Adventure
+44	Planet of the Apes	2001-07-27	20th Century Fox	PG-13	$170,202	29,294	Adventure
+45	Across The Sea of Time	1995-10-20	Sony Pictures Cla…	G	$143,710	24,734	Adventure
+46	Max Keeble's Big Move	2001-10-05	Walt Disney	PG	$143,477	24,694	Adventure
+47	Hansel & Gretel	2002-10-18		PG	$100,477	17,293	Adventure
+48	Steel Spirit	2002-01-11	Cinema Guild	Not Rated	$1,860	320	Adventure
+1	Finding Nemo	2003-05-30	Walt Disney	G	$339,714,367	56,337,374	Adventure
+2	Pirates of the Caribbean: T…	2003-07-09	Walt Disney	PG-13	$305,410,819	50,648,560	Adventure
+3	The Lord of the Rings: The …	2003-12-17	New Line	PG-13	$290,425,213	48,163,385	Adventure
+4	Spy Kids 3-D: Game Over	2003-07-25	Miramax/Dimension	PG	$111,678,621	18,520,500	Adventure
+5	The Italian Job	2003-05-30	Paramount Pictures	PG-13	$106,126,012	17,599,670	Adventure
+6	Dr. Seuss’ The Cat in the H…	2003-11-21	Universal	PG	$99,383,495	16,481,508	Adventure
+7	Brother Bear	2003-10-24	Walt Disney	G	$83,297,298	13,813,813	Adventure
+8	Master and Commander: The F…	2003-11-14	20th Century Fox	PG-13	$83,006,144	13,765,529	Adventure
+9	The Lord of the Rings: The …	2002-12-18	New Line	PG-13	$79,483,544	13,181,350	Adventure
+10	The Haunted Mansion	2003-11-26	Walt Disney	PG	$70,422,751	11,678,731	Adventure
+11	Holes	2003-04-18	Walt Disney	PG	$67,383,924	11,174,780	Adventure
+12	Kangaroo Jack	2003-01-17	Warner Bros.	PG	$66,723,216	11,065,209	Adventure
+13	The League of Extraordinary…	2003-07-11	20th Century Fox	PG-13	$66,465,204	11,022,421	Adventure
+14	Lara Croft: Tomb Raider: Th…	2003-07-25	Paramount Pictures	PG-13	$65,653,758	10,887,853	Adventure
+15	The Jungle Book 2	2003-02-14	Walt Disney	G	$47,901,582	7,943,877	Adventure
+16	Agent Cody Banks	2003-03-14	MGM	PG	$47,545,060	7,884,752	Adventure
+17	The Lizzie McGuire Movie	2003-05-02	Walt Disney	PG	$42,734,455	7,086,974	Adventure
+18	Rugrats Go Wild	2003-06-13	Paramount Pictures	PG	$39,402,572	6,534,423	Adventure
+19	Good Boy!	2003-10-10	MGM	PG	$37,666,266	6,246,478	Adventure
+20	Peter Pan	2003-12-25	Universal	PG	$34,179,235	5,668,198	Adventure
+21	Johnny English	2003-07-18	Universal	PG	$28,013,509	4,645,689	Adventure
+22	Sinbad: Legend of the Seven…	2003-07-02	Dreamworks SKG	PG	$26,483,452	4,391,948	Adventure
+23	Piglet's Big Movie	2003-03-21	Walt Disney	G	$23,103,423	3,831,413	Adventure
+24	Looney Tunes: Back in Action	2003-11-14	Warner Bros.	PG	$20,678,510	3,429,271	Adventure
+25	Timeline	2003-11-26	Paramount Pictures	PG-13	$19,113,238	3,169,691	Adventure
+26	Harry Potter and the Chambe…	2002-11-15	Warner Bros.	PG	$9,889,935	1,640,121	Adventure
+27	The Lion King	1994-06-15	Walt Disney	G	$9,696,253	1,608,002	Adventure
+28	The Wild Thornberrys Movie	2002-12-20	Paramount Pictures	PG	$8,356,046	1,385,745	Adventure
+29	Grind	2003-08-15	Warner Bros.	PG-13	$5,111,630	847,699	Adventure
+30	Sen to Chihiro no Kamikakushi	2002-09-20	Walt Disney	PG	$4,587,566	760,790	Adventure
+31	T-Rex: Back to the Cretaceous	1998-10-23	IMAX Films	Not Rated	$4,180,339	693,256	Adventure
+32	Star Trek: Nemesis	2002-12-13	Paramount Pictures	PG-13	$3,428,702	568,607	Adventure
+33	Haunted Castle	2001-03-02	nWave Pictures	PG	$2,400,483	398,090	Adventure
+34	Young Black Stallion	2003-12-25	Walt Disney	G	$2,349,976	389,714	Adventure
+35	Treasure Planet	2002-11-27	Walt Disney	PG	$2,299,682	381,373	Adventure
+36	The Legend of Johnny Lingo	2003-08-29	Innovation Film G…	G	$974,693	161,640	Adventure
+37	The Santa Clause 2	2002-11-01	Walt Disney	G	$948,057	157,223	Adventure
+38	Santa vs. The Snowman	2002-11-06	IMAX Films	Not Rated	$931,021	154,398	Adventure
+39	Pokemon Heroes	2003-05-16	Miramax	G	$744,928	123,536	Adventure
+40	Help! I'm a Fish	2003-02-28		G	$473,477	78,520	Adventure
+41	The Lord of the Rings: The …	2001-12-19	New Line	PG-13	$473,463	78,517	Adventure
+42	Pinocchio	2002-12-25	Miramax	G	$317,289	52,618	Adventure
+43	Spy Kids 2: The Island of L…	2002-08-07	Miramax/Dimension	PG	$275,928	45,759	Adventure
+44	Gerry	2003-02-14	ThinkFilm	R	$254,683	42,235	Adventure
+45	Jonah: A VeggieTales Movie	2002-10-04	Artisan	G	$163,153	27,056	Adventure
+46	Alien Adventure	2000-04-14	nWave Pictures	Not Rated	$82,855	13,740	Adventure
+47	Across The Sea of Time	1995-10-20	Sony Pictures Cla…	G	$53,395	8,854	Adventure
+1	Shrek 2	2004-05-19	Dreamworks SKG	PG	$441,226,247	71,050,925	Adventure
+2	Spider-Man 2	2004-06-30	Sony Pictures	PG-13	$373,524,485	60,148,870	Adventure
+3	The Incredibles	2004-11-05	Walt Disney	PG	$251,657,004	40,524,477	Adventure
+4	Harry Potter and the Prison…	2004-06-04	Warner Bros.	PG	$249,538,952	40,183,406	Adventure
+5	The Day After Tomorrow	2004-05-28	20th Century Fox	PG-13	$186,740,799	30,070,982	Adventure
+6	Shark Tale	2004-10-01	Dreamworks SKG	PG	$160,762,022	25,887,604	Adventure
+7	The Polar Express	2004-11-10	Warner Bros.	G	$155,754,116	25,081,178	Adventure
+8	National Treasure	2004-11-19	Walt Disney	PG	$154,522,305	24,882,818	Adventure
+9	Ocean's Twelve	2004-12-10	Warner Bros.	PG-13	$107,006,344	17,231,295	Adventure
+10	Lemony Snicket's A Series o…	2004-12-17	Paramount Pictures	PG	$94,616,745	15,236,190	Adventure
+11	The Lord of the Rings: The …	2003-12-17	New Line	PG-13	$86,602,112	13,945,589	Adventure
+12	Scooby-Doo 2: Monsters Unle…	2004-03-26	Warner Bros.	PG	$84,185,387	13,556,423	Adventure
+13	SpongeBob SquarePants: The …	2004-11-19	Paramount Pictures	PG	$81,900,075	13,188,417	Adventure
+14	Garfield: The Movie	2004-06-11	20th Century Fox	PG	$75,367,693	12,136,504	Adventure
+15	The Chronicles of Riddick	2004-06-11	Universal	PG-13	$57,712,751	9,293,518	Adventure
+16	King Arthur	2004-07-07	Walt Disney	PG-13	$51,877,963	8,353,939	Adventure
+17	Home on the Range	2004-04-02	Walt Disney	PG	$50,026,353	8,055,773	Adventure
+18	Sky Captain and the World o…	2004-09-17	Paramount Pictures	PG	$37,760,080	6,080,528	Adventure
+19	Around the World in 80 Days	2004-06-16	Walt Disney	PG	$24,004,159	3,865,404	Adventure
+20	Agent Cody Banks 2: Destina…	2004-03-12	MGM	PG	$23,514,247	3,786,513	Adventure
+21	Yu-Gi-Oh	2004-08-13	Warner Bros.	PG	$19,762,690	3,182,397	Adventure
+22	Two Brothers	2004-06-25	Universal	PG	$19,176,754	3,088,044	Adventure
+23	Flight of the Phoenix	2004-12-17	20th Century Fox	PG-13	$16,720,242	2,692,470	Adventure
+24	Catch That Kid	2004-02-06	20th Century Fox	PG	$16,703,799	2,689,822	Adventure
+25	Peter Pan	2003-12-25	Universal	PG	$14,238,615	2,292,852	Adventure
+26	Master and Commander: The F…	2003-11-14	20th Century Fox	PG-13	$10,920,242	1,758,493	Adventure
+27	Sleepover	2004-07-09	MGM	PG	$9,408,183	1,515,005	Adventure
+28	Superbabies: Baby Geniuses 2	2004-08-27	Sony Pictures	PG	$9,109,322	1,466,879	Adventure
+29	Thunderbirds	2004-07-30	Universal	PG	$6,768,055	1,089,863	Adventure
+30	Teacher's Pet: The Movie	2004-01-16	Walt Disney	PG	$6,491,969	1,045,405	Adventure
+31	The Haunted Mansion	2003-11-26	Walt Disney	PG	$5,395,243	868,799	Adventure
+32	Young Black Stallion	2003-12-25	Walt Disney	G	$4,264,441	686,705	Adventure
+33	Clifford's Really Big Movie	2004-04-23	Warner Bros.	G	$2,922,354	470,588	Adventure
+34	T-Rex: Back to the Cretaceous	1998-10-23	IMAX Films	Not Rated	$2,830,964	455,871	Adventure
+35	Santa vs. The Snowman	2002-11-06	IMAX Films	Not Rated	$2,818,321	453,835	Adventure
+36	Haunted Castle	2001-03-02	nWave Pictures	PG	$2,177,670	350,671	Adventure
+37	Brother Bear	2003-10-24	Walt Disney	G	$2,038,979	328,338	Adventure
+38	Dr. Seuss’ The Cat in the H…	2003-11-21	Universal	PG	$1,634,788	263,250	Adventure
+39	Lakshya	2004-06-18	UTV Communications	Not Rated	$752,344	121,150	Adventure
+40	The Legend of Johnny Lingo	2003-08-29	Innovation Film G…	G	$699,304	112,609	Adventure
+41	Alien Adventure	2000-04-14	nWave Pictures	Not Rated	$383,357	61,732	Adventure
+42	Timeline	2003-11-26	Paramount Pictures	PG-13	$367,501	59,178	Adventure
+43	Looney Tunes: Back in Action	2003-11-14	Warner Bros.	PG	$272,310	43,850	Adventure
+44	The Snow Walker	2004-03-26		Not Rated	$201,149	32,391	Adventure
+45	Tokyo Godfathers	2004-01-16	IDP Distribution	PG-13	$128,985	20,770	Adventure
+46	Spy Kids 3-D: Game Over	2003-07-25	Miramax/Dimension	PG	$82,010	13,206	Adventure
+47	Kaena: La prophétie	2004-06-25	IDP Distribution	PG-13	$7,674	1,235	Adventure
+48	Across The Sea of Time	1995-10-20	Sony Pictures Cla…	G	$1,965	316	Adventure
+49	Good Boy!	2003-10-10	MGM	PG	$1,480	238	Adventure
+1	Star Wars Ep. III: Revenge …	2005-05-19	20th Century Fox	PG-13	$380,270,577	59,324,582	Adventure
+2	Harry Potter and the Goblet…	2005-11-18	Warner Bros.	PG-13	$275,132,632	42,922,407	Adventure
+3	The Chronicles of Narnia: T…	2005-12-09	Walt Disney	PG	$217,677,877	33,959,107	Adventure
+4	Charlie and the Chocolate F…	2005-07-15	Warner Bros.	PG	$206,459,076	32,208,904	Adventure
+5	Madagascar	2005-05-27	Dreamworks SKG	PG	$193,595,521	30,202,109	Adventure
+6	King Kong	2005-12-14	Universal	PG-13	$168,505,310	26,287,879	Adventure
+7	Chicken Little	2005-11-04	Walt Disney	G	$131,944,653	20,584,189	Adventure
+8	Robots	2005-03-11	20th Century Fox	PG	$128,200,012	20,000,001	Adventure
+9	Sahara	2005-04-08	Paramount Pictures	PG-13	$68,671,925	10,713,248	Adventure
+10	Herbie: Fully Loaded	2005-06-22	Walt Disney	G	$66,010,682	10,298,078	Adventure
+11	Sky High	2005-07-29	Walt Disney	PG	$63,939,454	9,974,953	Adventure
+12	Wallace & Gromit: The Curse…	2005-10-05	Dreamworks SKG	G	$56,019,476	8,739,387	Adventure
+13	Corpse Bride	2005-09-23	Warner Bros.	PG	$53,359,111	8,324,354	Adventure
+14	The Hitchhiker's Guide to t…	2005-04-29	Walt Disney	PG	$51,019,112	7,959,299	Adventure
+15	Cheaper by the Dozen 2	2005-12-21	20th Century Fox	PG	$50,313,031	7,849,146	Adventure
+16	Racing Stripes	2005-01-14	Warner Bros.	PG	$49,772,522	7,764,824	Adventure
+17	The Legend of Zorro	2005-10-28	Sony Pictures	PG	$45,575,336	7,110,036	Adventure
+18	The Adventures of Sharkboy …	2005-06-10	Miramax/Dimension	PG	$39,177,684	6,111,963	Adventure
+19	The Brothers Grimm	2005-08-26	Miramax/Dimension	PG-13	$37,899,638	5,912,580	Adventure
+20	Zathura	2005-11-11	Sony Pictures	PG	$28,045,540	4,375,279	Adventure
+21	Lemony Snicket's A Series o…	2004-12-17	Paramount Pictures	PG	$24,010,372	3,745,767	Adventure
+22	Valiant	2005-08-19	Walt Disney	G	$19,478,106	3,038,706	Adventure
+23	Into the Blue	2005-09-30	Sony Pictures	PG-13	$18,782,227	2,930,144	Adventure
+24	Ocean's Twelve	2004-12-10	Warner Bros.	PG-13	$18,525,290	2,890,060	Adventure
+25	National Treasure	2004-11-19	Walt Disney	PG	$18,482,697	2,883,416	Adventure
+26	Pooh's Heffalump Movie	2005-02-11	Walt Disney	G	$18,098,433	2,823,468	Adventure
+27	The Polar Express	2004-11-10	Warner Bros.	G	$17,478,463	2,726,749	Adventure
+28	Son of the Mask	2005-02-18	New Line	PG	$17,018,422	2,654,980	Adventure
+29	The Incredibles	2004-11-05	Walt Disney	PG	$9,784,088	1,526,378	Adventure
+30	Hauru no ugoku shiro	2005-06-10	Walt Disney	PG	$4,710,455	734,860	Adventure
+31	Flight of the Phoenix	2004-12-17	20th Century Fox	PG-13	$4,288,938	669,101	Adventure
+32	SpongeBob SquarePants: The …	2004-11-19	Paramount Pictures	PG	$3,516,534	548,601	Adventure
+33	T-Rex: Back to the Cretaceous	1998-10-23	IMAX Films	Not Rated	$2,697,461	420,820	Adventure
+34	Haunted Castle	2001-03-02	nWave Pictures	PG	$2,205,203	344,025	Adventure
+35	Bunty Aur Babli	2005-05-27	Yash Raj Films	Not Rated	$932,509	145,477	Adventure
+36	Duma	2005-09-30	Warner Bros.	PG	$870,067	135,735	Adventure
+37	Shark Tale	2004-10-01	Dreamworks SKG	PG	$649,978	101,400	Adventure
+38	Alien Adventure	2000-04-14	nWave Pictures	Not Rated	$265,765	41,460	Adventure
+39	The New World	2005-12-25	New Line	PG-13	$156,471	24,410	Adventure
+40	Young Black Stallion	2003-12-25	Walt Disney	G	$136,972	21,368	Adventure
+41	Santa vs. The Snowman	2002-11-06	IMAX Films	Not Rated	$38,124	5,947	Adventure
+1	Pirates of the Caribbean: D…	2006-07-07	Walt Disney	PG-13	$423,315,812	64,628,368	Adventure
+2	Cars	2006-06-09	Walt Disney	G	$244,082,982	37,264,577	Adventure
+3	Superman Returns	2006-06-28	Warner Bros.	PG-13	$200,120,000	30,552,671	Adventure
+4	Ice Age: The Meltdown	2006-03-31	20th Century Fox	PG	$195,330,621	29,821,468	Adventure
+5	Happy Feet	2006-11-17	Warner Bros.	PG	$175,967,627	26,865,286	Adventure
+6	Over the Hedge	2006-05-19	Paramount Pictures	PG	$155,019,340	23,667,074	Adventure
+7	Night at the Museum	2006-12-22	20th Century Fox	PG	$115,822,154	17,682,771	Adventure
+8	Open Season	2006-09-29	Sony Pictures	PG	$85,105,259	12,993,169	Adventure
+9	The Santa Clause 3: The Esc…	2006-11-03	Walt Disney	G	$83,549,047	12,755,579	Adventure
+10	The Pink Panther	2006-02-10	Sony Pictures	PG	$82,226,474	12,553,660	Adventure
+11	Eight Below	2006-02-17	Walt Disney	PG	$81,612,565	12,459,933	Adventure
+12	The Chronicles of Narnia: T…	2005-12-09	Walt Disney	PG	$74,033,080	11,302,760	Adventure
+13	Monster House	2006-07-21	Sony Pictures	PG	$73,661,010	11,245,955	Adventure
+14	Barnyard: The Original Part…	2006-08-04	Paramount Pictures	PG	$72,779,000	11,111,297	Adventure
+15	R.V.	2006-04-28	Sony Pictures	PG	$71,724,497	10,950,304	Adventure
+16	Flushed Away	2006-11-03	Paramount Pictures	PG	$61,733,119	9,424,903	Adventure
+17	Poseidon	2006-05-12	Warner Bros.	PG-13	$60,674,817	9,263,330	Adventure
+18	Curious George	2006-02-10	Universal	G	$58,640,119	8,952,689	Adventure
+19	Eragon	2006-12-15	20th Century Fox	PG	$56,420,434	8,613,806	Adventure
+20	Hoodwinked	2006-01-13	Weinstein Co.	PG	$51,386,611	7,845,284	Adventure
+21	King Kong	2005-12-14	Universal	PG-13	$49,574,715	7,568,658	Adventure
+22	Nanny McPhee	2006-01-27	Universal	PG	$47,279,279	7,218,210	Adventure
+23	The Wild	2006-04-14	Walt Disney	G	$37,384,046	5,707,487	Adventure
+24	Cheaper by the Dozen 2	2005-12-21	20th Century Fox	PG	$32,258,142	4,924,907	Adventure
+25	Garfield: A Tail of Two Kit…	2006-06-16	20th Century Fox	PG	$28,426,747	4,339,961	Adventure
+26	The Ant Bully	2006-07-28	Warner Bros.	PG	$28,142,535	4,296,570	Adventure
+27	Unaccompanied Minors	2006-12-08	Warner Bros.	PG	$14,993,733	2,289,119	Adventure
+28	Harry Potter and the Goblet…	2005-11-18	Warner Bros.	PG-13	$14,880,404	2,271,817	Adventure
+29	Everyone's Hero	2006-09-15	20th Century Fox	G	$14,523,101	2,217,267	Adventure
+30	The New World	2005-12-25	New Line	PG-13	$12,555,622	1,916,888	Adventure
+31	Zoom	2006-08-11	Sony Pictures	PG	$11,989,328	1,830,431	Adventure
+32	Hoot	2006-05-05	New Line	PG	$8,117,637	1,239,333	Adventure
+33	Doogal	2006-02-24	Weinstein Co.	G	$7,578,946	1,157,090	Adventure
+34	The Polar Express	2004-11-10	Warner Bros.	G	$3,862,602	589,710	Adventure
+35	Chicken Little	2005-11-04	Walt Disney	G	$3,442,012	525,498	Adventure
+36	Santa vs. The Snowman	2002-11-06	IMAX Films	Not Rated	$1,937,203	295,756	Adventure
+37	The Celestine Prophecy	2006-04-19	Ram Entertainment	PG	$1,214,661	185,444	Adventure
+38	T-Rex: Back to the Cretaceous	1998-10-23	IMAX Films	Not Rated	$769,288	117,448	Adventure
+39	Lassie	2006-09-01	IDP/Goldwyn/Roadside	PG	$652,163	99,566	Adventure
+40	Haunted Castle	2001-03-02	nWave Pictures	PG	$541,636	82,692	Adventure
+41	Romeo & Juliet: Sealed with…	2006-10-27	Indican Pictures	G	$174,299	26,610	Adventure
+42	Kaptein Sabeltann	2006-09-22	Indican Pictures	Not Rated	$105,152	16,053	Adventure
+43	Wallace & Gromit: The Curse…	2005-10-05	Dreamworks SKG	G	$49,071	7,491	Adventure
+44	Alien Adventure	2000-04-14	nWave Pictures	Not Rated	$48,202	7,359	Adventure
+1	Spider-Man 3	2007-05-04	Sony Pictures	PG-13	$336,530,303	48,914,288	Adventure
+2	Shrek the Third	2007-05-17	Paramount Pictures	PG	$322,719,944	46,906,968	Adventure
+3	Pirates of the Caribbean: A…	2007-05-24	Walt Disney	PG-13	$309,420,425	44,973,898	Adventure
+4	Harry Potter and the Order …	2007-07-11	Warner Bros.	PG-13	$292,004,738	42,442,549	Adventure
+5	Ratatouille	2007-06-29	Walt Disney	G	$206,445,654	30,006,635	Adventure
+6	The Simpsons Movie	2007-07-27	20th Century Fox	PG-13	$183,135,014	26,618,461	Adventure
+7	National Treasure: Book of …	2007-12-21	Walt Disney	PG	$170,870,795	24,835,871	Adventure
+8	Alvin and the Chipmunks	2007-12-14	20th Century Fox	PG	$153,632,443	22,330,297	Adventure
+9	Night at the Museum	2006-12-22	20th Century Fox	PG	$135,041,114	19,628,068	Adventure
+10	Bee Movie	2007-11-02	Paramount Pictures	PG	$124,518,342	18,098,596	Adventure
+11	Ocean's Thirteen	2007-06-08	Warner Bros.	PG-13	$117,144,465	17,026,811	Adventure
+12	Meet the Robinsons	2007-03-30	Walt Disney	G	$97,822,171	14,218,338	Adventure
+13	Beowulf	2007-11-16	Paramount Pictures	PG-13	$81,205,200	11,803,081	Adventure
+14	The Golden Compass	2007-12-07	New Line	PG-13	$65,664,496	9,544,258	Adventure
+15	Surf’s Up	2007-06-08	Sony Pictures	PG	$58,867,694	8,556,350	Adventure
+16	Underdog	2007-08-03	Walt Disney	PG	$43,760,605	6,360,553	Adventure
+17	Stardust	2007-08-10	Paramount Pictures	PG-13	$38,634,938	5,615,543	Adventure
+18	Mr. Bean’s Holiday	2007-08-24	Universal	G	$33,302,167	4,840,431	Adventure
+19	The Water Horse: Legend of …	2007-12-25	Sony Pictures	PG	$30,823,470	4,480,155	Adventure
+20	Happy Feet	2006-11-17	Warner Bros.	PG	$22,032,690	3,202,425	Adventure
+21	The Last Mimzy	2007-03-23	New Line	PG	$21,471,047	3,120,791	Adventure
+22	Eragon	2006-12-15	20th Century Fox	PG	$18,609,729	2,704,902	Adventure
+23	Happily N'Ever After	2007-01-05	Lionsgate	PG	$15,849,032	2,303,638	Adventure
+24	Arthur et les Minimoys	2007-01-12	Weinstein Co.	PG	$15,132,763	2,199,529	Adventure
+25	The Darjeeling Limited	2007-09-29	Fox Searchlight	R	$11,698,660	1,700,387	Adventure
+26	The Seeker: The Dark is Rising	2007-10-05	20th Century Fox	PG	$8,794,452	1,278,263	Adventure
+27	Flushed Away	2006-11-03	Paramount Pictures	PG	$2,932,553	426,243	Adventure
+28	The Polar Express	2004-11-10	Warner Bros.	G	$2,601,536	378,130	Adventure
+29	Santa vs. The Snowman	2002-11-06	IMAX Films	Not Rated	$2,090,777	303,892	Adventure
+30	Unaccompanied Minors	2006-12-08	Warner Bros.	PG	$1,661,491	241,495	Adventure
+31	The Ten Commandments	2007-10-19	Rocky Mountain Pi…	PG	$952,820	138,491	Adventure
+32	The Santa Clause 3: The Esc…	2006-11-03	Walt Disney	G	$951,075	138,237	Adventure
+33	T-Rex: Back to the Cretaceous	1998-10-23	IMAX Films	Not Rated	$862,313	125,336	Adventure
+34	Haunted Castle	2001-03-02	nWave Pictures	PG	$617,742	89,788	Adventure
+35	Romeo & Juliet: Sealed with…	2006-10-27	Indican Pictures	G	$288,703	41,962	Adventure
+36	Passage to Zarahemla	2007-10-12	Somerset Films	PG-13	$242,444	35,238	Adventure
+37	Dus Kahaniyaan	2007-12-07	Eros Entertainment	Not Rated	$219,071	31,841	Adventure
+38	The Holy Mountain	1973-11-29	Abkco Films	Not Rated	$56,479	8,209	Adventure
+1	Iron Man	2008-05-02	Paramount Pictures	PG-13	$318,412,101	44,347,089	Adventure
+2	Indiana Jones and the Kingd…	2008-05-22	Paramount Pictures	PG-13	$317,101,119	44,164,501	Adventure
+3	WALL-E	2008-06-27	Walt Disney	G	$223,806,889	31,170,876	Adventure
+4	Kung Fu Panda	2008-06-06	Paramount Pictures	PG	$215,434,591	30,004,818	Adventure
+5	Madagascar: Escape 2 Africa	2008-11-07	Paramount Pictures	PG	$177,016,810	24,654,152	Adventure
+6	Horton Hears a Who	2008-03-14	20th Century Fox	G	$154,529,439	21,522,206	Adventure
+7	The Chronicles of Narnia: P…	2008-05-16	Walt Disney	PG	$141,621,490	19,724,441	Adventure
+8	The Incredible Hulk	2008-06-13	Universal	PG-13	$134,806,913	18,775,336	Adventure
+9	Bolt	2008-11-21	Walt Disney	PG	$109,917,145	15,308,795	Adventure
+10	The Mummy: Tomb of the Drag…	2008-08-01	Universal	PG-13	$102,491,776	14,274,621	Adventure
+11	Journey to the Center of th…	2008-07-11	Warner Bros.	PG	$101,704,370	14,164,954	Adventure
+12	10,000 B.C.	2008-03-07	Warner Bros.	PG-13	$94,784,201	13,201,142	Adventure
+13	Beverly Hills Chihuahua	2008-10-03	Walt Disney	PG	$93,778,953	13,061,136	Adventure
+14	Bedtime Stories	2008-12-25	Walt Disney	PG	$85,539,168	11,913,533	Adventure
+15	Jumper	2008-02-14	20th Century Fox	PG-13	$80,172,128	11,166,035	Adventure
+16	The Day the Earth Stood Still	2008-12-12	20th Century Fox	PG-13	$74,424,256	10,365,495	Adventure
+17	The Spiderwick Chronicles	2008-02-14	Paramount Pictures	PG	$71,195,053	9,915,746	Adventure
+18	Fool’s Gold	2008-02-08	Warner Bros.	PG-13	$70,231,041	9,781,482	Adventure
+19	Alvin and the Chipmunks	2007-12-14	20th Century Fox	PG	$63,694,531	8,871,105	Adventure
+20	National Treasure: Book of …	2007-12-21	Walt Disney	PG	$49,090,706	6,837,145	Adventure
+21	Nim's Island	2008-04-04	20th Century Fox	PG	$48,006,762	6,686,179	Adventure
+22	College Road Trip	2008-03-07	Walt Disney	G	$45,610,425	6,352,427	Adventure
+23	The Sisterhood of the Trave…	2008-08-06	Warner Bros.	PG-13	$44,089,964	6,140,664	Adventure
+24	The Tale of Despereaux	2008-12-19	Universal	G	$43,661,775	6,081,027	Adventure
+25	Star Wars: The Clone Wars	2008-08-15	Warner Bros.	PG	$35,161,554	4,897,152	Adventure
+26	Space Chimps	2008-07-18	20th Century Fox	G	$30,105,968	4,193,032	Adventure
+27	Igor	2008-09-19	MGM	PG	$19,447,221	2,708,527	Adventure
+28	The Pirates Who Don't Do An…	2008-01-11	Universal	G	$12,981,269	1,807,976	Adventure
+29	Fly Me To the Moon	2008-08-15	Summit Entertainment	G	$12,564,415	1,749,918	Adventure
+30	Meet Dave	2008-07-11	20th Century Fox	PG	$11,803,254	1,643,907	Adventure
+31	The Water Horse: Legend of …	2007-12-25	Sony Pictures	PG	$9,589,347	1,335,563	Adventure
+32	City of Ember	2008-10-10	20th Century Fox	PG	$7,862,312	1,095,030	Adventure
+33	The Golden Compass	2007-12-07	New Line	PG-13	$4,443,232	618,834	Adventure
+34	Bee Movie	2007-11-02	Paramount Pictures	PG	$2,112,935	294,281	Adventure
+35	The Polar Express	2004-11-10	Warner Bros.	G	$1,862,997	259,470	Adventure
+36	Beowulf	2007-11-16	Paramount Pictures	PG-13	$1,075,379	149,774	Adventure
+37	Astérix aux Jeux Olympiques	2008-07-04		Not Rated	$999,811	139,249	Adventure
+38	Delgo	2008-12-12	Freestyle Releasing	PG	$915,840	127,554	Adventure
+39	Heroes	2008-10-24	Eros Entertainment	R	$655,538	91,300	Adventure
+40	Santa vs. The Snowman	2002-11-06	IMAX Films	Not Rated	$514,912	71,714	Adventure
+41	Drona	2008-10-03	Eros Entertainment	Not Rated	$475,104	66,170	Adventure
+42	C'est pas moi, je le jure!	2008-09-26		Not Rated	$235,027	32,733	Adventure
+43	長江七號 (CJ7)	2008-03-07	Sony Pictures Cla…	PG	$206,678	28,785	Adventure
+44	The Darjeeling Limited	2007-09-29	Fox Searchlight	R	$204,055	28,420	Adventure
+45	The Flyboys	2008-08-15	Self Distributed	PG-13	$144,110	20,071	Adventure
+46	Haunted Castle	2001-03-02	nWave Pictures	PG	$139,720	19,459	Adventure
+47	Christmas in Wonderland	2007-11-09	Yari Film Group R…	PG	$78,566	10,942	Adventure
+48	A Plumm Summer	2008-04-25	Freestyle Releasing	PG	$60,668	8,449	Adventure
+49	Roadside Romeo	2008-10-24	Yash Raj Films	Not Rated	$55,202	7,688	Adventure
+50	Blue Gap Boy'z	2008-11-07	Better World Dist…	Not Rated	$51,576	7,183	Adventure
+51	Passage to Zarahemla	2007-10-12	Somerset Films	PG-13	$47,935	6,676	Adventure
+52	Mission Istaanbul	2008-07-25	Raja Cinema	Not Rated	$29,269	4,076	Adventure
+53	One Piece: Episode of Alaba…	2008-02-07	The Bigger Picture	Not Rated	$6,587	917	Adventure
+54	Solar Flare	2008-06-06	Regent Releasing	PG-13	$4,098	570	Adventure
+55	Camille	2008-11-14	A-Mark Entertainment	PG-13	$3,849	536	Adventure
+56	The Holy Mountain	1973-11-29	Abkco Films	Not Rated	$3,755	522	Adventure
+1	Harry Potter and the Half-B…	2009-07-15	Warner Bros.	PG	$301,959,197	40,261,226	Adventure
+2	Up	2009-05-29	Walt Disney	PG	$293,004,164	39,067,222	Adventure
+3	Star Trek	2009-05-08	Paramount Pictures	PG-13	$257,730,019	34,364,003	Adventure
+4	Monsters vs. Aliens	2009-03-27	Paramount Pictures	PG	$198,351,526	26,446,870	Adventure
+5	Ice Age: Dawn of the Dinosaurs	2009-07-01	20th Century Fox	PG	$196,573,705	26,209,827	Adventure
+6	Night at the Museum: Battle…	2009-05-22	20th Century Fox	PG	$177,243,721	23,632,496	Adventure
+7	Alvin and the Chipmunks: Th…	2009-12-23	20th Century Fox	PG	$155,916,935	20,788,925	Adventure
+8	Paul Blart: Mall Cop	2009-01-16	Sony Pictures	PG	$146,336,178	19,511,490	Adventure
+9	Sherlock Holmes	2009-12-25	Warner Bros.	PG-13	$138,715,437	18,495,392	Adventure
+10	Cloudy with a Chance of Mea…	2009-09-18	Sony Pictures	PG	$124,264,907	16,568,654	Adventure
+11	G-Force	2009-07-24	Walt Disney	PG	$119,436,770	15,924,903	Adventure
+12	The Princess and the Frog	2009-11-25	Walt Disney	G	$85,859,339	11,447,912	Adventure
+13	Where the Wild Things Are	2009-10-16	Warner Bros.	PG	$76,566,491	10,208,865	Adventure
+14	Coraline	2009-02-06	Focus Features	PG	$75,286,229	10,038,163	Adventure
+15	Hotel for Dogs	2009-01-16	Paramount Pictures	PG	$73,178,547	9,757,140	Adventure
+16	Race to Witch Mountain	2009-03-13	Walt Disney	PG	$67,172,594	8,956,346	Adventure
+17	Planet 51	2009-11-20	Sony Pictures	PG	$39,570,569	5,276,075	Adventure
+18	The Pink Panther 2	2009-02-06	Sony Pictures	PG	$35,922,978	4,789,730	Adventure
+19	9	2009-09-09	Focus Features	PG-13	$31,749,894	4,233,319	Adventure
+20	Toy Story 3D Double Feature	2009-10-02	Walt Disney	G	$30,702,446	4,093,659	Adventure
+21	Aliens in the Attic	2009-07-31	20th Century Fox	PG	$25,200,412	3,360,055	Adventure
+22	Bedtime Stories	2008-12-25	Walt Disney	PG	$24,562,807	3,275,041	Adventure
+23	Shorts	2009-08-21	Warner Bros.	PG	$20,919,166	2,789,222	Adventure
+24	Astro Boy	2009-10-23	Summit Entertainment	PG	$19,452,359	2,593,647	Adventure
+25	Fantastic Mr. Fox	2009-11-13	20th Century Fox	PG	$19,123,189	2,549,759	Adventure
+26	Inkheart	2009-01-23	Warner Bros.	PG	$17,303,424	2,307,123	Adventure
+27	Imagine That	2009-06-12	Paramount Pictures	PG	$16,222,392	2,162,986	Adventure
+28	Gake no ue no Ponyo	2009-08-14	Walt Disney	G	$15,090,399	2,012,053	Adventure
+29	Dragonball Evolution	2009-04-10	20th Century Fox	PG	$9,362,785	1,248,371	Adventure
+30	The Tale of Despereaux	2008-12-19	Universal	G	$7,215,370	962,049	Adventure
+31	The Day the Earth Stood Still	2008-12-12	20th Century Fox	PG-13	$4,942,722	659,030	Adventure
+32	Bolt	2008-11-21	Walt Disney	PG	$4,136,434	551,525	Adventure
+33	Madagascar: Escape 2 Africa	2008-11-07	Paramount Pictures	PG	$3,158,070	421,076	Adventure
+34	Fly Me To the Moon	2008-08-15	Summit Entertainment	G	$1,979,528	263,937	Adventure
+35	Battle for Terra	2009-05-01	Roadside Attractions	PG	$1,647,083	219,611	Adventure
+36	The Imaginarium of Doctor P…	2009-12-25	Sony Pictures Cla…	PG-13	$1,029,821	137,309	Adventure
+37	Beverly Hills Chihuahua	2008-10-03	Walt Disney	PG	$735,449	98,060	Adventure
+38	The Polar Express	2004-11-10	Warner Bros.	G	$517,658	69,021	Adventure
+39	El delfín: La historia de u…	2010-12-07		PG	$118,012	15,735	Adventure
+40	Evangerion shin gekijôban: Jo	2009-07-03	Eleven Arts	PG-13	$107,797	14,372	Adventure
+41	Igor	2008-09-19	MGM	PG	$81,381	10,851	Adventure
+42	Super Capers	2009-03-20	Roadside Attractions	PG	$30,955	4,127	Adventure
+43	Severed Ways: The Norse Dis…	2009-03-13	Magnolia Pictures	Not Rated	$18,728	2,497	Adventure
+44	A Town Called Panic	2009-12-16	Zeitgeist	Not Rated	$17,542	2,338	Adventure
+45	Santa vs. The Snowman	2002-11-06	IMAX Films	Not Rated	$10,708	1,427	Adventure
+46	City of Ember	2008-10-10	20th Century Fox	PG	$10,695	1,426	Adventure
+47	Confessions of a Ex-Doofus-…	2009-08-14	Self Distributed	Not Rated	$2,310	308	Adventure
+48	WALL-E	2008-06-27	Walt Disney	G	$1,275	170	Adventure
+1	Toy Story 3	2010-06-18	Walt Disney	G	$415,004,880	52,598,844	Adventure
+2	Alice in Wonderland	2010-03-05	Walt Disney	PG	$334,191,110	42,356,287	Adventure
+3	Harry Potter and the Deathl…	2010-11-19	Warner Bros.	PG-13	$283,533,215	35,935,769	Adventure
+4	Despicable Me	2010-07-09	Universal	PG	$251,203,225	31,838,178	Adventure
+5	Shrek Forever After	2010-05-21	Paramount Pictures	PG	$238,736,787	30,258,148	Adventure
+6	How to Train Your Dragon	2010-03-26	Paramount Pictures	PG	$217,581,231	27,576,835	Adventure
+7	Megamind	2010-11-05	Paramount Pictures	PG	$144,192,018	18,275,287	Adventure
+8	The Last Airbender	2010-07-01	Paramount Pictures	PG	$131,772,187	16,701,164	Adventure
+9	Tron: Legacy	2010-12-17	Walt Disney	PG	$131,304,844	16,641,932	Adventure
+10	Percy Jackson & the Olympia…	2010-02-12	20th Century Fox	PG	$88,768,303	11,250,735	Adventure
+11	The Chronicles of Narnia: T…	2010-12-10	20th Century Fox	PG	$86,926,397	11,017,287	Adventure
+12	Sherlock Holmes	2009-12-25	Warner Bros.	PG-13	$70,313,242	8,911,691	Adventure
+13	Yogi Bear	2010-12-17	Warner Bros.	PG	$65,755,336	8,334,010	Adventure
+14	Diary of a Wimpy Kid	2010-03-19	20th Century Fox	PG	$64,003,625	8,111,993	Adventure
+15	Alvin and the Chipmunks: Th…	2009-12-23	20th Century Fox	PG	$63,697,677	8,073,216	Adventure
+16	The Sorcerer's Apprentice	2010-07-14	Walt Disney	PG	$63,150,991	8,003,927	Adventure
+17	Tooth Fairy	2010-01-22	20th Century Fox	PG	$60,022,256	7,607,384	Adventure
+18	Legend of the Guardians: Th…	2010-09-24	Warner Bros.	PG	$55,549,823	7,040,535	Adventure
+19	Cats & Dogs: The Revenge of…	2010-07-30	Warner Bros.	PG	$43,585,753	5,524,177	Adventure
+20	Marmaduke	2010-06-04	20th Century Fox	PG	$33,644,788	4,264,232	Adventure
+21	Nanny McPhee and the Big Bang	2010-08-20	Universal	PG	$29,197,642	3,700,588	Adventure
+22	Gulliver's Travels	2010-12-25	20th Century Fox	PG	$27,454,506	3,479,659	Adventure
+23	Ramona and Beezus	2010-07-23	20th Century Fox	G	$26,167,002	3,316,477	Adventure
+24	Alpha and Omega	2010-09-17	Lionsgate	PG	$25,107,267	3,182,163	Adventure
+25	The Spy Next Door	2010-01-15	Lionsgate	PG	$24,307,106	3,080,748	Adventure
+26	The Princess and the Frog	2009-11-25	Walt Disney	G	$18,541,560	2,350,007	Adventure
+27	Furry Vengeance	2010-04-30	Summit Entertainment	PG	$17,630,465	2,234,533	Adventure
+28	The Imaginarium of Doctor P…	2009-12-25	Sony Pictures Cla…	PG-13	$6,659,786	844,079	Adventure
+29	Planet 51	2009-11-20	Sony Pictures	PG	$2,623,491	332,508	Adventure
+30	Fantastic Mr. Fox	2009-11-13	20th Century Fox	PG	$1,879,730	238,242	Adventure
+31	The Secret of Kells	2010-03-05	GKIDS	Not Rated	$690,290	87,489	Adventure
+32	The Polar Express	2004-11-10	Warner Bros.	G	$672,796	85,272	Adventure
+33	Where the Wild Things Are	2009-10-16	Warner Bros.	PG	$666,976	84,534	Adventure
+34	Cloudy with a Chance of Mea…	2009-09-18	Sony Pictures	PG	$605,368	76,726	Adventure
+35	Arthur and the War of Two W…	2010-12-31		PG	$347,136	43,996	Adventure
+36	Le Petit Nicolas	2010-02-19		Not Rated	$201,857	25,583	Adventure
+37	Iron Man	2008-05-02	Paramount Pictures	PG-13	$192,025	24,338	Adventure
+38	A Town Called Panic	2009-12-16	Zeitgeist	Not Rated	$147,967	18,753	Adventure
+39	L'illusionniste	2010-12-25	Sony Pictures Cla…	PG	$123,476	15,649	Adventure
+40	Astro Boy	2009-10-23	Summit Entertainment	PG	$98,708	12,511	Adventure
+41	Gedo Senki (Tales from Eart…	2010-08-13	Walt Disney	PG-13	$48,658	6,167	Adventure
+42	Terkel i knibe	2010-03-26		Not Rated	$40,621	5,148	Adventure
+43	Samâ uôzu	2010-12-24	GKIDS	PG-13	$15,623	1,980	Adventure
+1	Harry Potter and the Deathl…	2011-07-15	Warner Bros.	PG-13	$381,011,219	48,046,812	Adventure
+2	Pirates of the Caribbean: O…	2011-05-20	Walt Disney	PG-13	$241,071,802	30,399,975	Adventure
+3	Cars 2	2011-06-24	Walt Disney	G	$191,450,875	24,142,607	Adventure
+4	Rise of the Planet of the Apes	2011-08-05	20th Century Fox	PG-13	$176,760,185	22,290,061	Adventure
+5	Kung Fu Panda 2	2011-05-26	Paramount Pictures	PG	$165,249,063	20,838,469	Adventure
+6	Puss in Boots	2011-10-28	Paramount Pictures	PG	$145,738,327	18,378,099	Adventure
+7	Rio	2011-04-15	20th Century Fox	PG	$143,619,809	18,110,947	Adventure
+8	The Smurfs	2011-07-29	Sony Pictures	PG	$142,614,158	17,984,130	Adventure
+9	Rango	2011-03-04	Paramount Pictures	PG	$123,477,607	15,570,947	Adventure
+10	Hop	2011-04-01	Universal	PG	$108,085,305	13,629,925	Adventure
+11	Alvin and the Chipmunks: Ch…	2011-12-16	20th Century Fox	G	$97,848,114	12,338,980	Adventure
+12	The Lion King	1994-06-15	Walt Disney	G	$94,233,351	11,883,146	Adventure
+13	The Muppets	2011-11-23	Walt Disney	PG	$82,529,452	10,407,244	Adventure
+14	Mr. Poppers's Penguins	2011-06-17	20th Century Fox	PG	$68,224,452	8,603,336	Adventure
+15	Happy Feet Two	2011-11-18	Warner Bros.	PG	$60,965,866	7,688,003	Adventure
+16	I am Number Four	2011-02-18	Walt Disney	PG-13	$55,100,437	6,948,352	Adventure
+17	Diary of a Wimpy Kid: Rodri…	2011-03-25	20th Century Fox	PG	$52,698,535	6,645,465	Adventure
+18	The Adventures of Tintin	2011-12-21	Paramount Pictures	PG	$51,400,450	6,481,772	Adventure
+19	Hugo	2011-11-23	Paramount Pictures	PG	$50,313,495	6,344,703	Adventure
+20	Arthur Christmas	2011-11-23	Sony Pictures	PG	$45,820,235	5,778,087	Adventure
+21	Tron: Legacy	2010-12-17	Walt Disney	PG	$40,757,919	5,139,712	Adventure
+22	Spy Kids: All the Time in t…	2011-08-19	Weinstein/Dimension	PG	$38,536,376	4,859,568	Adventure
+23	Yogi Bear	2010-12-17	Warner Bros.	PG	$34,490,675	4,349,392	Adventure
+24	Winnie the Pooh	2011-07-15	Walt Disney	G	$26,692,846	3,366,058	Adventure
+25	Mars Needs Moms	2011-03-11	Walt Disney	PG	$21,392,758	2,697,699	Adventure
+26	The Three Musketeers	2011-10-21	Summit Entertainment	PG-13	$20,377,913	2,569,724	Adventure
+27	The Chronicles of Narnia: T…	2010-12-10	20th Century Fox	PG	$17,460,553	2,201,835	Adventure
+28	Gulliver's Travels	2010-12-25	20th Century Fox	PG	$15,324,755	1,932,504	Adventure
+29	Judy Moody and the Not Bumm…	2011-06-10	Relativity	PG	$15,013,650	1,893,272	Adventure
+30	Harry Potter and the Deathl…	2010-11-19	Warner Bros.	PG-13	$12,450,090	1,569,999	Adventure
+31	Hoodwinked Too: Hood vs. Evil	2011-04-29	Weinstein Co.	PG	$10,143,779	1,279,165	Adventure
+32	Johnny English Reborn	2011-10-21	Universal	PG	$8,406,711	1,060,115	Adventure
+33	Megamind	2010-11-05	Paramount Pictures	PG	$4,223,825	532,639	Adventure
+34	The Way Back	2011-01-21	Newmarket Films	PG-13	$2,719,296	342,912	Adventure
+35	L'illusionniste	2010-12-25	Sony Pictures Cla…	PG	$2,107,998	265,825	Adventure
+36	The Lord of the Rings: The …	2003-12-17	New Line	PG-13	$818,580	103,226	Adventure
+37	The Lord of the Rings: The …	2001-12-19	New Line	PG-13	$768,580	96,921	Adventure
+38	The Lord of the Rings: The …	2002-12-18	New Line	PG-13	$764,607	96,420	Adventure
+39	The Polar Express	2004-11-10	Warner Bros.	G	$711,168	89,681	Adventure
+40	Arthur et la vengeance de M…	2011-02-25	Alliance Atlantis	PG	$347,136	43,775	Adventure
+41	Despicable Me	2010-07-09	Universal	PG	$310,760	39,188	Adventure
+42	Legend of the Guardians: Th…	2010-09-24	Warner Bros.	PG	$125,490	15,825	Adventure
+43	Samâ uôzu	2010-12-24	GKIDS	PG-13	$62,559	7,888	Adventure
+44	Alabama Moon	2011-03-18	Faulkner-McLean E…	PG	$47,305	5,965	Adventure
+45	Mia et le Migou	2011-03-25	GKIDS	PG	$16,975	2,140	Adventure
+46	OKA!	2011-10-14	Dada Films	Not Rated	$14,083	1,775	Adventure
+47	Terkel i knibe	2010-03-26		Not Rated	$6,584	830	Adventure
+48	Miss Minoes	2011-12-23	Music Box Films	PG	$5,947	749	Adventure
+49	Zokkomon	2011-04-22	Walt Disney	PG	$2,815	354	Adventure
+1	The Hobbit: An Unexpected J…	2012-12-14	Warner Bros.	PG-13	$263,834,893	33,145,087	Adventure
+2	The Amazing Spider-Man	2012-07-03	Sony Pictures	PG-13	$262,030,663	32,918,425	Adventure
+3	Brave	2012-06-22	Walt Disney	PG	$237,277,071	29,808,677	Adventure
+4	Madagascar 3: Europe's Most…	2012-06-08	Paramount Pictures	PG	$216,391,482	27,184,859	Adventure
+5	Dr. Seuss’ The Lorax	2012-03-02	Universal	PG	$214,030,500	26,888,253	Adventure
+6	Men in Black 3	2012-05-25	Sony Pictures	PG-13	$179,020,854	22,490,057	Adventure
+7	Wreck-It Ralph	2012-11-02	Walt Disney	PG	$178,501,640	22,424,829	Adventure
+8	Ice Age: Continental Drift	2012-07-13	20th Century Fox	PG	$161,204,082	20,251,769	Adventure
+9	Snow White and the Huntsman	2012-06-01	Universal	PG-13	$155,136,755	19,489,542	Adventure
+10	Hotel Transylvania	2012-09-28	Sony Pictures	PG	$146,172,361	18,363,361	Adventure
+11	Journey 2: The Mysterious I…	2012-02-10	Warner Bros.	PG	$103,860,290	13,047,775	Adventure
+12	Rise of the Guardians	2012-11-21	Paramount Pictures	PG	$97,227,667	12,214,531	Adventure
+13	Wrath of the Titans	2012-03-30	Warner Bros.	PG-13	$83,670,083	10,511,316	Adventure
+14	John Carter	2012-03-09	Walt Disney	PG-13	$73,058,679	9,178,226	Adventure
+15	Mirror Mirror	2012-03-30	Relativity	PG	$64,935,167	8,157,684	Adventure
+16	ParaNorman	2012-08-17	Focus Features	PG	$56,003,051	7,035,559	Adventure
+17	Parental Guidance	2012-12-25	20th Century Fox	PG	$52,339,698	6,575,338	Adventure
+18	Diary of a Wimpy Kid: Dog Days	2012-08-03	20th Century Fox	PG	$49,008,662	6,156,867	Adventure
+19	Star Wars Ep. I: The Phanto…	1999-05-19	20th Century Fox	PG	$43,456,382	5,459,344	Adventure
+20	Finding Nemo	2003-05-30	Walt Disney	G	$40,795,794	5,125,099	Adventure
+21	Alvin and the Chipmunks: Ch…	2011-12-16	20th Century Fox	G	$35,259,275	4,429,557	Adventure
+22	Frankenweenie	2012-10-05	Walt Disney	PG	$34,933,733	4,388,659	Adventure
+23	The Pirates! Band of Misfits	2012-04-27	Sony Pictures	PG	$31,051,126	3,900,895	Adventure
+24	Monsters, Inc.	2001-11-02	Walt Disney	G	$27,978,476	3,514,883	Adventure
+25	The Adventures of Tintin	2011-12-21	Paramount Pictures	PG	$26,191,381	3,290,374	Adventure
+26	Hugo	2011-11-23	Paramount Pictures	PG	$23,551,012	2,958,669	Adventure
+27	Kari gurashi no Arietti	2012-02-17	Walt Disney	G	$19,192,510	2,411,119	Adventure
+28	The Muppets	2011-11-23	Walt Disney	PG	$6,096,470	765,888	Adventure
+29	Puss in Boots	2011-10-28	Paramount Pictures	PG	$3,522,177	442,484	Adventure
+30	Raiders of the Lost Ark	1981-06-12	Paramount Pictures	PG	$3,125,613	392,664	Adventure
+31	Happy Feet Two	2011-11-18	Warner Bros.	PG	$3,040,600	381,984	Adventure
+32	The Oogieloves in the BIG B…	2012-08-29	Kenn Viselman Pre…	G	$1,065,907	133,907	Adventure
+33	Arthur Christmas	2011-11-23	Sony Pictures	PG	$642,234	80,682	Adventure
+34	The Polar Express	2004-11-10	Warner Bros.	G	$545,345	68,510	Adventure
+35	Une vie de chat	2012-02-24	Mongrel Media	PG	$287,709	36,144	Adventure
+36	Hagane no renkinjutsushi: M…	2012-01-20	Eleven Arts	Not Rated	$178,000	22,361	Adventure
+37	Na pude	2012-09-07	Hannover House	PG	$64,918	8,155	Adventure
+38	La nouvelle guerre des boutons	2012-10-12	Weinstein Co.	Not Rated	$45,602	5,728	Adventure
+39	Le Voyage dans la Lune	1902-10-04		Not Rated	$45,353	5,697	Adventure
+40	The Lion King	1994-06-15	Walt Disney	G	$7,284	915	Adventure
+41	Le chat du rabbin	2012-12-07	GKIDS	Not Rated	$4,301	540	Adventure
+42	OKA!	2011-10-14	Dada Films	Not Rated	$4,281	537	Adventure
+43	Miss Minoes	2011-12-23	Music Box Films	PG	$4,242	532	Adventure
+44	Terkel i knibe	2010-03-26		Not Rated	$3,259	409	Adventure
+1	The Hunger Games: Catching …	2013-11-22	Lionsgate	PG-13	$407,139,699	50,078,683	Adventure
+2	Despicable Me 2	2013-07-03	Universal	PG	$367,956,735	45,259,130	Adventure
+3	Monsters University	2013-06-21	Walt Disney	G	$268,488,329	33,024,394	Adventure
+4	Oz the Great and Powerful	2013-03-08	Walt Disney	PG	$234,770,996	28,877,121	Adventure
+5	The Hobbit: The Desolation …	2013-12-13	Warner Bros.	PG-13	$228,934,309	28,159,201	Adventure
+6	Star Trek Into Darkness	2013-05-16	Paramount Pictures	PG-13	$228,778,661	28,140,056	Adventure
+7	The Croods	2013-03-22	20th Century Fox	PG	$187,168,425	23,021,946	Adventure
+8	Cloudy with a Chance of Mea…	2013-09-27	Sony Pictures	PG	$117,614,237	14,466,695	Adventure
+9	Epic	2013-05-24	20th Century Fox	PG	$107,518,682	13,224,930	Adventure
+10	Disney Planes	2013-08-09	Walt Disney	PG	$90,282,580	11,104,868	Adventure
+11	Turbo	2013-07-17	20th Century Fox	PG	$83,028,130	10,212,562	Adventure
+12	The Smurfs 2	2013-07-31	Sony Pictures	PG	$71,017,784	8,735,274	Adventure
+13	Percy Jackson: Sea of Monsters	2013-08-07	20th Century Fox	PG	$68,518,210	8,427,824	Adventure
+14	Jack the Giant Slayer	2013-03-01	Warner Bros.	PG-13	$65,187,603	8,018,155	Adventure
+15	Ender's Game	2013-11-01	Lionsgate	PG-13	$61,656,849	7,583,868	Adventure
+16	Escape From Planet Earth	2013-02-15	Weinstein Co.	PG	$57,012,977	7,012,666	Adventure
+17	Free Birds	2013-11-01	Relativity	PG	$54,894,525	6,752,094	Adventure
+18	The Secret Life of Walter M…	2013-12-25	20th Century Fox	PG	$45,470,954	5,592,983	Adventure
+19	Jurassic Park	1993-06-11	Universal	PG-13	$45,385,935	5,582,525	Adventure
+20	The Hobbit: An Unexpected J…	2012-12-14	Warner Bros.	PG-13	$39,168,675	4,817,795	Adventure
+21	Walking with Dinosaurs	2013-12-20	20th Century Fox	PG	$31,344,185	3,855,373	Adventure
+22	The Mortal Instruments: Cit…	2013-08-21	Sony Pictures	PG-13	$31,165,421	3,833,385	Adventure
+23	Parental Guidance	2012-12-25	20th Century Fox	PG	$24,927,598	3,066,125	Adventure
+24	Wreck-It Ralph	2012-11-02	Walt Disney	PG	$10,911,037	1,342,070	Adventure
+25	Rise of the Guardians	2012-11-21	Paramount Pictures	PG	$6,185,091	760,773	Adventure
+26	Monsters, Inc.	2001-11-02	Walt Disney	G	$5,571,699	685,325	Adventure
+27	Hotel Transylvania	2012-09-28	Sony Pictures	PG	$2,140,687	263,307	Adventure
+28	The Christmas Candle	2013-11-15	Echolight Studios	PG	$1,632,000	200,738	Adventure
+29	The Lost Medallion: The Adv…	2013-03-01	Freestyle Releasing	PG	$549,632	67,605	Adventure
+30	Frankenweenie	2012-10-05	Walt Disney	PG	$354,055	43,549	Adventure
+31	2001: A Space Odyssey	1968-04-02	MGM	G	$214,618	26,398	Adventure
+32	Gekijoban Mahou Shojo Madok…	2013-12-06	Eleven Arts	Not Rated	$190,478	23,429	Adventure
+33	Ernest et Celestine	2013-03-01	Mongrel Media	Not Rated	$135,918	16,718	Adventure
+34	Ice Age: Continental Drift	2012-07-13	20th Century Fox	PG	$117,761	14,484	Adventure
+35	Di Renjie zhi shendu longwa…	2013-09-27	AMC Independent	Not Rated	$87,783	10,797	Adventure
+36	Boule et Bill	2013-11-08	Distrib Films	Not Rated	$56,224	6,915	Adventure
+37	Zaytoun	2013-09-20	Strand	Not Rated	$30,743	3,781	Adventure
+38	Finding Nemo	2003-05-30	Walt Disney	G	$19,209	2,362	Adventure
+39	Brave	2012-06-22	Walt Disney	PG	$5,111	628	Adventure
+40	Last Flight of the Champion	2013-08-30	High Top Releasing	PG	$2,597	319	Adventure
+41	Terkel i knibe	2010-03-26		Not Rated	$500	61	Adventure
+1	The Lego Movie	2014-02-07	Warner Bros.	PG	$257,784,718	31,552,597	Adventure
+2	Maleficent	2014-05-30	Walt Disney	PG	$241,407,328	29,548,020	Adventure
+3	The Hobbit: The Battle of t…	2014-12-17	Warner Bros.	PG-13	$220,602,017	27,001,470	Adventure
+4	Big Hero 6	2014-11-07	Walt Disney	PG	$211,207,036	25,851,534	Adventure
+5	Dawn of the Planet of the Apes	2014-07-11	20th Century Fox	PG-13	$208,545,589	25,525,775	Adventure
+6	Teenage Mutant Ninja Turtles	2014-08-08	Paramount Pictures	PG-13	$191,204,754	23,403,274	Adventure
+7	Interstellar	2014-11-05	Paramount Pictures	PG-13	$182,802,094	22,374,797	Adventure
+8	How to Train Your Dragon 2	2014-06-13	20th Century Fox	PG	$177,002,924	21,664,984	Adventure
+9	Divergent	2014-03-21	Lionsgate	PG-13	$150,947,895	18,475,874	Adventure
+10	Rio 2	2014-04-11	20th Century Fox	G	$131,538,435	16,100,175	Adventure
+11	Mr. Peabody & Sherman	2014-03-07	20th Century Fox	PG	$111,506,430	13,648,277	Adventure
+12	Penguins of Madagascar	2014-11-26	20th Century Fox	PG	$74,028,222	9,060,981	Adventure
+13	Hercules	2014-07-25	Paramount Pictures	PG-13	$72,688,614	8,897,015	Adventure
+14	Night at the Museum: Secret…	2014-12-19	20th Century Fox	PG	$69,354,582	8,488,932	Adventure
+15	Alexander and the Terrible,…	2014-10-10	Walt Disney	PG	$66,032,663	8,082,333	Adventure
+16	The Nut Job	2014-01-17	Open Road	PG	$64,251,538	7,864,325	Adventure
+17	Planes: Fire and Rescue	2014-07-18	Walt Disney	PG	$59,157,732	7,240,848	Adventure
+18	Muppets Most Wanted	2014-03-21	Walt Disney	PG	$51,178,893	6,264,246	Adventure
+19	The Boxtrolls	2014-09-26	Focus Features	PG	$50,618,671	6,195,675	Adventure
+20	The Book of Life	2014-10-17	20th Century Fox	PG	$49,322,356	6,037,008	Adventure
+21	Earth to Echo	2014-07-02	Relativity	PG	$38,934,842	4,765,586	Adventure
+22	The Hobbit: The Desolation …	2013-12-13	Warner Bros.	PG-13	$29,307,213	3,587,174	Adventure
+23	The Legend of Hercules	2014-01-10	Lionsgate	PG-13	$18,848,538	2,307,042	Adventure
+24	The Hunger Games: Catching …	2013-11-22	Lionsgate	PG-13	$17,528,348	2,145,452	Adventure
+25	The Secret Life of Walter M…	2013-12-25	20th Century Fox	PG	$12,765,884	1,562,531	Adventure
+26	Moms’ Night Out	2014-05-09	Sony Pictures	PG	$10,429,707	1,276,585	Adventure
+27	Legends of Oz: Dorothy’s Re…	2014-05-09	Clarius Entertain…	PG	$8,462,347	1,035,782	Adventure
+28	Walking with Dinosaurs	2013-12-20	20th Century Fox	PG	$4,731,936	579,184	Adventure
+29	Cloudy with a Chance of Mea…	2013-09-27	Sony Pictures	PG	$2,179,330	266,747	Adventure
+30	Free Birds	2013-11-01	Relativity	PG	$855,955	104,768	Adventure
+31	Pirates	2014-09-12	Well Go USA	Not Rated	$160,133	19,600	Adventure
+32	Ernest et Celestine	2013-03-01	Mongrel Media	Not Rated	$156,644	19,173	Adventure
+33	2001: A Space Odyssey	1968-04-02	MGM	G	$135,370	16,569	Adventure
+34	Despicable Me 2	2013-07-03	Universal	PG	$108,650	13,298	Adventure
+35	En solitaire	2014-04-18		Not Rated	$103,628	12,683	Adventure
+36	Ender's Game	2013-11-01	Lionsgate	PG-13	$80,342	9,833	Adventure
+37	Song of the Sea	2014-12-19	GKIDS	PG	$65,845	8,059	Adventure
+38	The Taking of Tiger Mountain	2015-01-02	Well Go USA	Not Rated	$50,621	6,195	Adventure
+39	Percy Jackson: Sea of Monsters	2013-08-07	20th Century Fox	PG	$41,344	5,060	Adventure
+40	Rocks in My Pockets	2014-09-03	Zeitgeist	Not Rated	$34,236	4,190	Adventure
+41	The Hero of Color City	2014-10-03	Magnolia Pictures	G	$32,188	3,939	Adventure
+42	Yellow Day	2014-09-19	Self Distributed	PG	$31,000	3,794	Adventure
+43	Xi you xiang mo pian	2014-03-07	Magnolia Pictures	PG-13	$18,058	2,210	Adventure
+44	War of the World's Goliath	2014-03-07	Anderson Digital	PG-13	$13,385	1,638	Adventure
+45	Le roi et l'oiseau	2014-11-21	Rialto Pictures	Not Rated	$9,554	1,169	Adventure
+46	Canopy	2014-08-29	Monterey Media	PG-13	$8,462	1,035	Adventure
+47	Thunder and the House of Magic	2014-09-05	Shout! Factory	Not Rated	$4,091	500	Adventure
+48	Ragnarok	2014-08-15	Magnolia Pictures	PG-13	$1,369	167	Adventure
+1	Star Wars Ep. VII: The Forc…	2015-12-18	Walt Disney	PG-13	$742,208,942	88,043,765	Adventure
+2	Inside Out	2015-06-19	Walt Disney	PG	$356,461,711	42,284,900	Adventure
+3	Minions	2015-07-10	Universal	PG	$336,045,770	39,863,081	Adventure
+4	Home	2015-03-27	20th Century Fox	PG	$177,397,510	21,043,595	Adventure
+5	Hotel Transylvania 2	2015-09-25	Sony Pictures	PG	$168,471,018	19,984,700	Adventure
+6	The SpongeBob Movie: Sponge…	2015-02-06	Paramount Pictures	PG	$162,994,032	19,334,997	Adventure
+7	San Andreas	2015-05-29	Warner Bros.	PG-13	$155,190,832	18,409,351	Adventure
+8	The Peanuts Movie	2015-11-06	20th Century Fox	G	$128,235,584	15,211,813	Adventure
+9	The Good Dinosaur	2015-11-25	Walt Disney	PG	$114,766,932	13,614,108	Adventure
+10	Tomorrowland	2015-05-22	Walt Disney	PG	$93,436,322	11,083,786	Adventure
+11	Pixels	2015-07-24	Sony Pictures	PG-13	$78,765,986	9,343,533	Adventure
+12	Paddington	2015-01-16	Weinstein Co.	PG	$76,223,578	9,041,942	Adventure
+13	Paul Blart: Mall Cop 2	2015-04-17	Sony Pictures	PG	$71,091,594	8,433,167	Adventure
+14	Alvin and the Chipmunks: Th…	2015-12-18	20th Century Fox	PG	$55,575,427	6,592,577	Adventure
+15	Night at the Museum: Secret…	2014-12-19	20th Century Fox	PG	$44,392,039	5,265,960	Adventure
+16	Everest	2015-09-18	Universal	PG-13	$43,482,270	5,158,039	Adventure
+17	Max	2015-06-26	Warner Bros.	PG	$42,656,255	5,060,053	Adventure
+18	Pan	2015-10-09	Warner Bros.	PG	$35,057,457	4,158,654	Adventure
+19	The Hobbit: The Battle of t…	2014-12-17	Warner Bros.	PG-13	$34,517,771	4,094,634	Adventure
+20	A Walk in the Woods	2015-09-02	Broad Green Pictures	R	$29,499,394	3,499,334	Adventure
+21	In the Heart of the Sea	2015-12-11	Warner Bros.	PG-13	$23,063,385	2,735,870	Adventure
+22	Project Almanac	2015-01-30	Paramount Pictures	PG-13	$22,348,241	2,651,036	Adventure
+23	Shaun the Sheep	2015-08-05	Lionsgate	PG	$19,375,982	2,298,455	Adventure
+24	Seventh Son	2015-02-06	Universal	PG-13	$17,725,785	2,102,703	Adventure
+25	Strange Magic	2015-01-23	Walt Disney	PG	$12,429,583	1,474,446	Adventure
+26	Back to the Future	1985-07-03	Universal	PG	$12,127,168	1,438,572	Adventure
+27	Big Hero 6	2014-11-07	Walt Disney	PG	$11,320,792	1,342,917	Adventure
+28	Penguins of Madagascar	2014-11-26	20th Century Fox	PG	$9,322,689	1,105,894	Adventure
+29	Un gallo con muchos huevos	2015-09-04	Lionsgate	PG-13	$9,080,818	1,077,202	Adventure
+30	Interstellar	2014-11-05	Paramount Pictures	PG-13	$5,215,800	618,718	Adventure
+31	Roar	1981-01-01		PG	$2,110,050	250,302	Adventure
+32	Astérix: Le domaine des dieux	2015-02-20	Mongrel Media	Not Rated	$1,656,287	196,475	Adventure
+33	The Ghouls	2015-12-18	China Lion Film D…	Not Rated	$1,121,896	133,083	Adventure
+34	Alexander and the Terrible,…	2014-10-10	Walt Disney	PG	$921,486	109,310	Adventure
+35	The Revenant	2015-12-25	20th Century Fox	R	$872,519	103,502	Adventure
+36	The Polar Express	2004-11-10	Warner Bros.	G	$846,602	100,427	Adventure
+37	The Book of Life	2014-10-17	20th Century Fox	PG	$829,187	98,361	Adventure
+38	Song of the Sea	2014-12-19	GKIDS	PG	$791,679	93,912	Adventure
+39	Kahlil Gibran's The Prophet	2015-08-07	GKIDS	PG	$340,536	40,395	Adventure
+40	Himalaya	2015-12-18	CJ Entertainment	Not Rated	$256,901	30,474	Adventure
+41	The Boxtrolls	2014-09-26	Focus Features	PG	$218,634	25,935	Adventure
+42	Lang Tu Teng	2015-09-11	Sony Pictures	PG-13	$212,616	25,221	Adventure
+43	The Young and Prodigious T.…	2015-07-31	Weinstein Co.	PG	$176,847	20,978	Adventure
+44	The Taking of Tiger Mountain	2015-01-02	Well Go USA	Not Rated	$172,343	20,444	Adventure
+45	Theeb	2015-11-06	Film Movement	Not Rated	$164,704	19,537	Adventure
+46	Hell & Back	2015-10-02	Freestyle Releasing	R	$157,768	18,715	Adventure
+47	O Menino e o Mundo	2015-12-11	GKIDS	PG	$17,580	2,085	Adventure
+48	Trash	2015-10-09	Focus Features	R	$17,484	2,074	Adventure
+49	Le roi et l'oiseau	2014-11-21	Rialto Pictures	Not Rated	$16,396	1,944	Adventure
+50	Patch Town	2015-06-05	Kino Lorber	Not Rated	$584	69	Adventure
